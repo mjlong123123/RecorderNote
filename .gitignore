@@ -45,3 +45,7 @@ bin/classes/com/android/recordernote/activity/BaseActivity.class
 *.class
 *.o
 *.d
+bin
+gen
+.classpath
+org.eclipse.jdt.core.prefs
