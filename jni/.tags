@@ -1,0 +1,1955 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A1	speex/libspeex/math_approx.h	156;"	d
+A2	speex/libspeex/math_approx.h	157;"	d
+A3	speex/libspeex/math_approx.h	158;"	d
+ABS	speex/libspeex/arch.h	81;"	d
+ABS16	speex/libspeex/arch.h	82;"	d
+ABS32	speex/libspeex/arch.h	85;"	d
+ADD16	speex/libspeex/arch.h	180;"	d
+ADD16	speex/libspeex/fixed_debug.h	173;"	d
+ADD16	speex/libspeex/fixed_generic.h	61;"	d
+ADD32	speex/libspeex/arch.h	182;"	d
+ADD32	speex/libspeex/fixed_debug.h	205;"	d
+ADD32	speex/libspeex/fixed_generic.h	63;"	d
+ADD64	speex/libspeex/fixed_debug.h	236;"	d
+ALIGN	speex/libspeex/stack_alloc.h	91;"	d
+ALIGN	speex/libspeex/stack_alloc.h	97;"	d
+ALLOC	speex/libspeex/stack_alloc.h	105;"	d
+ALLOC	speex/libspeex/stack_alloc.h	108;"	d
+ALLOC	speex/libspeex/stack_alloc.h	111;"	d
+ALLPASS_ORDER	speex/libspeex/scal.c	55;"	d	file:
+AMP_SCALE	speex/libspeex/preprocess.c	76;"	d	file:
+AMP_SCALE_1	speex/libspeex/preprocess.c	77;"	d	file:
+ANGLE2X	speex/libspeex/lsp.c	104;"	d	file:
+ANGLE2X	speex/libspeex/lsp.c	120;"	d	file:
+APP_STL	Application.mk	/^APP_STL:=gnustl_static/;"	m
+APP_STL	Application.mk	/^APP_STL:=stlport_static$/;"	m
+ARCH_H	speex/libspeex/arch.h	36;"	d
+BITS_H	speex/include/speex/speex_bits.h	37;"	d
+BITS_PER_CHAR	speex/libspeex/arch.h	221;"	d
+BITS_PER_CHAR	speex/libspeex/arch.h	227;"	d
+BYTES_PER_CHAR	speex/libspeex/arch.h	220;"	d
+BYTES_PER_CHAR	speex/libspeex/arch.h	226;"	d
+C	speex/libspeex/mdf.c	/^   int C;                    \/** Number of input channels (microphones) *\/$/;"	m	struct:SpeexEchoState_	file:
+C0	speex/libspeex/math_approx.h	137;"	d
+C1	speex/libspeex/math_approx.h	138;"	d
+C1	speex/libspeex/math_approx.h	309;"	d
+C2	speex/libspeex/math_approx.h	139;"	d
+C2	speex/libspeex/math_approx.h	310;"	d
+C3	speex/libspeex/math_approx.h	140;"	d
+C3	speex/libspeex/math_approx.h	311;"	d
+C4	speex/libspeex/math_approx.h	312;"	d
+CAT_PREFIX	speex/include/speex/speex_resampler.h	55;"	d
+CAT_PREFIX2	speex/include/speex/speex_resampler.h	54;"	d
+CB_SEARCH_H	speex/libspeex/cb_search.h	36;"	d
+CHECK_OVERFLOW_OP	speex/libspeex/_kiss_fft_guts.h	102;"	d
+CHECK_OVERFLOW_OP	speex/libspeex/_kiss_fft_guts.h	56;"	d
+COMPATIBILITY_HACK	speex/libspeex/stereo.c	70;"	d	file:
+COMPATIBILITY_HACK	speex/libspeex/stereo.c	72;"	d	file:
+C_ADD	speex/libspeex/_kiss_fft_guts.h	105;"	d
+C_ADDTO	speex/libspeex/_kiss_fft_guts.h	117;"	d
+C_FIXDIV	speex/libspeex/_kiss_fft_guts.h	78;"	d
+C_FIXDIV	speex/libspeex/_kiss_fft_guts.h	95;"	d
+C_MUL	speex/libspeex/_kiss_fft_guts.h	67;"	d
+C_MUL	speex/libspeex/_kiss_fft_guts.h	89;"	d
+C_MUL4	speex/libspeex/_kiss_fft_guts.h	71;"	d
+C_MUL4	speex/libspeex/_kiss_fft_guts.h	93;"	d
+C_MULBYSCALAR	speex/libspeex/_kiss_fft_guts.h	82;"	d
+C_MULBYSCALAR	speex/libspeex/_kiss_fft_guts.h	96;"	d
+C_SUB	speex/libspeex/_kiss_fft_guts.h	111;"	d
+C_SUBFROM	speex/libspeex/_kiss_fft_guts.h	124;"	d
+CustomSpeex	customspeex.cpp	/^CustomSpeex::CustomSpeex()$/;"	f	class:CustomSpeex
+CustomSpeex	customspeex.h	/^class CustomSpeex$/;"	c
+D0	speex/libspeex/math_approx.h	245;"	d
+D1	speex/libspeex/math_approx.h	246;"	d
+D2	speex/libspeex/math_approx.h	247;"	d
+D3	speex/libspeex/math_approx.h	248;"	d
+DIV32	speex/libspeex/arch.h	210;"	d
+DIV32	speex/libspeex/fixed_debug.h	464;"	d
+DIV32	speex/libspeex/fixed_generic.h	103;"	d
+DIV32_16	speex/libspeex/arch.h	208;"	d
+DIV32_16	speex/libspeex/fixed_arm4.h	/^static inline short DIV32_16(int a, int b)$/;"	f
+DIV32_16	speex/libspeex/fixed_arm4.h	64;"	d
+DIV32_16	speex/libspeex/fixed_arm5e.h	/^static inline short DIV32_16(int a, int b)$/;"	f
+DIV32_16	speex/libspeex/fixed_arm5e.h	92;"	d
+DIV32_16	speex/libspeex/fixed_bfin.h	/^static inline spx_word16_t DIV32_16(spx_word32_t a, spx_word16_t b)$/;"	f
+DIV32_16	speex/libspeex/fixed_bfin.h	64;"	d
+DIV32_16	speex/libspeex/fixed_debug.h	437;"	d
+DIV32_16	speex/libspeex/fixed_generic.h	101;"	d
+DIV32_16_Q15	speex/libspeex/preprocess.c	/^static inline spx_word16_t DIV32_16_Q15(spx_word32_t a, spx_word32_t b)$/;"	f	file:
+DIV32_16_Q15	speex/libspeex/preprocess.c	165;"	d	file:
+DIV32_16_Q8	speex/libspeex/preprocess.c	/^static inline spx_word16_t DIV32_16_Q8(spx_word32_t a, spx_word32_t b)$/;"	f	file:
+DIV32_16_Q8	speex/libspeex/preprocess.c	164;"	d	file:
+DIVSCALAR	speex/libspeex/_kiss_fft_guts.h	75;"	d
+Davg1	speex/libspeex/mdf.c	/^   spx_word32_t  Davg1;  \/* 1st recursive average of the residual power difference *\/$/;"	m	struct:SpeexEchoState_	file:
+Davg2	speex/libspeex/mdf.c	/^   spx_word32_t  Davg2;  \/* 2nd recursive average of the residual power difference *\/$/;"	m	struct:SpeexEchoState_	file:
+DecState	speex/libspeex/nb_celp.h	/^typedef struct DecState {$/;"	s
+DecState	speex/libspeex/nb_celp.h	/^} DecState;$/;"	t	typeref:struct:DecState
+Dvar1	speex/libspeex/mdf.c	/^   spx_float_t   Dvar1;  \/* Estimated variance of 1st estimator *\/$/;"	m	struct:SpeexEchoState_	file:
+Dvar2	speex/libspeex/mdf.c	/^   spx_float_t   Dvar2;  \/* Estimated variance of 2nd estimator *\/$/;"	m	struct:SpeexEchoState_	file:
+E	speex/libspeex/mdf.c	/^   spx_word16_t *E;$/;"	m	struct:SpeexEchoState_	file:
+ECHO_SUPPRESS_ACTIVE_DEFAULT	speex/libspeex/preprocess.c	85;"	d	file:
+ECHO_SUPPRESS_DEFAULT	speex/libspeex/preprocess.c	84;"	d	file:
+ENDIAN_SWITCH	speex/libspeex/speex_header.c	63;"	d	file:
+EXPIN_SCALING	speex/libspeex/preprocess.c	155;"	d	file:
+EXPIN_SCALING	speex/libspeex/preprocess.c	174;"	d	file:
+EXPIN_SCALING_1	speex/libspeex/preprocess.c	156;"	d	file:
+EXPIN_SCALING_1	speex/libspeex/preprocess.c	175;"	d	file:
+EXPIN_SHIFT	speex/libspeex/preprocess.c	157;"	d	file:
+EXPOUT_SCALING_1	speex/libspeex/preprocess.c	158;"	d	file:
+EXPOUT_SCALING_1	speex/libspeex/preprocess.c	176;"	d	file:
+EXTEND32	speex/libspeex/arch.h	164;"	d
+EXTEND32	speex/libspeex/fixed_debug.h	90;"	d
+EXTEND32	speex/libspeex/fixed_generic.h	44;"	d
+EXTRACT16	speex/libspeex/arch.h	163;"	d
+EXTRACT16	speex/libspeex/fixed_debug.h	77;"	d
+EXTRACT16	speex/libspeex/fixed_generic.h	43;"	d
+EXTRA_BUFFER	speex/libspeex/nb_celp.c	103;"	d	file:
+EXTRA_BUFFER	speex/libspeex/nb_celp.c	105;"	d	file:
+Eh	speex/libspeex/mdf.c	/^   spx_word32_t *Eh;$/;"	m	struct:SpeexEchoState_	file:
+EncState	speex/libspeex/nb_celp.h	/^typedef struct EncState {$/;"	s
+EncState	speex/libspeex/nb_celp.h	/^} EncState;$/;"	t	typeref:struct:EncState
+FFTWRAP_H	speex/libspeex/fftwrap.h	36;"	d
+FILTERBANK_H	speex/libspeex/filterbank.h	35;"	d
+FILTERS_H	speex/libspeex/filters.h	36;"	d
+FIXED_ARM4_H	speex/libspeex/fixed_arm4.h	36;"	d
+FIXED_ARM5E_H	speex/libspeex/fixed_arm5e.h	36;"	d
+FIXED_BFIN_H	speex/libspeex/fixed_bfin.h	37;"	d
+FIXED_DEBUG_H	speex/libspeex/fixed_debug.h	36;"	d
+FIXED_GENERIC_H	speex/libspeex/fixed_generic.h	36;"	d
+FIXED_STACK_ALLOC	speex/libspeex/resample.c	104;"	d	file:
+FIXED_STACK_ALLOC	speex/libspeex/resample.c	106;"	d	file:
+FLOAT_ADD	speex/libspeex/pseudofloat.h	/^static inline spx_float_t FLOAT_ADD(spx_float_t a, spx_float_t b)$/;"	f
+FLOAT_ADD	speex/libspeex/pseudofloat.h	366;"	d
+FLOAT_AMULT	speex/libspeex/pseudofloat.h	/^static inline spx_float_t FLOAT_AMULT(spx_float_t a, spx_float_t b)$/;"	f
+FLOAT_AMULT	speex/libspeex/pseudofloat.h	361;"	d
+FLOAT_DIV32	speex/libspeex/pseudofloat.h	/^static inline spx_float_t FLOAT_DIV32(spx_word32_t a, spx_word32_t b)$/;"	f
+FLOAT_DIV32	speex/libspeex/pseudofloat.h	363;"	d
+FLOAT_DIV32_FLOAT	speex/libspeex/pseudofloat.h	/^static inline spx_float_t FLOAT_DIV32_FLOAT(spx_word32_t a, spx_float_t b)$/;"	f
+FLOAT_DIV32_FLOAT	speex/libspeex/pseudofloat.h	369;"	d
+FLOAT_DIVU	speex/libspeex/pseudofloat.h	/^static inline spx_float_t FLOAT_DIVU(spx_float_t a, spx_float_t b)$/;"	f
+FLOAT_DIVU	speex/libspeex/pseudofloat.h	374;"	d
+FLOAT_EXTRACT16	speex/libspeex/pseudofloat.h	/^static inline spx_int16_t FLOAT_EXTRACT16(spx_float_t a)$/;"	f
+FLOAT_EXTRACT16	speex/libspeex/pseudofloat.h	364;"	d
+FLOAT_EXTRACT32	speex/libspeex/pseudofloat.h	/^static inline spx_int32_t FLOAT_EXTRACT32(spx_float_t a)$/;"	f
+FLOAT_EXTRACT32	speex/libspeex/pseudofloat.h	365;"	d
+FLOAT_GT	speex/libspeex/pseudofloat.h	/^static inline int FLOAT_GT(spx_float_t a, spx_float_t b)$/;"	f
+FLOAT_GT	speex/libspeex/pseudofloat.h	373;"	d
+FLOAT_HALF	speex/libspeex/pseudofloat.h	/^static const spx_float_t FLOAT_HALF = {16384,-15};$/;"	v
+FLOAT_HALF	speex/libspeex/pseudofloat.h	358;"	d
+FLOAT_LT	speex/libspeex/pseudofloat.h	/^static inline int FLOAT_LT(spx_float_t a, spx_float_t b)$/;"	f
+FLOAT_LT	speex/libspeex/pseudofloat.h	372;"	d
+FLOAT_MUL32	speex/libspeex/pseudofloat.h	/^static inline spx_int32_t FLOAT_MUL32(spx_float_t a, spx_word32_t b)$/;"	f
+FLOAT_MUL32	speex/libspeex/pseudofloat.h	362;"	d
+FLOAT_MUL32U	speex/libspeex/pseudofloat.h	/^static inline spx_float_t FLOAT_MUL32U(spx_word32_t a, spx_word32_t b)$/;"	f
+FLOAT_MUL32U	speex/libspeex/pseudofloat.h	370;"	d
+FLOAT_MULT	speex/libspeex/pseudofloat.h	/^static inline spx_float_t FLOAT_MULT(spx_float_t a, spx_float_t b)$/;"	f
+FLOAT_MULT	speex/libspeex/pseudofloat.h	360;"	d
+FLOAT_ONE	speex/libspeex/pseudofloat.h	/^static const spx_float_t FLOAT_ONE = {16384,-14};$/;"	v
+FLOAT_ONE	speex/libspeex/pseudofloat.h	357;"	d
+FLOAT_SHL	speex/libspeex/pseudofloat.h	/^static inline spx_float_t FLOAT_SHL(spx_float_t a, int b)$/;"	f
+FLOAT_SHL	speex/libspeex/pseudofloat.h	371;"	d
+FLOAT_SQRT	speex/libspeex/pseudofloat.h	/^static inline spx_float_t FLOAT_SQRT(spx_float_t a)$/;"	f
+FLOAT_SQRT	speex/libspeex/pseudofloat.h	375;"	d
+FLOAT_SUB	speex/libspeex/pseudofloat.h	/^static inline spx_float_t FLOAT_SUB(spx_float_t a, spx_float_t b)$/;"	f
+FLOAT_SUB	speex/libspeex/pseudofloat.h	367;"	d
+FLOAT_ZERO	speex/libspeex/pseudofloat.h	/^static const spx_float_t FLOAT_ZERO = {0,0};$/;"	v
+FLOAT_ZERO	speex/libspeex/pseudofloat.h	356;"	d
+FRACBITS	speex/libspeex/_kiss_fft_guts.h	49;"	d
+FRAC_SCALING	speex/libspeex/preprocess.c	151;"	d	file:
+FRAC_SCALING	speex/libspeex/preprocess.c	169;"	d	file:
+FRAC_SCALING_1	speex/libspeex/preprocess.c	152;"	d	file:
+FRAC_SCALING_1	speex/libspeex/preprocess.c	170;"	d	file:
+FRAC_SHIFT	speex/libspeex/preprocess.c	153;"	d	file:
+FRAC_SHIFT	speex/libspeex/preprocess.c	171;"	d	file:
+FRAME_SIZE	speex/libspeex/testenc.c	14;"	d	file:
+FRAME_SIZE	speex/libspeex/testenc_uwb.c	14;"	d	file:
+FRAME_SIZE	speex/libspeex/testenc_wb.c	14;"	d	file:
+FREQ_SCALE	speex/libspeex/lsp.c	101;"	d	file:
+FREQ_SCALE	speex/libspeex/lsp.c	119;"	d	file:
+FilterBank	speex/libspeex/filterbank.h	/^} FilterBank;$/;"	t	typeref:struct:__anon2
+FuncDef	speex/libspeex/resample.c	/^struct FuncDef {$/;"	s	file:
+GAIN_SCALING	speex/libspeex/arch.h	104;"	d
+GAIN_SCALING	speex/libspeex/arch.h	149;"	d
+GAIN_SCALING_1	speex/libspeex/arch.h	105;"	d
+GAIN_SCALING_1	speex/libspeex/arch.h	150;"	d
+GAIN_SHIFT	speex/libspeex/arch.h	110;"	d
+GAMMA_SCALING	speex/libspeex/arch.h	103;"	d
+GAMMA_SCALING	speex/libspeex/arch.h	148;"	d
+GE32	speex/libspeex/jitter.c	72;"	d	file:
+GT32	speex/libspeex/jitter.c	71;"	d	file:
+HALF_OF	speex/libspeex/_kiss_fft_guts.h	135;"	d
+HALF_OF	speex/libspeex/_kiss_fft_guts.h	139;"	d
+HALF_OF	speex/libspeex/_kiss_fft_guts.h	143;"	d
+HIGHPASS_INPUT	speex/libspeex/filters.h	54;"	d
+HIGHPASS_IRS	speex/libspeex/filters.h	56;"	d
+HIGHPASS_NARROWBAND	speex/libspeex/filters.h	52;"	d
+HIGHPASS_OUTPUT	speex/libspeex/filters.h	55;"	d
+HIGHPASS_WIDEBAND	speex/libspeex/filters.h	53;"	d
+HTOLS	speex/libspeex/bits.c	134;"	d	file:
+IMAX	speex/libspeex/resample.c	91;"	d	file:
+IMIN	speex/libspeex/resample.c	92;"	d	file:
+JITTER_BUFFER_BAD_ARGUMENT	speex/include/speex/speex_jitter.h	78;"	d
+JITTER_BUFFER_GET_AVAILABLE_COUNT	speex/include/speex/speex_jitter.h	88;"	d
+JITTER_BUFFER_GET_AVALIABLE_COUNT	speex/include/speex/speex_jitter.h	90;"	d
+JITTER_BUFFER_GET_CONCEALMENT_SIZE	speex/include/speex/speex_jitter.h	105;"	d
+JITTER_BUFFER_GET_DELAY_STEP	speex/include/speex/speex_jitter.h	101;"	d
+JITTER_BUFFER_GET_DESTROY_CALLBACK	speex/include/speex/speex_jitter.h	96;"	d
+JITTER_BUFFER_GET_LATE_COST	speex/include/speex/speex_jitter.h	114;"	d
+JITTER_BUFFER_GET_MARGIN	speex/include/speex/speex_jitter.h	84;"	d
+JITTER_BUFFER_GET_MAX_LATE_RATE	speex/include/speex/speex_jitter.h	110;"	d
+JITTER_BUFFER_INSERTION	speex/include/speex/speex_jitter.h	74;"	d
+JITTER_BUFFER_INTERNAL_ERROR	speex/include/speex/speex_jitter.h	76;"	d
+JITTER_BUFFER_MISSING	speex/include/speex/speex_jitter.h	72;"	d
+JITTER_BUFFER_OK	speex/include/speex/speex_jitter.h	70;"	d
+JITTER_BUFFER_SET_CONCEALMENT_SIZE	speex/include/speex/speex_jitter.h	104;"	d
+JITTER_BUFFER_SET_DELAY_STEP	speex/include/speex/speex_jitter.h	99;"	d
+JITTER_BUFFER_SET_DESTROY_CALLBACK	speex/include/speex/speex_jitter.h	94;"	d
+JITTER_BUFFER_SET_LATE_COST	speex/include/speex/speex_jitter.h	113;"	d
+JITTER_BUFFER_SET_MARGIN	speex/include/speex/speex_jitter.h	82;"	d
+JITTER_BUFFER_SET_MAX_LATE_RATE	speex/include/speex/speex_jitter.h	109;"	d
+Java_com_android_recordernote_jni_Speex_decode	com_android_recordernote_jni_Speex.c	/^JNIEXPORT jint JNICALL Java_com_android_recordernote_jni_Speex_decode$/;"	f
+Java_com_android_recordernote_jni_Speex_encode	com_android_recordernote_jni_Speex.c	/^JNIEXPORT jint JNICALL Java_com_android_recordernote_jni_Speex_encode$/;"	f
+Java_com_android_recordernote_jni_Speex_init	com_android_recordernote_jni_Speex.c	/^JNIEXPORT void JNICALL Java_com_android_recordernote_jni_Speex_init$/;"	f
+Java_com_android_recordernote_jni_Speex_release	com_android_recordernote_jni_Speex.c	/^JNIEXPORT void JNICALL Java_com_android_recordernote_jni_Speex_release$/;"	f
+JitterBuffer	speex/include/speex/speex_jitter.h	/^typedef struct JitterBuffer_ JitterBuffer;$/;"	t	typeref:struct:JitterBuffer_
+JitterBufferPacket	speex/include/speex/speex_jitter.h	/^typedef struct _JitterBufferPacket JitterBufferPacket;$/;"	t	typeref:struct:_JitterBufferPacket
+JitterBuffer_	speex/libspeex/jitter.c	/^struct JitterBuffer_ {$/;"	s	file:
+K	speex/libspeex/mdf.c	/^   int K;                    \/** Number of output channels (loudspeakers) *\/$/;"	m	struct:SpeexEchoState_	file:
+K1	speex/libspeex/math_approx.h	183;"	d
+K2	speex/libspeex/math_approx.h	184;"	d
+K3	speex/libspeex/math_approx.h	185;"	d
+K4	speex/libspeex/math_approx.h	186;"	d
+KAISER10	speex/libspeex/resample.c	199;"	d	file:
+KAISER12	speex/libspeex/resample.c	195;"	d	file:
+KAISER6	speex/libspeex/resample.c	203;"	d	file:
+KAISER8	speex/libspeex/resample.c	201;"	d	file:
+KISS_FFT_COS	speex/libspeex/_kiss_fft_guts.h	133;"	d
+KISS_FFT_COS	speex/libspeex/_kiss_fft_guts.h	137;"	d
+KISS_FFT_COS	speex/libspeex/_kiss_fft_guts.h	141;"	d
+KISS_FFT_H	speex/libspeex/kiss_fft.h	2;"	d
+KISS_FFT_MALLOC	speex/libspeex/kiss_fft.h	28;"	d
+KISS_FFT_MALLOC	speex/libspeex/kiss_fft.h	30;"	d
+KISS_FFT_SIN	speex/libspeex/_kiss_fft_guts.h	134;"	d
+KISS_FFT_SIN	speex/libspeex/_kiss_fft_guts.h	138;"	d
+KISS_FFT_SIN	speex/libspeex/_kiss_fft_guts.h	142;"	d
+KISS_FTR_H	speex/libspeex/kiss_fftr.h	2;"	d
+L1	speex/libspeex/math_approx.h	203;"	d
+L2	speex/libspeex/math_approx.h	204;"	d
+L3	speex/libspeex/math_approx.h	205;"	d
+L4	speex/libspeex/math_approx.h	206;"	d
+LE32	speex/libspeex/jitter.c	74;"	d	file:
+LOCAL_CFLAGS	Android.mk	/^LOCAL_CFLAGS = -DFIXED_POINT -DUSE_KISS_FFT -DEXPORT="" -UHAVE_CONFIG_H$/;"	m
+LOCAL_C_INCLUDES	Android.mk	/^LOCAL_C_INCLUDES := $(LOCAL_PATH)\/speex\/include$/;"	m
+LOCAL_C_INCLUDES	Android.mk	/^LOCAL_C_INCLUDES:= $(LOCAL_PATH)\/speex\/include$/;"	m
+LOCAL_EXPORT_C_INCLUDES	Android.mk	/^LOCAL_EXPORT_C_INCLUDES:=$(LOCAL_C_INCLUDES)$/;"	m
+LOCAL_MODULE	Android.mk	/^LOCAL_MODULE    := speex-jni$/;"	m
+LOCAL_MODULE	Android.mk	/^LOCAL_MODULE := libspeex$/;"	m
+LOCAL_PATH	Android.mk	/^LOCAL_PATH:= $(call my-dir)$/;"	m
+LOCAL_SRC_FILES	Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	Android.mk	/^LOCAL_SRC_FILES := com_android_recordernote_jni_Speex.c$/;"	m
+LOCAL_STATIC_LIBRARIES	Android.mk	/^LOCAL_STATIC_LIBRARIES :=libspeex$/;"	m
+LOG2_BITS_PER_CHAR	speex/libspeex/arch.h	222;"	d
+LOG2_BITS_PER_CHAR	speex/libspeex/arch.h	228;"	d
+LOG_TAG	customspeex.cpp	/^const char* const LOG_TAG = "SPEEX_LOG";$/;"	v
+LOUDNESS_EXP	speex/libspeex/preprocess.c	75;"	d	file:
+LPC_H	speex/libspeex/lpc.h	36;"	d
+LPC_SCALING	speex/libspeex/arch.h	100;"	d
+LPC_SCALING	speex/libspeex/arch.h	145;"	d
+LPC_SHIFT	speex/libspeex/arch.h	107;"	d
+LSP_DELTA1	speex/libspeex/nb_celp.c	86;"	d	file:
+LSP_DELTA1	speex/libspeex/nb_celp.c	97;"	d	file:
+LSP_DELTA1	speex/libspeex/sb_celp.c	123;"	d	file:
+LSP_DELTA1	speex/libspeex/sb_celp.c	138;"	d	file:
+LSP_DELTA2	speex/libspeex/nb_celp.c	87;"	d	file:
+LSP_DELTA2	speex/libspeex/nb_celp.c	98;"	d	file:
+LSP_DELTA2	speex/libspeex/sb_celp.c	124;"	d	file:
+LSP_DELTA2	speex/libspeex/sb_celp.c	139;"	d	file:
+LSP_DIV_1024	speex/libspeex/quant_lsp.c	56;"	d	file:
+LSP_DIV_1024	speex/libspeex/quant_lsp.c	66;"	d	file:
+LSP_DIV_256	speex/libspeex/quant_lsp.c	54;"	d	file:
+LSP_DIV_256	speex/libspeex/quant_lsp.c	64;"	d	file:
+LSP_DIV_512	speex/libspeex/quant_lsp.c	55;"	d	file:
+LSP_DIV_512	speex/libspeex/quant_lsp.c	65;"	d	file:
+LSP_LINEAR	speex/libspeex/quant_lsp.c	52;"	d	file:
+LSP_LINEAR	speex/libspeex/quant_lsp.c	61;"	d	file:
+LSP_LINEAR_HIGH	speex/libspeex/quant_lsp.c	53;"	d	file:
+LSP_LINEAR_HIGH	speex/libspeex/quant_lsp.c	62;"	d	file:
+LSP_MARGIN	speex/libspeex/nb_celp.c	85;"	d	file:
+LSP_MARGIN	speex/libspeex/nb_celp.c	96;"	d	file:
+LSP_MARGIN	speex/libspeex/sb_celp.c	122;"	d	file:
+LSP_MARGIN	speex/libspeex/sb_celp.c	137;"	d	file:
+LSP_PI	speex/libspeex/quant_lsp.c	57;"	d	file:
+LSP_PI	speex/libspeex/quant_lsp.c	67;"	d	file:
+LSP_SCALE	speex/libspeex/quant_lsp.c	63;"	d	file:
+LSP_SCALING	speex/libspeex/arch.h	102;"	d
+LSP_SCALING	speex/libspeex/arch.h	147;"	d
+LSP_SHIFT	speex/libspeex/arch.h	108;"	d
+LT32	speex/libspeex/jitter.c	73;"	d	file:
+M	speex/libspeex/mdf.c	/^   int M;$/;"	m	struct:SpeexEchoState_	file:
+M1	speex/libspeex/math_approx.h	274;"	d
+M1	speex/libspeex/math_approx.h	284;"	d
+M2	speex/libspeex/math_approx.h	275;"	d
+M2	speex/libspeex/math_approx.h	285;"	d
+M3	speex/libspeex/math_approx.h	276;"	d
+M3	speex/libspeex/math_approx.h	286;"	d
+M4	speex/libspeex/math_approx.h	277;"	d
+M4	speex/libspeex/math_approx.h	287;"	d
+MAC16_16	speex/libspeex/arch.h	186;"	d
+MAC16_16	speex/libspeex/fixed_arm5e.h	/^static inline spx_word32_t MAC16_16(spx_word32_t a, spx_word16_t x, spx_word32_t y) {$/;"	f
+MAC16_16	speex/libspeex/fixed_arm5e.h	47;"	d
+MAC16_16	speex/libspeex/fixed_debug.h	268;"	d
+MAC16_16	speex/libspeex/fixed_generic.h	73;"	d
+MAC16_16_P13	speex/libspeex/arch.h	199;"	d
+MAC16_16_P13	speex/libspeex/fixed_debug.h	271;"	d
+MAC16_16_P13	speex/libspeex/fixed_generic.h	88;"	d
+MAC16_16_Q11	speex/libspeex/arch.h	197;"	d
+MAC16_16_Q11	speex/libspeex/fixed_debug.h	269;"	d
+MAC16_16_Q11	speex/libspeex/fixed_generic.h	86;"	d
+MAC16_16_Q13	speex/libspeex/arch.h	198;"	d
+MAC16_16_Q13	speex/libspeex/fixed_debug.h	270;"	d
+MAC16_16_Q13	speex/libspeex/fixed_generic.h	87;"	d
+MAC16_32_Q11	speex/libspeex/arch.h	194;"	d
+MAC16_32_Q11	speex/libspeex/fixed_arm5e.h	/^static inline spx_word32_t MAC16_32_Q11(spx_word32_t a, spx_word16_t x, spx_word32_t y) {$/;"	f
+MAC16_32_Q11	speex/libspeex/fixed_arm5e.h	83;"	d
+MAC16_32_Q11	speex/libspeex/fixed_debug.h	309;"	d
+MAC16_32_Q11	speex/libspeex/fixed_generic.h	79;"	d
+MAC16_32_Q14	speex/libspeex/fixed_bfin.h	/^static inline spx_word32_t MAC16_32_Q14(spx_word32_t c, spx_word16_t a, spx_word32_t b)$/;"	f
+MAC16_32_Q14	speex/libspeex/fixed_bfin.h	155;"	d
+MAC16_32_Q15	speex/libspeex/arch.h	195;"	d
+MAC16_32_Q15	speex/libspeex/fixed_arm5e.h	/^static inline spx_word32_t MAC16_32_Q15(spx_word32_t a, spx_word16_t x, spx_word32_t y) {$/;"	f
+MAC16_32_Q15	speex/libspeex/fixed_arm5e.h	65;"	d
+MAC16_32_Q15	speex/libspeex/fixed_bfin.h	/^static inline spx_word32_t MAC16_32_Q15(spx_word32_t c, spx_word16_t a, spx_word32_t b)$/;"	f
+MAC16_32_Q15	speex/libspeex/fixed_bfin.h	121;"	d
+MAC16_32_Q15	speex/libspeex/fixed_debug.h	315;"	d
+MAC16_32_Q15	speex/libspeex/fixed_generic.h	83;"	d
+MATH_APPROX_H	speex/libspeex/math_approx.h	36;"	d
+MAX	speex/libspeex/_kiss_fft_guts.h	16;"	d
+MAX16	speex/libspeex/arch.h	84;"	d
+MAX16	speex/libspeex/fixed_bfin.h	/^static inline spx_word16_t MAX16(spx_word16_t a, spx_word16_t b)$/;"	f
+MAX16	speex/libspeex/fixed_bfin.h	91;"	d
+MAX32	speex/libspeex/arch.h	87;"	d
+MAXFACTORS	speex/libspeex/_kiss_fft_guts.h	25;"	d
+MAX_BUFFERS	speex/libspeex/jitter.c	79;"	d	file:
+MAX_CHARS_PER_FRAME	speex/libspeex/bits.c	45;"	d	file:
+MAX_FFT_SIZE	speex/libspeex/fftwrap.c	42;"	d	file:
+MAX_IN_SAMPLES	speex/libspeex/speex.c	47;"	d	file:
+MAX_LSP_SIZE	speex/libspeex/quant_lsp.h	41;"	d
+MAX_TIMINGS	speex/libspeex/jitter.c	78;"	d	file:
+MIN	speex/libspeex/_kiss_fft_guts.h	15;"	d
+MIN	speex/libspeex/pseudofloat.h	63;"	d
+MIN16	speex/libspeex/arch.h	83;"	d
+MIN32	speex/libspeex/arch.h	86;"	d
+MIN_ENERGY	speex/libspeex/vbr.c	45;"	d	file:
+MIN_LEAK	speex/libspeex/mdf.c	/^static const spx_float_t MIN_LEAK = .005f;$/;"	v	file:
+MIN_LEAK	speex/libspeex/mdf.c	/^static const spx_float_t MIN_LEAK = {20972, -22};$/;"	v	file:
+MIPS_INC	speex/libspeex/fixed_debug.h	41;"	d
+MODES_H	speex/libspeex/modes.h	37;"	d
+MULT16_16	speex/libspeex/arch.h	185;"	d
+MULT16_16	speex/libspeex/fixed_arm5e.h	/^static inline spx_word32_t MULT16_16(spx_word16_t x, spx_word16_t y) {$/;"	f
+MULT16_16	speex/libspeex/fixed_arm5e.h	38;"	d
+MULT16_16	speex/libspeex/fixed_debug.h	253;"	d
+MULT16_16	speex/libspeex/fixed_generic.h	71;"	d
+MULT16_16_16	speex/libspeex/arch.h	184;"	d
+MULT16_16_16	speex/libspeex/fixed_debug.h	/^static inline short MULT16_16_16(int a, int b) $/;"	f
+MULT16_16_16	speex/libspeex/fixed_generic.h	68;"	d
+MULT16_16_P13	speex/libspeex/arch.h	205;"	d
+MULT16_16_P13	speex/libspeex/fixed_debug.h	/^static inline short MULT16_16_P13(int a, int b) $/;"	f
+MULT16_16_P13	speex/libspeex/fixed_generic.h	95;"	d
+MULT16_16_P14	speex/libspeex/arch.h	206;"	d
+MULT16_16_P14	speex/libspeex/fixed_debug.h	/^static inline short MULT16_16_P14(int a, int b) $/;"	f
+MULT16_16_P14	speex/libspeex/fixed_generic.h	96;"	d
+MULT16_16_P15	speex/libspeex/arch.h	204;"	d
+MULT16_16_P15	speex/libspeex/fixed_debug.h	/^static inline short MULT16_16_P15(int a, int b) $/;"	f
+MULT16_16_P15	speex/libspeex/fixed_generic.h	97;"	d
+MULT16_16_Q11_32	speex/libspeex/arch.h	200;"	d
+MULT16_16_Q11_32	speex/libspeex/fixed_debug.h	/^static inline int MULT16_16_Q11_32(int a, int b) $/;"	f
+MULT16_16_Q11_32	speex/libspeex/fixed_generic.h	90;"	d
+MULT16_16_Q13	speex/libspeex/arch.h	201;"	d
+MULT16_16_Q13	speex/libspeex/fixed_debug.h	/^static inline short MULT16_16_Q13(int a, int b) $/;"	f
+MULT16_16_Q13	speex/libspeex/fixed_generic.h	91;"	d
+MULT16_16_Q14	speex/libspeex/arch.h	202;"	d
+MULT16_16_Q14	speex/libspeex/fixed_debug.h	/^static inline short MULT16_16_Q14(int a, int b) $/;"	f
+MULT16_16_Q14	speex/libspeex/fixed_generic.h	92;"	d
+MULT16_16_Q15	speex/libspeex/arch.h	203;"	d
+MULT16_16_Q15	speex/libspeex/fixed_debug.h	/^static inline short MULT16_16_Q15(int a, int b) $/;"	f
+MULT16_16_Q15	speex/libspeex/fixed_generic.h	93;"	d
+MULT16_32_P15	speex/libspeex/arch.h	192;"	d
+MULT16_32_P15	speex/libspeex/fixed_debug.h	314;"	d
+MULT16_32_P15	speex/libspeex/fixed_generic.h	81;"	d
+MULT16_32_PX	speex/libspeex/fixed_debug.h	/^static inline int MULT16_32_PX(int a, long long b, int Q)$/;"	f
+MULT16_32_Q11	speex/libspeex/arch.h	188;"	d
+MULT16_32_Q11	speex/libspeex/fixed_arm5e.h	/^static inline spx_word32_t MULT16_32_Q11(spx_word16_t x, spx_word32_t y) {$/;"	f
+MULT16_32_Q11	speex/libspeex/fixed_arm5e.h	74;"	d
+MULT16_32_Q11	speex/libspeex/fixed_debug.h	308;"	d
+MULT16_32_Q11	speex/libspeex/fixed_generic.h	78;"	d
+MULT16_32_Q12	speex/libspeex/fixed_debug.h	310;"	d
+MULT16_32_Q12	speex/libspeex/fixed_generic.h	74;"	d
+MULT16_32_Q13	speex/libspeex/arch.h	189;"	d
+MULT16_32_Q13	speex/libspeex/fixed_debug.h	311;"	d
+MULT16_32_Q13	speex/libspeex/fixed_generic.h	75;"	d
+MULT16_32_Q14	speex/libspeex/arch.h	190;"	d
+MULT16_32_Q14	speex/libspeex/fixed_arm4.h	/^static inline spx_word32_t MULT16_32_Q14(spx_word16_t x, spx_word32_t y) {$/;"	f
+MULT16_32_Q14	speex/libspeex/fixed_arm4.h	38;"	d
+MULT16_32_Q14	speex/libspeex/fixed_bfin.h	/^static inline spx_word32_t MULT16_32_Q14(spx_word16_t a, spx_word32_t b)$/;"	f
+MULT16_32_Q14	speex/libspeex/fixed_bfin.h	138;"	d
+MULT16_32_Q14	speex/libspeex/fixed_debug.h	312;"	d
+MULT16_32_Q14	speex/libspeex/fixed_generic.h	76;"	d
+MULT16_32_Q15	speex/libspeex/arch.h	191;"	d
+MULT16_32_Q15	speex/libspeex/fixed_arm4.h	/^static inline spx_word32_t MULT16_32_Q15(spx_word16_t x, spx_word32_t y) {$/;"	f
+MULT16_32_Q15	speex/libspeex/fixed_arm4.h	51;"	d
+MULT16_32_Q15	speex/libspeex/fixed_arm5e.h	/^static inline spx_word32_t MULT16_32_Q15(spx_word16_t x, spx_word32_t y) {$/;"	f
+MULT16_32_Q15	speex/libspeex/fixed_arm5e.h	56;"	d
+MULT16_32_Q15	speex/libspeex/fixed_bfin.h	/^static inline spx_word32_t MULT16_32_Q15(spx_word16_t a, spx_word32_t b)$/;"	f
+MULT16_32_Q15	speex/libspeex/fixed_bfin.h	105;"	d
+MULT16_32_Q15	speex/libspeex/fixed_debug.h	313;"	d
+MULT16_32_Q15	speex/libspeex/fixed_generic.h	82;"	d
+MULT16_32_QX	speex/libspeex/fixed_debug.h	274;"	d
+MUL_16_32_R15	speex/libspeex/fixed_generic.h	99;"	d
+M_PI	speex/libspeex/lsp.c	92;"	d	file:
+M_PI	speex/libspeex/math_approx.h	306;"	d
+M_PI	speex/libspeex/mdf.c	80;"	d	file:
+M_PI	speex/libspeex/nb_celp.c	58;"	d	file:
+M_PI	speex/libspeex/preprocess.c	72;"	d	file:
+M_PI	speex/libspeex/quant_lsp.c	41;"	d	file:
+M_PI	speex/libspeex/resample.c	82;"	d	file:
+M_PI	speex/libspeex/sb_celp.c	108;"	d	file:
+N	speex/libspeex/fftwrap.c	/^   int N;$/;"	m	struct:kiss_config	file:
+N	speex/libspeex/fftwrap.c	/^  int N;$/;"	m	struct:fftw_config	file:
+N	speex/libspeex/fftwrap.c	/^  int N;$/;"	m	struct:mkl_config	file:
+NB_BANDS	speex/libspeex/preprocess.c	79;"	d	file:
+NB_CDBK_SIZE	speex/libspeex/quant_lsp.h	43;"	d
+NB_CDBK_SIZE_HIGH1	speex/libspeex/quant_lsp.h	46;"	d
+NB_CDBK_SIZE_HIGH2	speex/libspeex/quant_lsp.h	47;"	d
+NB_CDBK_SIZE_LOW1	speex/libspeex/quant_lsp.h	44;"	d
+NB_CDBK_SIZE_LOW2	speex/libspeex/quant_lsp.h	45;"	d
+NB_CELP_H	speex/libspeex/nb_celp.h	37;"	d
+NB_DEC_STACK	speex/libspeex/nb_celp.c	74;"	d	file:
+NB_ENC_STACK	speex/libspeex/nb_celp.c	70;"	d	file:
+NB_SUBMODES	speex/libspeex/modes.h	43;"	d
+NB_SUBMODE_BITS	speex/libspeex/modes.h	44;"	d
+NEG16	speex/libspeex/arch.h	161;"	d
+NEG16	speex/libspeex/fixed_debug.h	/^static inline short NEG16(int x)$/;"	f
+NEG16	speex/libspeex/fixed_generic.h	41;"	d
+NEG32	speex/libspeex/arch.h	162;"	d
+NEG32	speex/libspeex/fixed_debug.h	/^static inline int NEG32(long long x)$/;"	f
+NEG32	speex/libspeex/fixed_generic.h	42;"	d
+NN	speex/libspeex/testdenoise.c	8;"	d	file:
+NN	speex/libspeex/testecho.c	14;"	d	file:
+NOISE_COMPAND_LEVELS	speex/libspeex/vorbis_psy.h	39;"	d
+NOISE_OVERCOMPENS	speex/libspeex/preprocess.c	717;"	d	file:
+NOISE_POW	speex/libspeex/vbr.c	46;"	d	file:
+NOISE_SHIFT	speex/libspeex/preprocess.c	160;"	d	file:
+NOISE_SHIFT	speex/libspeex/preprocess.c	172;"	d	file:
+NOISE_SUPPRESS_DEFAULT	speex/libspeex/preprocess.c	83;"	d	file:
+NORMALIZE_SCALEDOWN	speex/libspeex/mdf.c	85;"	d	file:
+NORMALIZE_SCALEUP	speex/libspeex/mdf.c	86;"	d	file:
+NULL	speex/libspeex/jitter.c	64;"	d	file:
+NULL	speex/libspeex/lsp.c	96;"	d	file:
+NULL	speex/libspeex/ltp.c	46;"	d	file:
+NULL	speex/libspeex/modes.c	50;"	d	file:
+NULL	speex/libspeex/modes_wb.c	52;"	d	file:
+NULL	speex/libspeex/nb_celp.c	62;"	d	file:
+NULL	speex/libspeex/preprocess.c	88;"	d	file:
+NULL	speex/libspeex/resample.c	95;"	d	file:
+NULL	speex/libspeex/sb_celp.c	51;"	d	file:
+NULL	speex/libspeex/speex.c	44;"	d	file:
+NULL	speex/libspeex/speex_header.c	44;"	d	file:
+OS_SUPPORT_H	speex/libspeex/os_support.h	35;"	d
+OVERRIDE_CHEB_POLY_EVA	speex/libspeex/lsp_bfin.h	36;"	d
+OVERRIDE_COMPUTE_IMPULSE_RESPONSE	speex/libspeex/filters_bfin.h	367;"	d
+OVERRIDE_COMPUTE_PITCH_ERROR	speex/libspeex/ltp_bfin.h	111;"	d
+OVERRIDE_COMPUTE_WEIGHTED_CODEBOOK	speex/libspeex/cb_search_bfin.h	36;"	d
+OVERRIDE_COMPUTE_WEIGHTED_CODEBOOK	speex/libspeex/cb_search_sse.h	53;"	d
+OVERRIDE_FILTER_MEM16	speex/libspeex/filters_bfin.h	84;"	d
+OVERRIDE_FILTER_MEM16	speex/libspeex/filters_sse.h	133;"	d
+OVERRIDE_FIR_MEM16	speex/libspeex/filters_bfin.h	354;"	d
+OVERRIDE_FIR_MEM16	speex/libspeex/filters_sse.h	329;"	d
+OVERRIDE_IIR_MEM16	speex/libspeex/filters_bfin.h	229;"	d
+OVERRIDE_IIR_MEM16	speex/libspeex/filters_sse.h	232;"	d
+OVERRIDE_INNER_PROD	speex/libspeex/ltp_arm4.h	35;"	d
+OVERRIDE_INNER_PROD	speex/libspeex/ltp_bfin.h	36;"	d
+OVERRIDE_INNER_PROD	speex/libspeex/ltp_sse.h	37;"	d
+OVERRIDE_INNER_PRODUCT_DOUBLE	speex/libspeex/resample_sse.h	76;"	d
+OVERRIDE_INNER_PRODUCT_SINGLE	speex/libspeex/resample_sse.h	39;"	d
+OVERRIDE_INTERPOLATE_PRODUCT_DOUBLE	speex/libspeex/resample_sse.h	99;"	d
+OVERRIDE_INTERPOLATE_PRODUCT_SINGLE	speex/libspeex/resample_sse.h	56;"	d
+OVERRIDE_LSP_QUANT	speex/libspeex/quant_lsp_bfin.h	36;"	d
+OVERRIDE_LSP_WEIGHT_QUANT	speex/libspeex/quant_lsp_bfin.h	97;"	d
+OVERRIDE_NORMALIZE16	speex/libspeex/filters_arm4.h	35;"	d
+OVERRIDE_NORMALIZE16	speex/libspeex/filters_bfin.h	35;"	d
+OVERRIDE_OPEN_LOOP_NBEST_PITCH	speex/libspeex/ltp_bfin.h	155;"	d
+OVERRIDE_PITCH_GAIN_SEARCH_3TAP_VQ	speex/libspeex/ltp_bfin.h	305;"	d
+OVERRIDE_PITCH_XCORR	speex/libspeex/ltp_arm4.h	87;"	d
+OVERRIDE_PITCH_XCORR	speex/libspeex/ltp_bfin.h	65;"	d
+OVERRIDE_PITCH_XCORR	speex/libspeex/ltp_sse.h	56;"	d
+OVERRIDE_SPEEX_AUTOCORR	speex/libspeex/lpc_bfin.h	36;"	d
+OVERRIDE_SPEEX_MOVE	speex/libspeex/misc_bfin.h	36;"	d
+OVERRIDE_TARGET_UPDATE	speex/libspeex/cb_search_bfin.h	87;"	d
+OVERRIDE_VQ_NBEST	speex/libspeex/vq_arm4.h	35;"	d
+OVERRIDE_VQ_NBEST	speex/libspeex/vq_bfin.h	36;"	d
+OVERRIDE_VQ_NBEST	speex/libspeex/vq_sse.h	35;"	d
+OVERRIDE_VQ_NBEST_SIGN	speex/libspeex/vq_sse.h	74;"	d
+PDIV32	speex/libspeex/arch.h	211;"	d
+PDIV32	speex/libspeex/fixed_debug.h	484;"	d
+PDIV32	speex/libspeex/fixed_generic.h	104;"	d
+PDIV32_16	speex/libspeex/arch.h	209;"	d
+PDIV32_16	speex/libspeex/fixed_bfin.h	/^static inline spx_word16_t PDIV32_16(spx_word32_t a, spx_word16_t b)$/;"	f
+PDIV32_16	speex/libspeex/fixed_bfin.h	39;"	d
+PDIV32_16	speex/libspeex/fixed_debug.h	485;"	d
+PDIV32_16	speex/libspeex/fixed_generic.h	102;"	d
+PHI	speex/libspeex/mdf.c	/^   spx_word32_t *PHI;    \/* scratch *\/$/;"	m	struct:SpeexEchoState_	file:
+PLAYBACK_DELAY	speex/libspeex/mdf.c	126;"	d	file:
+PSEUDOFLOAT	speex/libspeex/pseudofloat.h	/^static inline spx_float_t PSEUDOFLOAT(spx_int32_t x)$/;"	f
+PSEUDOFLOAT	speex/libspeex/pseudofloat.h	359;"	d
+PSEUDOFLOAT_H	speex/libspeex/pseudofloat.h	45;"	d
+PSHR	speex/libspeex/arch.h	175;"	d
+PSHR	speex/libspeex/fixed_generic.h	57;"	d
+PSHR16	speex/libspeex/arch.h	169;"	d
+PSHR16	speex/libspeex/fixed_debug.h	163;"	d
+PSHR16	speex/libspeex/fixed_generic.h	49;"	d
+PSHR32	speex/libspeex/arch.h	170;"	d
+PSHR32	speex/libspeex/fixed_debug.h	164;"	d
+PSHR32	speex/libspeex/fixed_generic.h	50;"	d
+PUSH	speex/libspeex/stack_alloc.h	93;"	d
+PUSH	speex/libspeex/stack_alloc.h	99;"	d
+P_BANDS	speex/libspeex/vorbis_psy.h	38;"	d
+Pey	speex/libspeex/mdf.c	/^   spx_float_t   Pey;$/;"	m	struct:SpeexEchoState_	file:
+Pyy	speex/libspeex/mdf.c	/^   spx_float_t   Pyy;$/;"	m	struct:SpeexEchoState_	file:
+Q15ONE	speex/libspeex/arch.h	144;"	d
+Q15ONE	speex/libspeex/arch.h	98;"	d
+Q15_ONE	speex/libspeex/arch.h	115;"	d
+Q15_ONE	speex/libspeex/arch.h	156;"	d
+QCONST16	speex/libspeex/arch.h	158;"	d
+QCONST16	speex/libspeex/fixed_debug.h	43;"	d
+QCONST16	speex/libspeex/fixed_generic.h	38;"	d
+QCONST32	speex/libspeex/arch.h	159;"	d
+QCONST32	speex/libspeex/fixed_debug.h	44;"	d
+QCONST32	speex/libspeex/fixed_generic.h	39;"	d
+QIMP	speex/libspeex/lsp.c	459;"	d	file:
+QMF_ORDER	speex/libspeex/sb_celp.c	143;"	d	file:
+QUANT_LSP_H	speex/libspeex/quant_lsp.h	36;"	d
+QualityMapping	speex/libspeex/resample.c	/^struct QualityMapping {$/;"	s	file:
+REALFLOAT	speex/libspeex/pseudofloat.h	368;"	d
+RESAMPLER_ERR_ALLOC_FAILED	speex/include/speex/speex_resampler.h	/^   RESAMPLER_ERR_ALLOC_FAILED    = 1,$/;"	e	enum:__anon1
+RESAMPLER_ERR_BAD_STATE	speex/include/speex/speex_resampler.h	/^   RESAMPLER_ERR_BAD_STATE       = 2,$/;"	e	enum:__anon1
+RESAMPLER_ERR_INVALID_ARG	speex/include/speex/speex_resampler.h	/^   RESAMPLER_ERR_INVALID_ARG     = 3,$/;"	e	enum:__anon1
+RESAMPLER_ERR_MAX_ERROR	speex/include/speex/speex_resampler.h	/^   RESAMPLER_ERR_MAX_ERROR$/;"	e	enum:__anon1
+RESAMPLER_ERR_PTR_OVERLAP	speex/include/speex/speex_resampler.h	/^   RESAMPLER_ERR_PTR_OVERLAP     = 4,$/;"	e	enum:__anon1
+RESAMPLER_ERR_SUCCESS	speex/include/speex/speex_resampler.h	/^   RESAMPLER_ERR_SUCCESS         = 0,$/;"	e	enum:__anon1
+ROUND_DOWN	speex/libspeex/jitter.c	76;"	d	file:
+RealSpeexStereoState	speex/libspeex/stereo.c	/^typedef struct RealSpeexStereoState {$/;"	s	file:
+RealSpeexStereoState	speex/libspeex/stereo.c	/^} RealSpeexStereoState;$/;"	t	typeref:struct:RealSpeexStereoState	file:
+Rf	speex/libspeex/mdf.c	/^   spx_word32_t *Rf;     \/* scratch *\/$/;"	m	struct:SpeexEchoState_	file:
+S	speex/libspeex/preprocess.c	/^   spx_word32_t *S;          \/**< Smoothed power spectrum *\/$/;"	m	struct:SpeexPreprocessState_	file:
+SAMPPROD	speex/libspeex/_kiss_fft_guts.h	50;"	d
+SAMP_MAX	speex/libspeex/_kiss_fft_guts.h	51;"	d
+SAMP_MIN	speex/libspeex/_kiss_fft_guts.h	53;"	d
+SATURATE	speex/libspeex/arch.h	178;"	d
+SATURATE	speex/libspeex/fixed_debug.h	/^static inline int SATURATE(int a, int b)$/;"	f
+SATURATE	speex/libspeex/fixed_generic.h	58;"	d
+SATURATE16	speex/libspeex/arch.h	172;"	d
+SATURATE16	speex/libspeex/fixed_debug.h	167;"	d
+SATURATE16	speex/libspeex/fixed_generic.h	52;"	d
+SATURATE32	speex/libspeex/arch.h	173;"	d
+SATURATE32	speex/libspeex/fixed_debug.h	168;"	d
+SATURATE32	speex/libspeex/fixed_generic.h	53;"	d
+SBDecState	speex/libspeex/sb_celp.h	/^typedef struct SBDecState {$/;"	s
+SBDecState	speex/libspeex/sb_celp.h	/^} SBDecState;$/;"	t	typeref:struct:SBDecState
+SBEncState	speex/libspeex/sb_celp.h	/^typedef struct SBEncState {$/;"	s
+SBEncState	speex/libspeex/sb_celp.h	/^} SBEncState;$/;"	t	typeref:struct:SBEncState
+SB_CELP_H	speex/libspeex/sb_celp.h	37;"	d
+SB_DEC_STACK	speex/libspeex/sb_celp.c	61;"	d	file:
+SB_ENC_STACK	speex/libspeex/sb_celp.c	57;"	d	file:
+SB_SUBMODES	speex/libspeex/modes.h	46;"	d
+SB_SUBMODE_BITS	speex/libspeex/modes.h	47;"	d
+SHL	speex/libspeex/arch.h	177;"	d
+SHL	speex/libspeex/fixed_generic.h	56;"	d
+SHL16	speex/libspeex/arch.h	166;"	d
+SHL16	speex/libspeex/fixed_debug.h	117;"	d
+SHL16	speex/libspeex/fixed_generic.h	46;"	d
+SHL32	speex/libspeex/arch.h	168;"	d
+SHL32	speex/libspeex/fixed_debug.h	/^static inline int SHL32(long long a, int shift) $/;"	f
+SHL32	speex/libspeex/fixed_generic.h	48;"	d
+SHR	speex/libspeex/arch.h	176;"	d
+SHR	speex/libspeex/fixed_generic.h	55;"	d
+SHR16	speex/libspeex/arch.h	165;"	d
+SHR16	speex/libspeex/fixed_debug.h	103;"	d
+SHR16	speex/libspeex/fixed_generic.h	45;"	d
+SHR32	speex/libspeex/arch.h	167;"	d
+SHR32	speex/libspeex/fixed_debug.h	/^static inline int SHR32(long long a, int shift) $/;"	f
+SHR32	speex/libspeex/fixed_generic.h	47;"	d
+SIGN_CHANGE	speex/libspeex/lsp.c	213;"	d	file:
+SIGN_CHANGE	speex/libspeex/lsp.c	215;"	d	file:
+SIG_SCALING	speex/libspeex/arch.h	101;"	d
+SIG_SCALING	speex/libspeex/arch.h	146;"	d
+SIG_SHIFT	speex/libspeex/arch.h	109;"	d
+SNR_SCALING	speex/libspeex/preprocess.c	147;"	d	file:
+SNR_SCALING	speex/libspeex/preprocess.c	166;"	d	file:
+SNR_SCALING_1	speex/libspeex/preprocess.c	148;"	d	file:
+SNR_SCALING_1	speex/libspeex/preprocess.c	167;"	d	file:
+SNR_SHIFT	speex/libspeex/preprocess.c	149;"	d	file:
+SNR_SHIFT	speex/libspeex/preprocess.c	168;"	d	file:
+SPEECH_PROB_CONTINUE_DEFAULT	speex/libspeex/preprocess.c	82;"	d	file:
+SPEECH_PROB_START_DEFAULT	speex/libspeex/preprocess.c	81;"	d	file:
+SPEEX_BUFFER_H	speex/include/speex/speex_buffer.h	35;"	d
+SPEEX_CALLBACKS_H	speex/include/speex/speex_callbacks.h	37;"	d
+SPEEX_COPY	speex/libspeex/os_support.h	95;"	d
+SPEEX_ECHO_GET_FRAME_SIZE	speex/include/speex/speex_echo.h	47;"	d
+SPEEX_ECHO_GET_IMPULSE_RESPONSE	speex/include/speex/speex_echo.h	60;"	d
+SPEEX_ECHO_GET_IMPULSE_RESPONSE_SIZE	speex/include/speex/speex_echo.h	56;"	d
+SPEEX_ECHO_GET_SAMPLING_RATE	speex/include/speex/speex_echo.h	52;"	d
+SPEEX_ECHO_H	speex/include/speex/speex_echo.h	35;"	d
+SPEEX_ECHO_SET_SAMPLING_RATE	speex/include/speex/speex_echo.h	50;"	d
+SPEEX_EXTRA_VERSION	speex/libspeex/arch.h	42;"	d
+SPEEX_GET_ABR	speex/include/speex/speex.h	127;"	d
+SPEEX_GET_ACTIVITY	speex/include/speex/speex.h	160;"	d
+SPEEX_GET_BITRATE	speex/include/speex/speex.h	99;"	d
+SPEEX_GET_COMPLEXITY	speex/include/speex/speex.h	94;"	d
+SPEEX_GET_DTX	speex/include/speex/speex.h	132;"	d
+SPEEX_GET_DTX_STATUS	speex/libspeex/modes.h	57;"	d
+SPEEX_GET_ENH	speex/include/speex/speex.h	55;"	d
+SPEEX_GET_EXC	speex/libspeex/modes.h	53;"	d
+SPEEX_GET_FRAME_SIZE	speex/include/speex/speex.h	59;"	d
+SPEEX_GET_HIGHPASS	speex/include/speex/speex.h	156;"	d
+SPEEX_GET_HIGH_MODE	speex/include/speex/speex.h	79;"	d
+SPEEX_GET_INNOV	speex/libspeex/modes.h	55;"	d
+SPEEX_GET_LOOKAHEAD	speex/include/speex/speex.h	141;"	d
+SPEEX_GET_LOW_MODE	speex/include/speex/speex.h	74;"	d
+SPEEX_GET_MODE	speex/include/speex/speex.h	69;"	d
+SPEEX_GET_PF	speex/include/speex/speex.h	167;"	d
+SPEEX_GET_PI_GAIN	speex/libspeex/modes.h	51;"	d
+SPEEX_GET_PLC_TUNING	speex/include/speex/speex.h	146;"	d
+SPEEX_GET_RELATIVE_QUALITY	speex/include/speex/speex.h	116;"	d
+SPEEX_GET_SAMPLING_RATE	speex/include/speex/speex.h	110;"	d
+SPEEX_GET_STACK	speex/libspeex/modes.h	64;"	d
+SPEEX_GET_SUBMODE_ENCODING	speex/include/speex/speex.h	137;"	d
+SPEEX_GET_VAD	speex/include/speex/speex.h	122;"	d
+SPEEX_GET_VBR	speex/include/speex/speex.h	84;"	d
+SPEEX_GET_VBR_MAX_BITRATE	speex/include/speex/speex.h	151;"	d
+SPEEX_GET_VBR_QUALITY	speex/include/speex/speex.h	89;"	d
+SPEEX_H	speex/include/speex/speex.h	37;"	d
+SPEEX_HEADER_H	speex/include/speex/speex_header.h	38;"	d
+SPEEX_HEADER_STRING_LENGTH	speex/include/speex/speex_header.h	53;"	d
+SPEEX_HEADER_VERSION_LENGTH	speex/include/speex/speex_header.h	56;"	d
+SPEEX_INBAND_ACKNOWLEDGE	speex/include/speex/speex_callbacks.h	85;"	d
+SPEEX_INBAND_ACKNOWLEDGE_REQUEST	speex/include/speex/speex_callbacks.h	69;"	d
+SPEEX_INBAND_CHAR	speex/include/speex/speex_callbacks.h	75;"	d
+SPEEX_INBAND_ENH_REQUEST	speex/include/speex/speex_callbacks.h	55;"	d
+SPEEX_INBAND_HIGH_MODE_REQUEST	speex/include/speex/speex_callbacks.h	65;"	d
+SPEEX_INBAND_LOW_MODE_REQUEST	speex/include/speex/speex_callbacks.h	63;"	d
+SPEEX_INBAND_MAX_BITRATE	speex/include/speex/speex_callbacks.h	81;"	d
+SPEEX_INBAND_MODE_REQUEST	speex/include/speex/speex_callbacks.h	61;"	d
+SPEEX_INBAND_RESERVED1	speex/include/speex/speex_callbacks.h	57;"	d
+SPEEX_INBAND_STEREO	speex/include/speex/speex_callbacks.h	77;"	d
+SPEEX_INBAND_VBR_QUALITY_REQUEST	speex/include/speex/speex_callbacks.h	67;"	d
+SPEEX_INBAND_VBR_REQUEST	speex/include/speex/speex_callbacks.h	71;"	d
+SPEEX_JITTER_H	speex/include/speex/speex_jitter.h	37;"	d
+SPEEX_JITTER_MAX_BUFFER_SIZE	speex/libspeex/jitter.c	67;"	d	file:
+SPEEX_LIB_GET_EXTRA_VERSION	speex/include/speex/speex.h	188;"	d
+SPEEX_LIB_GET_MAJOR_VERSION	speex/include/speex/speex.h	182;"	d
+SPEEX_LIB_GET_MICRO_VERSION	speex/include/speex/speex.h	186;"	d
+SPEEX_LIB_GET_MINOR_VERSION	speex/include/speex/speex.h	184;"	d
+SPEEX_LIB_GET_VERSION_STRING	speex/include/speex/speex.h	190;"	d
+SPEEX_MAJOR_VERSION	speex/libspeex/arch.h	39;"	d
+SPEEX_MAX_CALLBACKS	speex/include/speex/speex_callbacks.h	49;"	d
+SPEEX_MEMSET	speex/libspeex/os_support.h	106;"	d
+SPEEX_MICRO_VERSION	speex/libspeex/arch.h	41;"	d
+SPEEX_MINOR_VERSION	speex/libspeex/arch.h	40;"	d
+SPEEX_MODEID_NB	speex/include/speex/speex.h	207;"	d
+SPEEX_MODEID_UWB	speex/include/speex/speex.h	213;"	d
+SPEEX_MODEID_WB	speex/include/speex/speex.h	210;"	d
+SPEEX_MODE_FRAME_SIZE	speex/include/speex/speex.h	174;"	d
+SPEEX_MOVE	speex/libspeex/os_support.h	101;"	d
+SPEEX_NB_MODES	speex/include/speex/speex.h	204;"	d
+SPEEX_PREPROCESS_GET_AGC	speex/include/speex/speex_preprocess.h	106;"	d
+SPEEX_PREPROCESS_GET_AGC_DECREMENT	speex/include/speex/speex_preprocess.h	173;"	d
+SPEEX_PREPROCESS_GET_AGC_GAIN	speex/include/speex/speex_preprocess.h	187;"	d
+SPEEX_PREPROCESS_GET_AGC_INCREMENT	speex/include/speex/speex_preprocess.h	167;"	d
+SPEEX_PREPROCESS_GET_AGC_LEVEL	speex/include/speex/speex_preprocess.h	116;"	d
+SPEEX_PREPROCESS_GET_AGC_LOUDNESS	speex/include/speex/speex_preprocess.h	183;"	d
+SPEEX_PREPROCESS_GET_AGC_MAX_GAIN	speex/include/speex/speex_preprocess.h	179;"	d
+SPEEX_PREPROCESS_GET_AGC_TARGET	speex/include/speex/speex_preprocess.h	212;"	d
+SPEEX_PREPROCESS_GET_DENOISE	speex/include/speex/speex_preprocess.h	101;"	d
+SPEEX_PREPROCESS_GET_DEREVERB	speex/include/speex/speex_preprocess.h	121;"	d
+SPEEX_PREPROCESS_GET_DEREVERB_DECAY	speex/include/speex/speex_preprocess.h	131;"	d
+SPEEX_PREPROCESS_GET_DEREVERB_LEVEL	speex/include/speex/speex_preprocess.h	126;"	d
+SPEEX_PREPROCESS_GET_ECHO_STATE	speex/include/speex/speex_preprocess.h	161;"	d
+SPEEX_PREPROCESS_GET_ECHO_SUPPRESS	speex/include/speex/speex_preprocess.h	151;"	d
+SPEEX_PREPROCESS_GET_ECHO_SUPPRESS_ACTIVE	speex/include/speex/speex_preprocess.h	156;"	d
+SPEEX_PREPROCESS_GET_NOISE_PSD	speex/include/speex/speex_preprocess.h	203;"	d
+SPEEX_PREPROCESS_GET_NOISE_PSD_SIZE	speex/include/speex/speex_preprocess.h	199;"	d
+SPEEX_PREPROCESS_GET_NOISE_SUPPRESS	speex/include/speex/speex_preprocess.h	146;"	d
+SPEEX_PREPROCESS_GET_PROB	speex/include/speex/speex_preprocess.h	207;"	d
+SPEEX_PREPROCESS_GET_PROB_CONTINUE	speex/include/speex/speex_preprocess.h	141;"	d
+SPEEX_PREPROCESS_GET_PROB_START	speex/include/speex/speex_preprocess.h	136;"	d
+SPEEX_PREPROCESS_GET_PSD	speex/include/speex/speex_preprocess.h	195;"	d
+SPEEX_PREPROCESS_GET_PSD_SIZE	speex/include/speex/speex_preprocess.h	191;"	d
+SPEEX_PREPROCESS_GET_VAD	speex/include/speex/speex_preprocess.h	111;"	d
+SPEEX_PREPROCESS_H	speex/include/speex/speex_preprocess.h	38;"	d
+SPEEX_PREPROCESS_SET_AGC	speex/include/speex/speex_preprocess.h	104;"	d
+SPEEX_PREPROCESS_SET_AGC_DECREMENT	speex/include/speex/speex_preprocess.h	170;"	d
+SPEEX_PREPROCESS_SET_AGC_INCREMENT	speex/include/speex/speex_preprocess.h	164;"	d
+SPEEX_PREPROCESS_SET_AGC_LEVEL	speex/include/speex/speex_preprocess.h	114;"	d
+SPEEX_PREPROCESS_SET_AGC_MAX_GAIN	speex/include/speex/speex_preprocess.h	176;"	d
+SPEEX_PREPROCESS_SET_AGC_TARGET	speex/include/speex/speex_preprocess.h	210;"	d
+SPEEX_PREPROCESS_SET_DENOISE	speex/include/speex/speex_preprocess.h	99;"	d
+SPEEX_PREPROCESS_SET_DEREVERB	speex/include/speex/speex_preprocess.h	119;"	d
+SPEEX_PREPROCESS_SET_DEREVERB_DECAY	speex/include/speex/speex_preprocess.h	129;"	d
+SPEEX_PREPROCESS_SET_DEREVERB_LEVEL	speex/include/speex/speex_preprocess.h	124;"	d
+SPEEX_PREPROCESS_SET_ECHO_STATE	speex/include/speex/speex_preprocess.h	159;"	d
+SPEEX_PREPROCESS_SET_ECHO_SUPPRESS	speex/include/speex/speex_preprocess.h	149;"	d
+SPEEX_PREPROCESS_SET_ECHO_SUPPRESS_ACTIVE	speex/include/speex/speex_preprocess.h	154;"	d
+SPEEX_PREPROCESS_SET_NOISE_SUPPRESS	speex/include/speex/speex_preprocess.h	144;"	d
+SPEEX_PREPROCESS_SET_PROB_CONTINUE	speex/include/speex/speex_preprocess.h	139;"	d
+SPEEX_PREPROCESS_SET_PROB_START	speex/include/speex/speex_preprocess.h	134;"	d
+SPEEX_PREPROCESS_SET_VAD	speex/include/speex/speex_preprocess.h	109;"	d
+SPEEX_RESAMPLER_H	speex/include/speex/speex_resampler.h	40;"	d
+SPEEX_RESAMPLER_QUALITY_DEFAULT	speex/include/speex/speex_resampler.h	97;"	d
+SPEEX_RESAMPLER_QUALITY_DESKTOP	speex/include/speex/speex_resampler.h	99;"	d
+SPEEX_RESAMPLER_QUALITY_MAX	speex/include/speex/speex_resampler.h	95;"	d
+SPEEX_RESAMPLER_QUALITY_MIN	speex/include/speex/speex_resampler.h	96;"	d
+SPEEX_RESAMPLER_QUALITY_VOIP	speex/include/speex/speex_resampler.h	98;"	d
+SPEEX_RESET_STATE	speex/include/speex/speex.h	113;"	d
+SPEEX_SET_ABR	speex/include/speex/speex.h	125;"	d
+SPEEX_SET_BITRATE	speex/include/speex/speex.h	97;"	d
+SPEEX_SET_COMPLEXITY	speex/include/speex/speex.h	92;"	d
+SPEEX_SET_DTX	speex/include/speex/speex.h	130;"	d
+SPEEX_SET_ENH	speex/include/speex/speex.h	53;"	d
+SPEEX_SET_HANDLER	speex/include/speex/speex.h	102;"	d
+SPEEX_SET_HIGHPASS	speex/include/speex/speex.h	154;"	d
+SPEEX_SET_HIGH_MODE	speex/include/speex/speex.h	77;"	d
+SPEEX_SET_INNOVATION_SAVE	speex/libspeex/modes.h	59;"	d
+SPEEX_SET_LOW_MODE	speex/include/speex/speex.h	72;"	d
+SPEEX_SET_MODE	speex/include/speex/speex.h	67;"	d
+SPEEX_SET_PF	speex/include/speex/speex.h	165;"	d
+SPEEX_SET_PLC_TUNING	speex/include/speex/speex.h	144;"	d
+SPEEX_SET_QUALITY	speex/include/speex/speex.h	62;"	d
+SPEEX_SET_SAMPLING_RATE	speex/include/speex/speex.h	108;"	d
+SPEEX_SET_SUBMODE_ENCODING	speex/include/speex/speex.h	135;"	d
+SPEEX_SET_USER_HANDLER	speex/include/speex/speex.h	105;"	d
+SPEEX_SET_VAD	speex/include/speex/speex.h	119;"	d
+SPEEX_SET_VBR	speex/include/speex/speex.h	82;"	d
+SPEEX_SET_VBR_MAX_BITRATE	speex/include/speex/speex.h	149;"	d
+SPEEX_SET_VBR_QUALITY	speex/include/speex/speex.h	87;"	d
+SPEEX_SET_WIDEBAND	speex/libspeex/modes.h	61;"	d
+SPEEX_STEREO_STATE_INIT	speex/include/speex/speex_stereo.h	60;"	d
+SPEEX_SUBMODE_BITS_PER_FRAME	speex/include/speex/speex.h	177;"	d
+SPEEX_VERSION	speex/libspeex/arch.h	43;"	d
+SPX_PI_2	speex/libspeex/math_approx.h	315;"	d
+SQR	speex/libspeex/preprocess.c	91;"	d	file:
+SQR16	speex/libspeex/preprocess.c	92;"	d	file:
+SQR16_Q15	speex/libspeex/preprocess.c	93;"	d	file:
+STACK_ALLOC_H	speex/libspeex/stack_alloc.h	36;"	d
+STEREO_H	speex/include/speex/speex_stereo.h	36;"	d
+SUB16	speex/libspeex/arch.h	181;"	d
+SUB16	speex/libspeex/fixed_debug.h	190;"	d
+SUB16	speex/libspeex/fixed_generic.h	62;"	d
+SUB32	speex/libspeex/arch.h	183;"	d
+SUB32	speex/libspeex/fixed_debug.h	/^static inline int SUB32(long long a, long long b) $/;"	f
+SUB32	speex/libspeex/fixed_generic.h	64;"	d
+SUBMODE	speex/libspeex/nb_celp.c	65;"	d	file:
+SUBMODE	speex/libspeex/sb_celp.c	113;"	d	file:
+S_MUL	speex/libspeex/_kiss_fft_guts.h	65;"	d
+S_MUL	speex/libspeex/_kiss_fft_guts.h	88;"	d
+Smin	speex/libspeex/preprocess.c	/^   spx_word32_t *Smin;       \/**< See Cohen paper *\/$/;"	m	struct:SpeexPreprocessState_	file:
+SpeexBits	speex/include/speex/speex_bits.h	/^typedef struct SpeexBits {$/;"	s
+SpeexBits	speex/include/speex/speex_bits.h	/^} SpeexBits;$/;"	t	typeref:struct:SpeexBits
+SpeexBuffer	speex/include/speex/speex_buffer.h	/^typedef struct SpeexBuffer_ SpeexBuffer;$/;"	t	typeref:struct:SpeexBuffer_
+SpeexBuffer_	speex/libspeex/buffer.c	/^struct SpeexBuffer_ {$/;"	s	file:
+SpeexCallback	speex/include/speex/speex_callbacks.h	/^typedef struct SpeexCallback {$/;"	s
+SpeexCallback	speex/include/speex/speex_callbacks.h	/^} SpeexCallback;$/;"	t	typeref:struct:SpeexCallback
+SpeexDecorrState	speex/include/speex/speex_echo.h	/^typedef struct SpeexDecorrState_ SpeexDecorrState;$/;"	t	typeref:struct:SpeexDecorrState_
+SpeexDecorrState_	speex/libspeex/scal.c	/^struct SpeexDecorrState_ {$/;"	s	file:
+SpeexEchoState	speex/include/speex/speex_echo.h	/^typedef struct SpeexEchoState_ SpeexEchoState;$/;"	t	typeref:struct:SpeexEchoState_
+SpeexEchoState_	speex/libspeex/mdf.c	/^struct SpeexEchoState_ {$/;"	s	file:
+SpeexHeader	speex/include/speex/speex_header.h	/^typedef struct SpeexHeader {$/;"	s
+SpeexHeader	speex/include/speex/speex_header.h	/^} SpeexHeader;$/;"	t	typeref:struct:SpeexHeader
+SpeexMode	speex/include/speex/speex.h	/^typedef struct SpeexMode {$/;"	s
+SpeexMode	speex/include/speex/speex.h	/^} SpeexMode;$/;"	t	typeref:struct:SpeexMode
+SpeexNBMode	speex/libspeex/modes.h	/^typedef struct SpeexNBMode {$/;"	s
+SpeexNBMode	speex/libspeex/modes.h	/^} SpeexNBMode;$/;"	t	typeref:struct:SpeexNBMode
+SpeexPreprocessState	speex/include/speex/speex_preprocess.h	/^typedef struct SpeexPreprocessState_ SpeexPreprocessState;$/;"	t	typeref:struct:SpeexPreprocessState_
+SpeexPreprocessState_	speex/libspeex/preprocess.c	/^struct SpeexPreprocessState_ {$/;"	s	file:
+SpeexResamplerState	speex/include/speex/speex_resampler.h	/^typedef struct SpeexResamplerState_ SpeexResamplerState;$/;"	t	typeref:struct:SpeexResamplerState_
+SpeexResamplerState_	speex/libspeex/resample.c	/^struct SpeexResamplerState_ {$/;"	s	file:
+SpeexSBMode	speex/libspeex/modes.h	/^typedef struct SpeexSBMode {$/;"	s
+SpeexSBMode	speex/libspeex/modes.h	/^} SpeexSBMode;$/;"	t	typeref:struct:SpeexSBMode
+SpeexStereoState	speex/include/speex/speex_stereo.h	/^typedef struct SpeexStereoState {$/;"	s
+SpeexStereoState	speex/include/speex/speex_stereo.h	/^} SpeexStereoState;$/;"	t	typeref:struct:SpeexStereoState
+SpeexSubmode	speex/libspeex/modes.h	/^typedef struct SpeexSubmode {$/;"	s
+SpeexSubmode	speex/libspeex/modes.h	/^} SpeexSubmode;$/;"	t	typeref:struct:SpeexSubmode
+Stmp	speex/libspeex/preprocess.c	/^   spx_word32_t *Stmp;       \/**< See Cohen paper *\/$/;"	m	struct:SpeexPreprocessState_	file:
+TAIL	speex/libspeex/testecho.c	15;"	d	file:
+TOP16	speex/libspeex/mdf.c	110;"	d	file:
+TOP16	speex/libspeex/mdf.c	122;"	d	file:
+TOP_DELAY	speex/libspeex/jitter.c	80;"	d	file:
+TSUB	speex/libspeex/jitter.c	69;"	d	file:
+TWO_PATH	speex/libspeex/mdf.c	99;"	d	file:
+TimingBuffer	speex/libspeex/jitter.c	/^struct TimingBuffer {$/;"	s	file:
+VAR1_SMOOTH	speex/libspeex/mdf.c	/^static const spx_float_t VAR1_SMOOTH = .36f;$/;"	v	file:
+VAR1_SMOOTH	speex/libspeex/mdf.c	/^static const spx_float_t VAR1_SMOOTH = {23593, -16};$/;"	v	file:
+VAR1_UPDATE	speex/libspeex/mdf.c	/^static const spx_float_t VAR1_UPDATE = .5f;$/;"	v	file:
+VAR1_UPDATE	speex/libspeex/mdf.c	/^static const spx_float_t VAR1_UPDATE = {16384, -15};$/;"	v	file:
+VAR2_SMOOTH	speex/libspeex/mdf.c	/^static const spx_float_t VAR2_SMOOTH = .7225f;$/;"	v	file:
+VAR2_SMOOTH	speex/libspeex/mdf.c	/^static const spx_float_t VAR2_SMOOTH = {23675, -15};$/;"	v	file:
+VAR2_UPDATE	speex/libspeex/mdf.c	/^static const spx_float_t VAR2_UPDATE = .25f;$/;"	v	file:
+VAR2_UPDATE	speex/libspeex/mdf.c	/^static const spx_float_t VAR2_UPDATE = {16384, -16};$/;"	v	file:
+VARDECL	speex/libspeex/stack_alloc.h	104;"	d
+VARDECL	speex/libspeex/stack_alloc.h	107;"	d
+VARDECL	speex/libspeex/stack_alloc.h	110;"	d
+VAR_BACKTRACK	speex/libspeex/mdf.c	/^static const spx_float_t VAR_BACKTRACK = 4.f;$/;"	v	file:
+VAR_BACKTRACK	speex/libspeex/mdf.c	/^static const spx_float_t VAR_BACKTRACK = {16384, -12};$/;"	v	file:
+VBRState	speex/libspeex/vbr.h	/^typedef struct VBRState {$/;"	s
+VBRState	speex/libspeex/vbr.h	/^} VBRState;$/;"	t	typeref:struct:VBRState
+VBR_H	speex/libspeex/vbr.h	38;"	d
+VBR_MEMORY_SIZE	speex/libspeex/vbr.h	42;"	d
+VERIFY_INT	speex/libspeex/fixed_debug.h	48;"	d
+VERIFY_SHORT	speex/libspeex/fixed_debug.h	47;"	d
+VERY_LARGE16	speex/libspeex/arch.h	114;"	d
+VERY_LARGE16	speex/libspeex/arch.h	155;"	d
+VERY_LARGE32	speex/libspeex/arch.h	113;"	d
+VERY_LARGE32	speex/libspeex/arch.h	154;"	d
+VERY_SMALL	speex/libspeex/arch.h	112;"	d
+VERY_SMALL	speex/libspeex/arch.h	153;"	d
+VORBIS_PSY_H	speex/libspeex/vorbis_psy.h	33;"	d
+VQ_H	speex/libspeex/vq.h	36;"	d
+VSHR32	speex/libspeex/arch.h	171;"	d
+VSHR32	speex/libspeex/fixed_debug.h	165;"	d
+VSHR32	speex/libspeex/fixed_generic.h	51;"	d
+VorbisPsy	speex/libspeex/vorbis_psy.h	/^} VorbisPsy;$/;"	t	typeref:struct:__anon7
+VorbisPsyInfo	speex/libspeex/vorbis_psy.h	/^} VorbisPsyInfo;$/;"	t	typeref:struct:__anon6
+W	speex/libspeex/mdf.c	/^   spx_word32_t *W;      \/* (Background) filter weights *\/$/;"	m	struct:SpeexEchoState_	file:
+WEIGHT_SHIFT	speex/libspeex/mdf.c	84;"	d	file:
+WEIGHT_SHIFT	speex/libspeex/mdf.c	88;"	d	file:
+WORD2INT	speex/libspeex/mdf.c	92;"	d	file:
+WORD2INT	speex/libspeex/mdf.c	94;"	d	file:
+WORD2INT	speex/libspeex/resample.c	86;"	d	file:
+WORD2INT	speex/libspeex/resample.c	88;"	d	file:
+X	speex/libspeex/mdf.c	/^   spx_word16_t *X;      \/* Far-end buffer (M+1 frames) in frequency domain *\/$/;"	m	struct:SpeexEchoState_	file:
+X2ANGLE	speex/libspeex/lsp.c	107;"	d	file:
+X2ANGLE	speex/libspeex/lsp.c	121;"	d	file:
+Xf	speex/libspeex/mdf.c	/^   spx_word32_t *Xf;     \/* scratch *\/$/;"	m	struct:SpeexEchoState_	file:
+Y	speex/libspeex/mdf.c	/^   spx_word16_t *Y;      \/* scratch *\/$/;"	m	struct:SpeexEchoState_	file:
+Yf	speex/libspeex/mdf.c	/^   spx_word32_t *Yf;     \/* scratch *\/$/;"	m	struct:SpeexEchoState_	file:
+Yh	speex/libspeex/mdf.c	/^   spx_word32_t *Yh;$/;"	m	struct:SpeexEchoState_	file:
+_ADD16	speex/libspeex/fixed_debug.h	/^static inline short _ADD16(int a, int b, char *file, int line) $/;"	f
+_ADD32	speex/libspeex/fixed_debug.h	/^static inline int _ADD32(long long a, long long b, char *file, int line) $/;"	f
+_CUSTOM_SPEEX_H	customspeex.h	2;"	d
+_DIV32	speex/libspeex/fixed_debug.h	/^static inline int _DIV32(long long a, long long b, char *file, int line) $/;"	f
+_DIV32_16	speex/libspeex/fixed_debug.h	/^static inline int _DIV32_16(long long a, long long b, char *file, int line) $/;"	f
+_EXTEND32	speex/libspeex/fixed_debug.h	/^static inline int _EXTEND32(int x, char *file, int line)$/;"	f
+_EXTRACT16	speex/libspeex/fixed_debug.h	/^static inline short _EXTRACT16(int x, char *file, int line)$/;"	f
+_Included_com_android_recordernote_jni_Speex	com_android_recordernote_jni_Speex.h	6;"	d
+_JitterBufferPacket	speex/include/speex/speex_jitter.h	/^struct _JitterBufferPacket {$/;"	s
+_KAISER10	speex/libspeex/resample.c	/^static struct FuncDef _KAISER10 = {kaiser10_table, 32};$/;"	v	typeref:struct:FuncDef	file:
+_KAISER12	speex/libspeex/resample.c	/^static struct FuncDef _KAISER12 = {kaiser12_table, 64};$/;"	v	typeref:struct:FuncDef	file:
+_KAISER6	speex/libspeex/resample.c	/^static struct FuncDef _KAISER6 = {kaiser6_table, 32};$/;"	v	typeref:struct:FuncDef	file:
+_KAISER8	speex/libspeex/resample.c	/^static struct FuncDef _KAISER8 = {kaiser8_table, 32};$/;"	v	typeref:struct:FuncDef	file:
+_MULT16_16	speex/libspeex/fixed_debug.h	/^static inline int _MULT16_16(int a, int b, char *file, int line) $/;"	f
+_MULT16_32_QX	speex/libspeex/fixed_debug.h	/^static inline int _MULT16_32_QX(int a, long long b, int Q, char *file, int line)$/;"	f
+_SHL16	speex/libspeex/fixed_debug.h	/^static inline short _SHL16(int a, int shift, char *file, int line) $/;"	f
+_SHR16	speex/libspeex/fixed_debug.h	/^static inline short _SHR16(int a, int shift, char *file, int line) $/;"	f
+_SPEEX_TYPES_H	speex/include/speex/speex_types.h	23;"	d
+_SUB16	speex/libspeex/fixed_debug.h	/^static inline short _SUB16(int a, int b, char *file, int line) $/;"	f
+_V_SMFT_H_	speex/libspeex/smallft.h	23;"	d
+__AK2LSPD__	speex/libspeex/lsp.h	52;"	d
+__SPEEX_TYPES_H__	speex/include/speex/speex_config_types.h	2;"	d
+_jitter_buffer_update_delay	speex/libspeex/jitter.c	/^static int _jitter_buffer_update_delay(JitterBuffer *jitter, JitterBufferPacket *packet, spx_int32_t *start_offset)$/;"	f	file:
+_speex_fatal	speex/libspeex/os_support.h	/^static inline void _speex_fatal(const char *str, const char *file, int line)$/;"	f
+_speex_putc	speex/libspeex/os_support.h	/^static inline void _speex_putc(int ch, void *file)$/;"	f
+_spx_autocorr	speex/libspeex/lpc.c	/^void _spx_autocorr($/;"	f
+_spx_autocorr	speex/libspeex/lpc_bfin.h	/^void _spx_autocorr($/;"	f
+_spx_cos_pi_2	speex/libspeex/math_approx.h	/^static inline spx_word16_t _spx_cos_pi_2(spx_word16_t x)$/;"	f
+_spx_lpc	speex/libspeex/lpc.c	/^spx_word32_t _spx_lpc($/;"	f
+_spx_mm_getr_ps	speex/libspeex/cb_search_sse.h	/^static inline void _spx_mm_getr_ps (__m128 U, float *__Z, float *__Y, float *__X, float *__W)$/;"	f
+_tb	speex/libspeex/jitter.c	/^   struct TimingBuffer _tb[MAX_BUFFERS];                       \/**< Don't use those directly *\/$/;"	m	struct:JitterBuffer_	typeref:struct:JitterBuffer_::TimingBuffer	file:
+abr_count	speex/libspeex/nb_celp.h	/^   float  abr_count;$/;"	m	struct:EncState
+abr_count	speex/libspeex/sb_celp.h	/^   float  abr_count;$/;"	m	struct:SBEncState
+abr_drift	speex/libspeex/nb_celp.h	/^   float  abr_drift;$/;"	m	struct:EncState
+abr_drift	speex/libspeex/sb_celp.h	/^   float  abr_drift;$/;"	m	struct:SBEncState
+abr_drift2	speex/libspeex/nb_celp.h	/^   float  abr_drift2;$/;"	m	struct:EncState
+abr_drift2	speex/libspeex/sb_celp.h	/^   float  abr_drift2;$/;"	m	struct:SBEncState
+abr_enabled	speex/libspeex/nb_celp.h	/^   spx_int32_t abr_enabled;      \/**< ABR setting (in bps), 0 if off *\/$/;"	m	struct:EncState
+abr_enabled	speex/libspeex/sb_celp.h	/^   spx_int32_t abr_enabled;       \/**< ABR setting (in bps), 0 if off *\/$/;"	m	struct:SBEncState
+accum_sum	speex/libspeex/vbr.h	/^   float accum_sum;$/;"	m	struct:VBRState
+adapted	speex/libspeex/mdf.c	/^   int adapted;$/;"	m	struct:SpeexEchoState_	file:
+agc_enabled	speex/libspeex/preprocess.c	/^   int    agc_enabled;$/;"	m	struct:SpeexPreprocessState_	file:
+agc_gain	speex/libspeex/preprocess.c	/^   float  agc_gain;          \/**< Current AGC gain *\/$/;"	m	struct:SpeexPreprocessState_	file:
+agc_level	speex/libspeex/preprocess.c	/^   float  agc_level;$/;"	m	struct:SpeexPreprocessState_	file:
+alpha	speex/libspeex/scal.c	/^   float *alpha;$/;"	m	struct:SpeexDecorrState_	file:
+arrival	speex/libspeex/jitter.c	/^   spx_uint32_t arrival[SPEEX_JITTER_MAX_BUFFER_SIZE];         \/**< Packet arrival time (0 means it was late, even though it's a valid timestamp) *\/$/;"	m	struct:JitterBuffer_	file:
+attenuation	speex/libspeex/nb_celp.c	/^const spx_word16_t attenuation[10] = {1., 0.961, 0.852, 0.698, 0.527, 0.368, 0.237, 0.141, 0.077, 0.039};$/;"	v
+attenuation	speex/libspeex/nb_celp.c	/^const spx_word16_t attenuation[10] = {32767, 31483, 27923, 22861, 17278, 12055, 7764, 4616, 2533, 1283};$/;"	v
+auto_adjust	speex/libspeex/jitter.c	/^   int auto_adjust;                                            \/**< Whether to automatically adjust the delay at any time *\/$/;"	m	struct:JitterBuffer_	file:
+auto_tradeoff	speex/libspeex/jitter.c	/^   int auto_tradeoff;                                          \/**< Latency equivalent of losing one percent of packets (automatic default) *\/$/;"	m	struct:JitterBuffer_	file:
+available	speex/libspeex/buffer.c	/^   int   available;$/;"	m	struct:SpeexBuffer_	file:
+average_energy	speex/libspeex/vbr.h	/^   float average_energy;$/;"	m	struct:VBRState
+backward	speex/libspeex/fftwrap.c	/^   kiss_fftr_cfg backward;$/;"	m	struct:kiss_config	file:
+balance	speex/include/speex/speex_stereo.h	/^   float balance;      \/**< Left\/right balance info *\/$/;"	m	struct:SpeexStereoState
+balance	speex/libspeex/stereo.c	/^   spx_word32_t balance;      \/**< Left\/right balance info *\/$/;"	m	struct:RealSpeexStereoState	file:
+balance_bounds	speex/libspeex/stereo.c	/^static const spx_word16_t balance_bounds[31] = {18, 23, 30, 38, 49, 63,  81, 104,$/;"	v	file:
+bank	speex/libspeex/preprocess.c	/^   FilterBank *bank;$/;"	m	struct:SpeexPreprocessState_	file:
+bank_left	speex/libspeex/filterbank.h	/^   int *bank_left;$/;"	m	struct:__anon2
+bank_right	speex/libspeex/filterbank.h	/^   int *bank_right;$/;"	m	struct:__anon2
+bark	speex/libspeex/vorbis_psy.h	/^  long  *bark;$/;"	m	struct:__anon7
+base_length	speex/libspeex/resample.c	/^   int base_length;$/;"	m	struct:QualityMapping	file:
+beta0	speex/libspeex/mdf.c	/^   spx_word16_t beta0;$/;"	m	struct:SpeexEchoState_	file:
+beta_max	speex/libspeex/mdf.c	/^   spx_word16_t beta_max;$/;"	m	struct:SpeexEchoState_	file:
+bitPtr	speex/include/speex/speex_bits.h	/^   int   bitPtr;  \/**< Position of the bit "cursor" within the current char *\/$/;"	m	struct:SpeexBits
+bitrate	speex/include/speex/speex_header.h	/^   spx_int32_t bitrate;                \/**< Bit-rate used *\/$/;"	m	struct:SpeexHeader
+bits_per_frame	speex/libspeex/modes.h	/^   int               bits_per_frame; \/**< Number of bits per frame after encoding*\/$/;"	m	struct:SpeexSubmode
+bitstream_version	speex/include/speex/speex.h	/^   int bitstream_version;$/;"	m	struct:SpeexMode
+bounded_pitch	speex/libspeex/nb_celp.h	/^   int    bounded_pitch;         \/**< Next frame should not rely on previous frames for pitch *\/$/;"	m	struct:EncState
+buf_size	speex/include/speex/speex_bits.h	/^   int   buf_size;\/**< Allocated size for buffer *\/$/;"	m	struct:SpeexBits
+buff	speex/libspeex/scal.c	/^   float *buff;$/;"	m	struct:SpeexDecorrState_	file:
+buffer_margin	speex/libspeex/jitter.c	/^   int buffer_margin;                                          \/**< How many frames we want to keep in the buffer (lower bound) *\/$/;"	m	struct:JitterBuffer_	file:
+buffer_size	speex/libspeex/resample.c	/^   spx_uint32_t buffer_size;$/;"	m	struct:SpeexResamplerState_	file:
+buffered	speex/libspeex/jitter.c	/^   spx_int32_t buffered;                                       \/**< Amount of data we think is still buffered by the application (timestamp units)*\/$/;"	m	struct:JitterBuffer_	file:
+bw_lpc	speex/libspeex/filters.c	/^void bw_lpc(spx_word16_t gamma, const spx_coef_t *lpc_in, spx_coef_t *lpc_out, int order)$/;"	f
+callback_id	speex/include/speex/speex_callbacks.h	/^   int callback_id;             \/**< ID associated to the callback *\/$/;"	m	struct:SpeexCallback
+cancel_count	speex/libspeex/mdf.c	/^   int cancel_count;$/;"	m	struct:SpeexEchoState_	file:
+capture	customspeex.cpp	/^int CustomSpeex::capture( short * out, int size)$/;"	f	class:CustomSpeex
+cdbk_nb	speex/libspeex/lsp_tables_nb.c	/^const signed char cdbk_nb[640]={$/;"	v
+cdbk_nb_high1	speex/libspeex/lsp_tables_nb.c	/^const signed char cdbk_nb_high1[320]={$/;"	v
+cdbk_nb_high2	speex/libspeex/lsp_tables_nb.c	/^const signed char cdbk_nb_high2[320]={$/;"	v
+cdbk_nb_low1	speex/libspeex/lsp_tables_nb.c	/^const signed char cdbk_nb_low1[320]={$/;"	v
+cdbk_nb_low2	speex/libspeex/lsp_tables_nb.c	/^const signed char cdbk_nb_low2[320]={$/;"	v
+channels	speex/libspeex/scal.c	/^   int channels;$/;"	m	struct:SpeexDecorrState_	file:
+charPtr	speex/include/speex/speex_bits.h	/^   int   charPtr; \/**< Position of the byte "cursor" *\/$/;"	m	struct:SpeexBits
+chars	speex/include/speex/speex_bits.h	/^   char *chars;   \/**< "raw" data *\/$/;"	m	struct:SpeexBits
+cheb_poly_eva	speex/libspeex/lsp.c	/^static float cheb_poly_eva(spx_word32_t *coef, spx_word16_t x, int m, char *stack)$/;"	f	file:
+cheb_poly_eva	speex/libspeex/lsp.c	/^static inline spx_word32_t cheb_poly_eva($/;"	f	file:
+cheb_poly_eva	speex/libspeex/lsp_bfin.h	/^static inline spx_word32_t cheb_poly_eva($/;"	f
+close	customspeex.cpp	/^void CustomSpeex::close()$/;"	f	class:CustomSpeex
+comb_gain	speex/libspeex/modes.h	/^   spx_word16_t      comb_gain;  \/**< Gain of enhancer comb filter *\/$/;"	m	struct:SpeexSubmode
+complexity	speex/libspeex/nb_celp.h	/^   int    complexity;            \/**< Complexity setting (0-10 from least complex to most complex) *\/$/;"	m	struct:EncState
+complexity	speex/libspeex/sb_celp.h	/^   int    complexity;$/;"	m	struct:SBEncState
+compute_func	speex/libspeex/resample.c	/^static double compute_func(float x, struct FuncDef *func)$/;"	f	file:
+compute_gain_floor	speex/libspeex/preprocess.c	/^static void compute_gain_floor(int noise_suppress, int effective_echo_suppress, spx_word32_t *noise, spx_word32_t *echo, spx_word16_t *gain_floor, int len)$/;"	f	file:
+compute_impulse_response	speex/libspeex/filters.c	/^void compute_impulse_response(const spx_coef_t *ak, const spx_coef_t *awk1, const spx_coef_t *awk2, spx_word16_t *y, int N, int ord, char *stack)$/;"	f
+compute_impulse_response	speex/libspeex/filters_bfin.h	/^void compute_impulse_response(const spx_coef_t *ak, const spx_coef_t *awk1, const spx_coef_t *awk2, spx_word16_t *y, int N, int ord, char *stack)$/;"	f
+compute_opt_delay	speex/libspeex/jitter.c	/^static spx_int16_t compute_opt_delay(JitterBuffer *jitter)$/;"	f	file:
+compute_pitch_error	speex/libspeex/ltp.c	/^static inline spx_word32_t compute_pitch_error(spx_word16_t *C, spx_word16_t *g, spx_word16_t pitch_control)$/;"	f	file:
+compute_pitch_error	speex/libspeex/ltp_bfin.h	/^static inline spx_word32_t compute_pitch_error(spx_word16_t *C, spx_word16_t *g, spx_word16_t pitch_control)$/;"	f
+compute_quant_weights	speex/libspeex/quant_lsp.c	/^static void compute_quant_weights(spx_lsp_t *qlsp, spx_word16_t *quant_weight, int order)$/;"	f	file:
+compute_rms	speex/libspeex/filters.c	/^spx_word16_t compute_rms(const spx_sig_t *x, int len)$/;"	f
+compute_rms16	speex/libspeex/filters.c	/^spx_word16_t compute_rms16(const spx_word16_t *x, int len)$/;"	f
+compute_weighted_codebook	speex/libspeex/cb_search.c	/^static void compute_weighted_codebook(const signed char *shape_cb, const spx_word16_t *r, spx_word16_t *resp, spx_word16_t *resp2, spx_word32_t *E, int shape_cb_size, int subvect_size, char *stack)$/;"	f	file:
+compute_weighted_codebook	speex/libspeex/cb_search_bfin.h	/^void compute_weighted_codebook(const signed char *shape_cb, const spx_word16_t *r, spx_word16_t *resp, spx_word16_t *resp2, spx_word32_t *E, int shape_cb_size, int subvect_size, char *stack)$/;"	f
+compute_weighted_codebook	speex/libspeex/cb_search_sse.h	/^static void compute_weighted_codebook(const signed char *shape_cb, const spx_sig_t *_r, float *resp, __m128 *resp2, __m128 *E, int shape_cb_size, int subvect_size, char *stack)$/;"	f
+concealment_size	speex/libspeex/jitter.c	/^   spx_int32_t concealment_size;                               \/**< Size of the packet loss concealment "units" *\/$/;"	m	struct:JitterBuffer_	file:
+conj_window	speex/libspeex/preprocess.c	/^static void conj_window(spx_word16_t *w, int len)$/;"	f	file:
+consec_noise	speex/libspeex/vbr.h	/^   int   consec_noise;$/;"	m	struct:VBRState
+count_lost	speex/libspeex/nb_celp.h	/^   int    count_lost;           \/**< Was the last frame lost? *\/$/;"	m	struct:DecState
+counts	speex/libspeex/jitter.c	/^   spx_int16_t counts[MAX_TIMINGS];    \/**< Order the packets were put in (will be used for short-term estimate) *\/$/;"	m	struct:TimingBuffer	file:
+cubic_coef	speex/libspeex/resample.c	/^static void cubic_coef(spx_word16_t frac, spx_word16_t interp[4])$/;"	f	file:
+cubic_coef	speex/libspeex/resample.c	/^static void cubic_coef(spx_word16_t x, spx_word16_t interp[4])$/;"	f	file:
+cumul_gain	speex/libspeex/nb_celp.h	/^   spx_word32_t cumul_gain;      \/**< Product of previously used pitch gains (Q10) *\/$/;"	m	struct:EncState
+curr_count	speex/libspeex/jitter.c	/^   int curr_count;                     \/**< Number of packet timings we got (including those we discarded) *\/$/;"	m	struct:TimingBuffer	file:
+curve	speex/libspeex/nb_celp.h	/^   float *curve;$/;"	m	struct:EncState
+curve	speex/libspeex/scal.c	/^   float *curve;$/;"	m	struct:SpeexDecorrState_	file:
+cutoff	speex/libspeex/resample.c	/^   float  cutoff;$/;"	m	struct:SpeexResamplerState_	file:
+data	speex/include/speex/speex_callbacks.h	/^   void *data;                  \/**< Data that will be sent to the handler *\/$/;"	m	struct:SpeexCallback
+data	speex/include/speex/speex_jitter.h	/^   char        *data;       \/**< Data bytes contained in the packet *\/$/;"	m	struct:_JitterBufferPacket
+data	speex/libspeex/buffer.c	/^   char *data;$/;"	m	struct:SpeexBuffer_	file:
+data	speex/libspeex/testjitter.c	/^  unsigned char data[4];$/;"	m	union:jbpdata	file:
+dbits	customspeex.h	/^    SpeexBits ebits, dbits;$/;"	m	class:CustomSpeex
+dec	speex/include/speex/speex.h	/^   decode_func dec;$/;"	m	struct:SpeexMode
+dec_ctl	speex/include/speex/speex.h	/^   decoder_ctl_func dec_ctl;$/;"	m	struct:SpeexMode
+dec_destroy	speex/include/speex/speex.h	/^   decoder_destroy_func dec_destroy;$/;"	m	struct:SpeexMode
+dec_frame_size	customspeex.h	/^    int dec_frame_size;$/;"	m	class:CustomSpeex
+dec_init	speex/include/speex/speex.h	/^   decoder_init_func dec_init;$/;"	m	struct:SpeexMode
+dec_state	customspeex.h	/^    void *dec_state;$/;"	m	class:CustomSpeex
+decode	customspeex.cpp	/^int CustomSpeex::decode(char * in, short  *  out, int size)$/;"	f	class:CustomSpeex
+decode_func	speex/include/speex/speex.h	/^typedef int  (*decode_func)(void *state, SpeexBits *bits, void *out);$/;"	t
+decoder_ctl_func	speex/include/speex/speex.h	/^typedef int (*decoder_ctl_func)(void *state, int request, void *ptr);$/;"	t
+decoder_destroy_func	speex/include/speex/speex.h	/^typedef void (*decoder_destroy_func)(void *st);$/;"	t
+decoder_init_func	speex/include/speex/speex.h	/^typedef void *(*decoder_init_func)(const struct SpeexMode *mode);$/;"	t
+defaultSubmode	speex/libspeex/modes.h	/^   int     defaultSubmode; \/**< Default sub-mode to use when encoding *\/$/;"	m	struct:SpeexNBMode
+defaultSubmode	speex/libspeex/modes.h	/^   int     defaultSubmode; \/**< Default sub-mode to use when encoding *\/$/;"	m	struct:SpeexSBMode
+delay_step	speex/libspeex/jitter.c	/^   spx_int32_t delay_step;                                     \/**< Size of the steps when adjusting buffering (timestamp units) *\/$/;"	m	struct:JitterBuffer_	file:
+den_rate	speex/libspeex/resample.c	/^   spx_uint32_t den_rate;$/;"	m	struct:SpeexResamplerState_	file:
+denoise_enabled	speex/libspeex/preprocess.c	/^   int    denoise_enabled;$/;"	m	struct:SpeexPreprocessState_	file:
+dereverb_enabled	speex/libspeex/preprocess.c	/^   int    dereverb_enabled;$/;"	m	struct:SpeexPreprocessState_	file:
+desc	speex/libspeex/fftwrap.c	/^  DFTI_DESCRIPTOR_HANDLE desc;$/;"	m	struct:mkl_config	file:
+destroy	speex/libspeex/jitter.c	/^   void (*destroy) (void *);                                   \/**< Callback for destroying a packet *\/$/;"	m	struct:JitterBuffer_	file:
+double_codebook	speex/libspeex/modes.h	/^   int     double_codebook;    \/**< Apply innovation quantization twice for higher quality (and higher bit-rate)*\/$/;"	m	struct:SpeexSubmode
+downsample_bandwidth	speex/libspeex/resample.c	/^   float downsample_bandwidth;$/;"	m	struct:QualityMapping	file:
+dradb2	speex/libspeex/smallft.c	/^static void dradb2(int ido,int l1,float *cc,float *ch,float *wa1){$/;"	f	file:
+dradb3	speex/libspeex/smallft.c	/^static void dradb3(int ido,int l1,float *cc,float *ch,float *wa1,$/;"	f	file:
+dradb4	speex/libspeex/smallft.c	/^static void dradb4(int ido,int l1,float *cc,float *ch,float *wa1,$/;"	f	file:
+dradbg	speex/libspeex/smallft.c	/^static void dradbg(int ido,int ip,int l1,int idl1,float *cc,float *c1,$/;"	f	file:
+dradf2	speex/libspeex/smallft.c	/^static void dradf2(int ido,int l1,float *cc,float *ch,float *wa1){$/;"	f	file:
+dradf4	speex/libspeex/smallft.c	/^static void dradf4(int ido,int l1,float *cc,float *ch,float *wa1,$/;"	f	file:
+dradfg	speex/libspeex/smallft.c	/^static void dradfg(int ido,int ip,int l1,int idl1,float *cc,float *c1,$/;"	f	file:
+drft_lookup	speex/libspeex/smallft.h	/^struct drft_lookup{$/;"	s
+drftb1	speex/libspeex/smallft.c	/^static void drftb1(int n, float *c, float *ch, float *wa, int *ifac){$/;"	f	file:
+drftf1	speex/libspeex/smallft.c	/^static void drftf1(int n,float *c,float *ch,float *wa,int *ifac){$/;"	f	file:
+drfti1	speex/libspeex/smallft.c	/^static void drfti1(int n, float *wa, int *ifac){$/;"	f	file:
+dtx_count	speex/libspeex/nb_celp.h	/^   int    dtx_count;             \/**< Number of consecutive DTX frames *\/$/;"	m	struct:EncState
+dtx_enabled	speex/libspeex/nb_celp.h	/^   int    dtx_enabled;           \/**< 1 for enabling DTX, 0 otherwise *\/$/;"	m	struct:EncState
+dtx_enabled	speex/libspeex/nb_celp.h	/^   int    dtx_enabled;$/;"	m	struct:DecState
+dump_audio	speex/libspeex/mdf.c	/^static void dump_audio(const spx_int16_t *rec, const spx_int16_t *play, const spx_int16_t *out, int len)$/;"	f	file:
+e	speex/libspeex/mdf.c	/^   spx_word16_t *e;      \/* scratch *\/$/;"	m	struct:SpeexEchoState_	file:
+e	speex/libspeex/pseudofloat.h	/^   spx_int16_t e;$/;"	m	struct:__anon5
+e_ratio	speex/include/speex/speex_stereo.h	/^   float e_ratio;      \/**< Ratio of energies: E(left+right)\/[E(left)+E(right)]  *\/$/;"	m	struct:SpeexStereoState
+e_ratio	speex/libspeex/stereo.c	/^   spx_word32_t e_ratio;      \/**< Ratio of energies: E(left+right)\/[E(left)+E(right)]  *\/$/;"	m	struct:RealSpeexStereoState	file:
+e_ratio_quant	speex/libspeex/stereo.c	/^static const float e_ratio_quant[4] = {.25f, .315f, .397f, .5f};$/;"	v	file:
+e_ratio_quant	speex/libspeex/stereo.c	/^static const spx_word16_t e_ratio_quant[4] = {8192, 10332, 13009, 16384};$/;"	v	file:
+e_ratio_quant_bounds	speex/libspeex/stereo.c	/^static const float e_ratio_quant_bounds[3] = {0.2825f, 0.356f, 0.4485f};$/;"	v	file:
+e_ratio_quant_bounds	speex/libspeex/stereo.c	/^static const spx_word16_t e_ratio_quant_bounds[3] = {9257, 11665, 14696};$/;"	v	file:
+ebits	customspeex.h	/^    SpeexBits ebits, dbits;$/;"	m	class:CustomSpeex
+echo_diagnostic	speex/libspeex/echo_diagnostic.m	/^function out = echo_diagnostic(rec_file, play_file, out_file, tail_length)$/;"	f
+echo_noise	speex/libspeex/preprocess.c	/^   spx_word32_t *echo_noise;$/;"	m	struct:SpeexPreprocessState_	file:
+echo_state	customspeex.h	/^    SpeexEchoState *echo_state;$/;"	m	class:CustomSpeex
+echo_state	speex/libspeex/preprocess.c	/^   SpeexEchoState *echo_state;$/;"	m	struct:SpeexPreprocessState_	file:
+echo_suppress	speex/libspeex/preprocess.c	/^   int    echo_suppress;$/;"	m	struct:SpeexPreprocessState_	file:
+echo_suppress_active	speex/libspeex/preprocess.c	/^   int    echo_suppress_active;$/;"	m	struct:SpeexPreprocessState_	file:
+enc	speex/include/speex/speex.h	/^   encode_func enc;$/;"	m	struct:SpeexMode
+enc_ctl	speex/include/speex/speex.h	/^   encoder_ctl_func enc_ctl;$/;"	m	struct:SpeexMode
+enc_destroy	speex/include/speex/speex.h	/^   encoder_destroy_func enc_destroy;$/;"	m	struct:SpeexMode
+enc_frame_size	customspeex.h	/^    int enc_frame_size;$/;"	m	class:CustomSpeex
+enc_init	speex/include/speex/speex.h	/^   encoder_init_func enc_init;$/;"	m	struct:SpeexMode
+enc_state	customspeex.h	/^    void *enc_state;$/;"	m	class:CustomSpeex
+encode	customspeex.cpp	/^int CustomSpeex::encode(short  * in,  char  *  out, int size)$/;"	f	class:CustomSpeex
+encode_func	speex/include/speex/speex.h	/^typedef int (*encode_func)(void *state, void *in, SpeexBits *bits);$/;"	t
+encode_submode	speex/libspeex/nb_celp.h	/^   int    encode_submode;$/;"	m	struct:DecState
+encode_submode	speex/libspeex/nb_celp.h	/^   int    encode_submode;$/;"	m	struct:EncState
+encode_submode	speex/libspeex/sb_celp.h	/^   int    encode_submode;$/;"	m	struct:SBDecState
+encode_submode	speex/libspeex/sb_celp.h	/^   int    encode_submode;$/;"	m	struct:SBEncState
+encoder_ctl_func	speex/include/speex/speex.h	/^typedef int (*encoder_ctl_func)(void *state, int request, void *ptr);$/;"	t
+encoder_destroy_func	speex/include/speex/speex.h	/^typedef void (*encoder_destroy_func)(void *st);$/;"	t
+encoder_init_func	speex/include/speex/speex.h	/^typedef void *(*encoder_init_func)(const struct SpeexMode *mode);$/;"	t
+energy_alpha	speex/libspeex/vbr.h	/^   float energy_alpha;$/;"	m	struct:VBRState
+exc	speex/libspeex/nb_celp.h	/^   spx_word16_t *exc;            \/**< Start of excitation frame *\/$/;"	m	struct:EncState
+exc	speex/libspeex/nb_celp.h	/^   spx_word16_t *exc;           \/**< Start of excitation frame *\/$/;"	m	struct:DecState
+excBuf	speex/libspeex/nb_celp.h	/^   spx_word16_t *excBuf;         \/**< Excitation buffer *\/$/;"	m	struct:EncState
+excBuf	speex/libspeex/nb_celp.h	/^   spx_word16_t *excBuf;        \/**< Excitation buffer *\/$/;"	m	struct:DecState
+excBuf	speex/libspeex/sb_celp.h	/^   spx_word16_t *excBuf;$/;"	m	struct:SBDecState
+exc_10_16_table	speex/libspeex/exc_10_16_table.c	/^const signed char exc_10_16_table[160] = {$/;"	v
+exc_10_32_table	speex/libspeex/exc_10_32_table.c	/^const signed char exc_10_32_table[320] = {$/;"	v
+exc_20_32_table	speex/libspeex/exc_20_32_table.c	/^const signed char exc_20_32_table[640] = {$/;"	v
+exc_5_256_table	speex/libspeex/exc_5_256_table.c	/^const signed char exc_5_256_table[1280] = {$/;"	v
+exc_5_64_table	speex/libspeex/exc_5_64_table.c	/^const signed char exc_5_64_table[320]={$/;"	v
+exc_8_128_table	speex/libspeex/exc_8_128_table.c	/^const signed char exc_8_128_table[1024] = {$/;"	v
+exc_gain_quant_scal1	speex/libspeex/nb_celp.c	/^const float exc_gain_quant_scal1[2]={0.70469f, 1.05127f};$/;"	v
+exc_gain_quant_scal1	speex/libspeex/nb_celp.c	/^const spx_word16_t exc_gain_quant_scal1[2]={11546, 17224};$/;"	v
+exc_gain_quant_scal1_bound	speex/libspeex/nb_celp.c	/^const float exc_gain_quant_scal1_bound[1]={0.87798f};$/;"	v
+exc_gain_quant_scal1_bound	speex/libspeex/nb_celp.c	/^const spx_word16_t exc_gain_quant_scal1_bound[1]={14385};$/;"	v
+exc_gain_quant_scal3	speex/libspeex/nb_celp.c	/^const float exc_gain_quant_scal3[8]={0.061130f, 0.163546f, 0.310413f, 0.428220f, 0.555887f, 0.719055f, 0.938694f, 1.326874f};$/;"	v
+exc_gain_quant_scal3	speex/libspeex/nb_celp.c	/^const spx_word16_t exc_gain_quant_scal3[8]={1002, 2680, 5086, 7016, 9108, 11781, 15380, 21740};$/;"	v
+exc_gain_quant_scal3_bound	speex/libspeex/nb_celp.c	/^const float exc_gain_quant_scal3_bound[7]={0.112338f, 0.236980f, 0.369316f, 0.492054f, 0.637471f, 0.828874f, 1.132784f};$/;"	v
+exc_gain_quant_scal3_bound	speex/libspeex/nb_celp.c	/^const spx_word16_t exc_gain_quant_scal3_bound[7]={1841, 3883, 6051, 8062, 10444, 13580, 18560};$/;"	v
+exc_rms	speex/libspeex/sb_celp.h	/^   spx_word16_t *exc_rms;$/;"	m	struct:SBDecState
+exc_rms	speex/libspeex/sb_celp.h	/^   spx_word16_t *exc_rms;$/;"	m	struct:SBEncState
+extra_headers	speex/include/speex/speex_header.h	/^   spx_int32_t extra_headers;          \/**< Number of additional headers after the comments *\/$/;"	m	struct:SpeexHeader
+factors	speex/libspeex/_kiss_fft_guts.h	/^    int factors[2*MAXFACTORS];$/;"	m	struct:kiss_fft_state
+fdrffti	speex/libspeex/smallft.c	/^static void fdrffti(int n, float *wsave, int *ifac){$/;"	f	file:
+fft	speex/libspeex/fftwrap.c	/^  fftwf_plan fft;$/;"	m	struct:fftw_config	file:
+fft_lookup	speex/libspeex/preprocess.c	/^   void  *fft_lookup;        \/**< Lookup table for the FFT *\/$/;"	m	struct:SpeexPreprocessState_	file:
+fft_table	speex/libspeex/mdf.c	/^   void *fft_table;$/;"	m	struct:SpeexEchoState_	file:
+fftw_config	speex/libspeex/fftwrap.c	/^struct fftw_config {$/;"	s	file:
+filled	speex/libspeex/jitter.c	/^   int filled;                         \/**< Number of entries occupied in "timing" and "counts"*\/$/;"	m	struct:TimingBuffer	file:
+filt_len	speex/libspeex/resample.c	/^   spx_uint32_t filt_len;$/;"	m	struct:SpeexResamplerState_	file:
+filter_dc_notch16	speex/libspeex/mdf.c	/^static inline void filter_dc_notch16(const spx_int16_t *in, spx_word16_t radius, spx_word16_t *out, int len, spx_mem_t *mem, int stride)$/;"	f	file:
+filter_left	speex/libspeex/filterbank.h	/^   spx_word16_t *filter_left;$/;"	m	struct:__anon2
+filter_mem16	speex/libspeex/filters.c	/^void filter_mem16(const spx_word16_t *x, const spx_coef_t *num, const spx_coef_t *den, spx_word16_t *y, int N, int ord, spx_mem_t *mem, char *stack)$/;"	f
+filter_mem16	speex/libspeex/filters_bfin.h	/^void filter_mem16(const spx_word16_t *_x, const spx_coef_t *num, const spx_coef_t *den, spx_word16_t *_y, int N, int ord, spx_mem_t *mem, char *stack)$/;"	f
+filter_mem16	speex/libspeex/filters_sse.h	/^void filter_mem16(const float *x, const float *_num, const float *_den, float *y, int N, int ord, float *_mem, char *stack)$/;"	f
+filter_mem16_10	speex/libspeex/filters_sse.h	/^void filter_mem16_10(const float *x, const float *_num, const float *_den, float *y, int N, int ord, float *_mem)$/;"	f
+filter_mem16_8	speex/libspeex/filters_sse.h	/^void filter_mem16_8(const float *x, const float *_num, const float *_den, float *y, int N, int ord, float *_mem)$/;"	f
+filter_right	speex/libspeex/filterbank.h	/^   spx_word16_t *filter_right;$/;"	m	struct:__anon2
+filterbank_compute_bank	speex/libspeex/filterbank.c	/^void filterbank_compute_bank(FilterBank *bank, float *ps, float *mel)$/;"	f
+filterbank_compute_bank32	speex/libspeex/filterbank.c	/^void filterbank_compute_bank32(FilterBank *bank, spx_word32_t *ps, spx_word32_t *mel)$/;"	f
+filterbank_compute_psd	speex/libspeex/filterbank.c	/^void filterbank_compute_psd(FilterBank *bank, float *mel, float *ps)$/;"	f
+filterbank_compute_psd16	speex/libspeex/filterbank.c	/^void filterbank_compute_psd16(FilterBank *bank, spx_word16_t *mel, spx_word16_t *ps)$/;"	f
+filterbank_destroy	speex/libspeex/filterbank.c	/^void filterbank_destroy(FilterBank *bank)$/;"	f
+filterbank_new	speex/libspeex/filterbank.c	/^FilterBank *filterbank_new(int banks, spx_word32_t sampling, int len, int type)$/;"	f
+filterbank_psy_smooth	speex/libspeex/filterbank.c	/^void filterbank_psy_smooth(FilterBank *bank, float *ps, float *mask)$/;"	f
+fir_mem16	speex/libspeex/filters.c	/^void fir_mem16(const spx_word16_t *x, const spx_coef_t *num, spx_word16_t *y, int N, int ord, spx_mem_t *mem, char *stack)$/;"	f
+fir_mem16	speex/libspeex/filters_bfin.h	/^void fir_mem16(const spx_word16_t *x, const spx_coef_t *num, spx_word16_t *y, int N, int ord, spx_mem_t *mem, char *stack)$/;"	f
+fir_mem16	speex/libspeex/filters_sse.h	/^void fir_mem16(const float *x, const float *_num, float *y, int N, int ord, float *_mem, char *stack)$/;"	f
+fir_mem16_10	speex/libspeex/filters_sse.h	/^void fir_mem16_10(const float *x, const float *_num, float *y, int N, int ord, float *_mem)$/;"	f
+fir_mem16_8	speex/libspeex/filters_sse.h	/^void fir_mem16_8(const float *x, const float *_num, float *y, int N, int ord, float *_mem)$/;"	f
+first	speex/libspeex/nb_celp.h	/^   int    first;                 \/**< Is this the first frame? *\/$/;"	m	struct:EncState
+first	speex/libspeex/nb_celp.h	/^   int    first;                \/**< Is this the first frame? *\/$/;"	m	struct:DecState
+first	speex/libspeex/sb_celp.h	/^   int    first;                  \/**< First frame? *\/$/;"	m	struct:SBEncState
+first	speex/libspeex/sb_celp.h	/^   int    first;$/;"	m	struct:SBDecState
+fold_quant_bound	speex/libspeex/sb_celp.c	/^static const spx_word16_t fold_quant_bound[32] = {$/;"	v	file:
+folding_gain	speex/libspeex/modes.h	/^   spx_word16_t   folding_gain;$/;"	m	struct:SpeexSBMode
+forced_pitch_gain	speex/libspeex/modes.h	/^   int     forced_pitch_gain;  \/**< Use the same (forced) pitch gain for all sub-frames *\/$/;"	m	struct:SpeexSubmode
+forced_pitch_quant	speex/libspeex/ltp.c	/^int forced_pitch_quant($/;"	f
+forced_pitch_unquant	speex/libspeex/ltp.c	/^void forced_pitch_unquant($/;"	f
+foreground	speex/libspeex/mdf.c	/^   spx_word16_t *foreground; \/* Foreground filter weights *\/$/;"	m	struct:SpeexEchoState_	file:
+forward	speex/libspeex/fftwrap.c	/^   kiss_fftr_cfg forward;$/;"	m	struct:kiss_config	file:
+frac_advance	speex/libspeex/resample.c	/^   int          frac_advance;$/;"	m	struct:SpeexResamplerState_	file:
+frame	speex/libspeex/preprocess.c	/^   spx_word16_t *frame;      \/**< Processing frame (2*ps_size) *\/$/;"	m	struct:SpeexPreprocessState_	file:
+frameSize	speex/libspeex/modes.h	/^   int     frameSize;      \/**< Size of frames used for encoding *\/$/;"	m	struct:SpeexNBMode
+frameSize	speex/libspeex/modes.h	/^   int     frameSize;     \/**< Size of frames used for encoding *\/$/;"	m	struct:SpeexSBMode
+frameSize	speex/libspeex/nb_celp.h	/^   int    frameSize;             \/**< Size of frames *\/$/;"	m	struct:EncState
+frameSize	speex/libspeex/nb_celp.h	/^   int    frameSize;            \/**< Size of frames *\/$/;"	m	struct:DecState
+frame_shift	speex/libspeex/preprocess.c	/^   int    frame_shift;$/;"	m	struct:SpeexPreprocessState_	file:
+frame_size	speex/include/speex/speex_header.h	/^   spx_int32_t frame_size;             \/**< Size of frames *\/$/;"	m	struct:SpeexHeader
+frame_size	speex/libspeex/mdf.c	/^   int frame_size;           \/**< Number of samples processed each time *\/$/;"	m	struct:SpeexEchoState_	file:
+frame_size	speex/libspeex/preprocess.c	/^   int    frame_size;        \/**< Number of samples processed each time *\/$/;"	m	struct:SpeexPreprocessState_	file:
+frame_size	speex/libspeex/sb_celp.h	/^   int    frame_size;             \/**< Length of high-band frames*\/$/;"	m	struct:SBEncState
+frame_size	speex/libspeex/sb_celp.h	/^   int    frame_size;$/;"	m	struct:SBDecState
+frame_size	speex/libspeex/scal.c	/^   int frame_size;$/;"	m	struct:SpeexDecorrState_	file:
+frames_per_packet	speex/include/speex/speex_header.h	/^   spx_int32_t frames_per_packet;      \/**< Number of frames stored per Ogg packet *\/$/;"	m	struct:SpeexHeader
+fromBARK	speex/libspeex/vorbis_psy.h	55;"	d
+fromOC	speex/libspeex/vorbis_psy.h	61;"	d
+fromdB	speex/libspeex/vorbis_psy.h	43;"	d
+ft	speex/libspeex/preprocess.c	/^   spx_word16_t *ft;         \/**< Processing frame in freq domain (2*ps_size) *\/$/;"	m	struct:SpeexPreprocessState_	file:
+full_frame_size	speex/libspeex/sb_celp.h	/^   int    full_frame_size;        \/**< Length of full-band frames*\/$/;"	m	struct:SBEncState
+full_frame_size	speex/libspeex/sb_celp.h	/^   int    full_frame_size;$/;"	m	struct:SBDecState
+func	speex/include/speex/speex_callbacks.h	/^   speex_callback_func func;    \/**< Callback handler function *\/$/;"	m	struct:SpeexCallback
+g0_mem	speex/libspeex/sb_celp.h	/^   spx_word16_t *g0_mem, *g1_mem;$/;"	m	struct:SBDecState
+g1_mem	speex/libspeex/sb_celp.h	/^   spx_word16_t *g0_mem, *g1_mem;$/;"	m	struct:SBDecState
+gain	speex/libspeex/preprocess.c	/^   spx_word16_t *gain;       \/**< Ephraim Malah gain *\/$/;"	m	struct:SpeexPreprocessState_	file:
+gain2	speex/libspeex/preprocess.c	/^   spx_word16_t *gain2;      \/**< Adjusted gains *\/$/;"	m	struct:SpeexPreprocessState_	file:
+gain_3tap_to_1tap	speex/libspeex/ltp.h	46;"	d
+gain_3tap_to_1tap	speex/libspeex/ltp.h	48;"	d
+gain_bits	speex/libspeex/ltp.h	/^   int     gain_bits;$/;"	m	struct:__anon4
+gain_cdbk	speex/libspeex/ltp.h	/^   const signed char *gain_cdbk;$/;"	m	struct:__anon4
+gain_cdbk_lbr	speex/libspeex/gain_table_lbr.c	/^const signed char gain_cdbk_lbr[128] = {$/;"	v
+gain_cdbk_nb	speex/libspeex/gain_table.c	/^const signed char gain_cdbk_nb[512] = {$/;"	v
+gain_floor	speex/libspeex/preprocess.c	/^   spx_word16_t *gain_floor; \/**< Minimum gain allowed *\/$/;"	m	struct:SpeexPreprocessState_	file:
+gamma1	speex/libspeex/modes.h	/^   spx_word16_t gamma1;    \/**< Perceptual filter parameter #1 *\/$/;"	m	struct:SpeexNBMode
+gamma1	speex/libspeex/modes.h	/^   spx_word16_t gamma1;   \/**< Perceptual filter parameter #1 *\/$/;"	m	struct:SpeexSBMode
+gamma1	speex/libspeex/nb_celp.h	/^   spx_word16_t  gamma1;         \/**< Perceptual filter: A(z\/gamma1) *\/$/;"	m	struct:EncState
+gamma1	speex/libspeex/sb_celp.h	/^   spx_word16_t  gamma1;          \/**< Perceptual weighting coef 1 *\/$/;"	m	struct:SBEncState
+gamma2	speex/libspeex/modes.h	/^   spx_word16_t gamma2;    \/**< Perceptual filter parameter #2 *\/$/;"	m	struct:SpeexNBMode
+gamma2	speex/libspeex/modes.h	/^   spx_word16_t gamma2;   \/**< Perceptual filter parameter #1 *\/$/;"	m	struct:SpeexSBMode
+gamma2	speex/libspeex/nb_celp.h	/^   spx_word16_t  gamma2;         \/**< Perceptual filter: A(z\/gamma2) *\/$/;"	m	struct:EncState
+gamma2	speex/libspeex/sb_celp.h	/^   spx_word16_t  gamma2;          \/**< Perceptual weighting coef 2 *\/$/;"	m	struct:SBEncState
+gc_quant_bound	speex/libspeex/sb_celp.c	/^static const spx_word16_t gc_quant_bound[16] = {$/;"	v	file:
+gc_quant_bound	speex/libspeex/sb_celp.c	/^static const spx_word16_t gc_quant_bound[16] = {125, 164, 215, 282, 370, 484, 635, 832, 1090, 1428, 1871, 2452, 3213, 4210, 5516, 7228};$/;"	v	file:
+getFrameSize	customspeex.cpp	/^int CustomSpeex::getFrameSize()$/;"	f	class:CustomSpeex
+h0	speex/libspeex/sb_celp.c	/^static const float h0[64] = {$/;"	v	file:
+h0	speex/libspeex/sb_celp.c	/^static const spx_word16_t h0[64] = {2, -7, -7, 18, 15, -39, -25, 75, 35, -130, -41, 212, 38, -327, -17, 483, -32, -689, 124, 956, -283, -1307, 543, 1780, -973, -2467, 1733, 3633, -3339, -6409, 9059, 30153, 30153, 9059, -6409, -3339, 3633, 1733, -2467, -973, 1780, 543, -1307, -283, 956, 124, -689, -32, 483, -17, -327, 38, 212, -41, -130, 35, 75, -25, -39, 15, 18, -7, -7, 2};$/;"	v	file:
+h0_mem	speex/libspeex/sb_celp.h	/^   spx_word16_t *h0_mem, *h1_mem;$/;"	m	struct:SBEncState
+h1_mem	speex/libspeex/sb_celp.h	/^   spx_word16_t *h0_mem, *h1_mem;$/;"	m	struct:SBEncState
+have_sign	speex/libspeex/cb_search.h	/^   int     have_sign;$/;"	m	struct:split_cb_params
+have_subframe_gain	speex/libspeex/modes.h	/^   int     have_subframe_gain; \/**< Number of bits to use as sub-frame innovation gain *\/$/;"	m	struct:SpeexSubmode
+header_size	speex/include/speex/speex_header.h	/^   spx_int32_t header_size;            \/**< Total size of the header ( sizeof(SpeexHeader) ) *\/$/;"	m	struct:SpeexHeader
+hexc_10_32_table	speex/libspeex/hexc_10_32_table.c	/^const signed char hexc_10_32_table[320] = {$/;"	v
+hexc_table	speex/libspeex/hexc_table.c	/^const signed char hexc_table[1024] = {$/;"	v
+high	speex/libspeex/sb_celp.h	/^   spx_word16_t *high;               \/**< High-band signal (buffer) *\/$/;"	m	struct:SBEncState
+high_lsp_cdbk	speex/libspeex/high_lsp_tables.c	/^const signed char high_lsp_cdbk[512]={$/;"	v
+high_lsp_cdbk2	speex/libspeex/high_lsp_tables.c	/^const signed char high_lsp_cdbk2[512]={$/;"	v
+highpass	speex/libspeex/filters.c	/^void highpass(const spx_word16_t *x, spx_word16_t *y, int len, int filtID, spx_mem_t *mem)$/;"	f
+highpass_enabled	speex/libspeex/nb_celp.h	/^   int    highpass_enabled;        \/**< Is the input filter enabled *\/$/;"	m	struct:DecState
+highpass_enabled	speex/libspeex/nb_celp.h	/^   int    highpass_enabled;        \/**< Is the input filter enabled *\/$/;"	m	struct:EncState
+hypergeom_gain	speex/libspeex/preprocess.c	/^static inline spx_word32_t hypergeom_gain(spx_word32_t xx)$/;"	f	file:
+i	speex/libspeex/kiss_fft.h	/^    kiss_fft_scalar i;$/;"	m	struct:__anon3
+idx	speex/libspeex/testjitter.c	/^  unsigned int idx;$/;"	m	union:jbpdata	file:
+ifft	speex/libspeex/fftwrap.c	/^  fftwf_plan ifft;$/;"	m	struct:fftw_config	file:
+iir_mem16	speex/libspeex/filters.c	/^void iir_mem16(const spx_word16_t *x, const spx_coef_t *den, spx_word16_t *y, int N, int ord, spx_mem_t *mem, char *stack)$/;"	f
+iir_mem16	speex/libspeex/filters_bfin.h	/^void iir_mem16(const spx_word16_t *_x, const spx_coef_t *den, spx_word16_t *_y, int N, int ord, spx_mem_t *mem, char *stack)$/;"	f
+iir_mem16	speex/libspeex/filters_sse.h	/^void iir_mem16(const float *x, const float *_den, float *y, int N, int ord, float *_mem, char *stack)$/;"	f
+iir_mem16_10	speex/libspeex/filters_sse.h	/^void iir_mem16_10(const float *x, const float *_den, float *y, int N, int ord, float *_mem)$/;"	f
+iir_mem16_8	speex/libspeex/filters_sse.h	/^void iir_mem16_8(const float *x, const float *_den, float *y, int N, int ord, float *_mem)$/;"	f
+in	speex/libspeex/fftwrap.c	/^  float *in;$/;"	m	struct:fftw_config	file:
+in_rate	speex/libspeex/resample.c	/^   spx_uint32_t in_rate;$/;"	m	struct:SpeexResamplerState_	file:
+in_stride	speex/libspeex/resample.c	/^   int    in_stride;$/;"	m	struct:SpeexResamplerState_	file:
+inbuf	speex/libspeex/preprocess.c	/^   spx_word16_t *inbuf;      \/**< Input buffer (overlapped analysis) *\/$/;"	m	struct:SpeexPreprocessState_	file:
+init_max	speex/libspeex/preprocess.c	/^   float  init_max;          \/**< Current gain limit during initialisation *\/$/;"	m	struct:SpeexPreprocessState_	file:
+initialised	speex/libspeex/resample.c	/^   int          initialised;$/;"	m	struct:SpeexResamplerState_	file:
+inner_prod	speex/libspeex/ltp.c	/^spx_word32_t inner_prod(const spx_word16_t *x, const spx_word16_t *y, int len)$/;"	f
+inner_prod	speex/libspeex/ltp_arm4.h	/^spx_word32_t inner_prod(const spx_word16_t *x, const spx_word16_t *y, int len)$/;"	f
+inner_prod	speex/libspeex/ltp_bfin.h	/^spx_word32_t inner_prod(const spx_word16_t *x, const spx_word16_t *y, int len)$/;"	f
+inner_prod	speex/libspeex/ltp_sse.h	/^float inner_prod(const float *a, const float *b, int len)$/;"	f
+inner_product_double	speex/libspeex/resample_sse.h	/^static inline double inner_product_double(const float *a, const float *b, unsigned int len)$/;"	f
+inner_product_single	speex/libspeex/resample_sse.h	/^static inline float inner_product_single(const float *a, const float *b, unsigned int len)$/;"	f
+innov_rms_save	speex/libspeex/nb_celp.h	/^   spx_word16_t *innov_rms_save; \/**< If non-NULL, innovation RMS is copied here *\/$/;"	m	struct:EncState
+innov_rms_save	speex/libspeex/sb_celp.h	/^   spx_word16_t *innov_rms_save;         \/**< If non-NULL, innovation is copied here *\/$/;"	m	struct:SBEncState
+innov_save	speex/libspeex/nb_celp.h	/^   spx_word16_t *innov_save;    \/** If non-NULL, innovation is copied here *\/$/;"	m	struct:DecState
+innov_save	speex/libspeex/sb_celp.h	/^   spx_word16_t *innov_save;      \/** If non-NULL, innovation is copied here *\/$/;"	m	struct:SBDecState
+innovation_params	speex/libspeex/modes.h	/^   const void             *innovation_params; \/**< Innovation quantization parameters*\/$/;"	m	struct:SpeexSubmode
+innovation_quant	speex/libspeex/modes.h	/^   innovation_quant_func innovation_quant; \/**< Innovation quantization *\/$/;"	m	struct:SpeexSubmode
+innovation_quant_func	speex/libspeex/modes.h	/^typedef void (*innovation_quant_func)(spx_word16_t *, spx_coef_t *, spx_coef_t *, spx_coef_t *, const void *, int, int, $/;"	t
+innovation_unquant	speex/libspeex/modes.h	/^   innovation_unquant_func innovation_unquant; \/**< Innovation un-quantization *\/$/;"	m	struct:SpeexSubmode
+innovation_unquant_func	speex/libspeex/modes.h	/^typedef void (*innovation_unquant_func)(spx_sig_t *, const void *, int, SpeexBits*, char *, spx_int32_t *);$/;"	t
+input	speex/libspeex/mdf.c	/^   spx_word16_t *input;  \/* scratch *\/$/;"	m	struct:SpeexEchoState_	file:
+int_advance	speex/libspeex/resample.c	/^   int          int_advance;$/;"	m	struct:SpeexResamplerState_	file:
+interp_pitch	speex/libspeex/filters.c	/^int interp_pitch($/;"	f
+interp_qlpc	speex/libspeex/nb_celp.h	/^   spx_coef_t *interp_qlpc;     \/**< Interpolated quantized LPCs *\/$/;"	m	struct:DecState
+interp_qlpc	speex/libspeex/sb_celp.h	/^   spx_coef_t *interp_qlpc;       \/**< Interpolated quantized LPCs for current sub-frame *\/$/;"	m	struct:SBEncState
+interp_qlpc	speex/libspeex/sb_celp.h	/^   spx_coef_t *interp_qlpc;$/;"	m	struct:SBDecState
+interp_requested	speex/libspeex/jitter.c	/^   int interp_requested;                                       \/**< An interpolation is requested by speex_jitter_update_delay() *\/$/;"	m	struct:JitterBuffer_	file:
+interpolate_product_double	speex/libspeex/resample_sse.h	/^static inline double interpolate_product_double(const float *a, const float *b, unsigned int len, const spx_uint32_t oversample, float *frac) {$/;"	f
+interpolate_product_single	speex/libspeex/resample_sse.h	/^static inline float interpolate_product_single(const float *a, const float *b, unsigned int len, const spx_uint32_t oversample, float *frac) {$/;"	f
+inverse	speex/libspeex/_kiss_fft_guts.h	/^    int inverse;$/;"	m	struct:kiss_fft_state
+irand	speex/libspeex/scal.c	/^static unsigned int irand(int *seed)$/;"	f	file:
+isWideband	speex/libspeex/nb_celp.h	/^   int    isWideband;            \/**< Is this used as part of the embedded wideband codec *\/$/;"	m	struct:DecState
+isWideband	speex/libspeex/nb_celp.h	/^   int    isWideband;            \/**< Is this used as part of the embedded wideband codec *\/$/;"	m	struct:EncState
+jbpdata	speex/libspeex/testjitter.c	/^union jbpdata {$/;"	u	file:
+jitterFill	speex/libspeex/testjitter.c	/^void jitterFill(JitterBuffer *jb) {$/;"	f
+jitter_buffer_ctl	speex/libspeex/jitter.c	/^EXPORT int jitter_buffer_ctl(JitterBuffer *jitter, int request, void *ptr)$/;"	f
+jitter_buffer_destroy	speex/libspeex/jitter.c	/^EXPORT void jitter_buffer_destroy(JitterBuffer *jitter)$/;"	f
+jitter_buffer_get	speex/libspeex/jitter.c	/^EXPORT int jitter_buffer_get(JitterBuffer *jitter, JitterBufferPacket *packet, spx_int32_t desired_span, spx_int32_t *start_offset)$/;"	f
+jitter_buffer_get_another	speex/libspeex/jitter.c	/^EXPORT int jitter_buffer_get_another(JitterBuffer *jitter, JitterBufferPacket *packet)$/;"	f
+jitter_buffer_get_pointer_timestamp	speex/libspeex/jitter.c	/^EXPORT int jitter_buffer_get_pointer_timestamp(JitterBuffer *jitter)$/;"	f
+jitter_buffer_init	speex/libspeex/jitter.c	/^EXPORT JitterBuffer *jitter_buffer_init(int step_size)$/;"	f
+jitter_buffer_put	speex/libspeex/jitter.c	/^EXPORT void jitter_buffer_put(JitterBuffer *jitter, const JitterBufferPacket *packet)$/;"	f
+jitter_buffer_remaining_span	speex/libspeex/jitter.c	/^EXPORT void jitter_buffer_remaining_span(JitterBuffer *jitter, spx_uint32_t rem)$/;"	f
+jitter_buffer_reset	speex/libspeex/jitter.c	/^EXPORT void jitter_buffer_reset(JitterBuffer *jitter)$/;"	f
+jitter_buffer_tick	speex/libspeex/jitter.c	/^EXPORT void jitter_buffer_tick(JitterBuffer *jitter)$/;"	f
+jitter_buffer_update_delay	speex/libspeex/jitter.c	/^EXPORT int jitter_buffer_update_delay(JitterBuffer *jitter, JitterBufferPacket *packet, spx_int32_t *start_offset)$/;"	f
+kaiser10_table	speex/libspeex/resample.c	/^static double kaiser10_table[36] = {$/;"	v	file:
+kaiser12_table	speex/libspeex/resample.c	/^static double kaiser12_table[68] = {$/;"	v	file:
+kaiser6_table	speex/libspeex/resample.c	/^static double kaiser6_table[36] = {$/;"	v	file:
+kaiser8_table	speex/libspeex/resample.c	/^static double kaiser8_table[36] = {$/;"	v	file:
+kf_bfly2	speex/libspeex/kiss_fft.c	/^static void kf_bfly2($/;"	f	file:
+kf_bfly3	speex/libspeex/kiss_fft.c	/^static void kf_bfly3($/;"	f	file:
+kf_bfly4	speex/libspeex/kiss_fft.c	/^static void kf_bfly4($/;"	f	file:
+kf_bfly5	speex/libspeex/kiss_fft.c	/^static void kf_bfly5($/;"	f	file:
+kf_bfly_generic	speex/libspeex/kiss_fft.c	/^static void kf_bfly_generic($/;"	f	file:
+kf_cexp	speex/libspeex/_kiss_fft_guts.h	146;"	d
+kf_cexp2	speex/libspeex/_kiss_fft_guts.h	151;"	d
+kf_factor	speex/libspeex/kiss_fft.c	/^void kf_factor(int n,int * facbuf)$/;"	f	file:
+kf_shuffle	speex/libspeex/kiss_fft.c	/^void kf_shuffle($/;"	f	file:
+kf_work	speex/libspeex/kiss_fft.c	/^void kf_work($/;"	f	file:
+kiss_config	speex/libspeex/fftwrap.c	/^struct kiss_config {$/;"	s	file:
+kiss_fft	speex/libspeex/kiss_fft.c	/^void kiss_fft(kiss_fft_cfg cfg,const kiss_fft_cpx *fin,kiss_fft_cpx *fout)$/;"	f
+kiss_fft_alloc	speex/libspeex/kiss_fft.c	/^kiss_fft_cfg kiss_fft_alloc(int nfft,int inverse_fft,void * mem,size_t * lenmem )$/;"	f
+kiss_fft_cfg	speex/libspeex/kiss_fft.h	/^typedef struct kiss_fft_state* kiss_fft_cfg;$/;"	t	typeref:struct:kiss_fft_state
+kiss_fft_cpx	speex/libspeex/kiss_fft.h	/^}kiss_fft_cpx;$/;"	t	typeref:struct:__anon3
+kiss_fft_free	speex/libspeex/kiss_fft.h	95;"	d
+kiss_fft_scalar	speex/libspeex/kiss_fft.h	27;"	d
+kiss_fft_scalar	speex/libspeex/kiss_fft.h	36;"	d
+kiss_fft_scalar	speex/libspeex/kiss_fft.h	40;"	d
+kiss_fft_state	speex/libspeex/_kiss_fft_guts.h	/^struct kiss_fft_state{$/;"	s
+kiss_fft_stride	speex/libspeex/kiss_fft.c	/^void kiss_fft_stride(kiss_fft_cfg st,const kiss_fft_cpx *fin,kiss_fft_cpx *fout,int in_stride)$/;"	f
+kiss_fftr	speex/libspeex/kiss_fftr.c	/^void kiss_fftr(kiss_fftr_cfg st,const kiss_fft_scalar *timedata,kiss_fft_cpx *freqdata)$/;"	f
+kiss_fftr2	speex/libspeex/kiss_fftr.c	/^void kiss_fftr2(kiss_fftr_cfg st,const kiss_fft_scalar *timedata,kiss_fft_scalar *freqdata)$/;"	f
+kiss_fftr_alloc	speex/libspeex/kiss_fftr.c	/^kiss_fftr_cfg kiss_fftr_alloc(int nfft,int inverse_fft,void * mem,size_t * lenmem)$/;"	f
+kiss_fftr_cfg	speex/libspeex/kiss_fftr.h	/^typedef struct kiss_fftr_state *kiss_fftr_cfg;$/;"	t	typeref:struct:kiss_fftr_state
+kiss_fftr_free	speex/libspeex/kiss_fftr.h	46;"	d
+kiss_fftr_state	speex/libspeex/kiss_fftr.c	/^struct kiss_fftr_state{$/;"	s	file:
+kiss_fftri	speex/libspeex/kiss_fftr.c	/^void kiss_fftri(kiss_fftr_cfg st,const kiss_fft_cpx *freqdata, kiss_fft_scalar *timedata)$/;"	f
+kiss_fftri2	speex/libspeex/kiss_fftr.c	/^void kiss_fftri2(kiss_fftr_cfg st,const kiss_fft_scalar *freqdata,kiss_fft_scalar *timedata)$/;"	f
+lagWindow	speex/libspeex/nb_celp.h	/^   const spx_word16_t *lagWindow;      \/**< Window applied to auto-correlation *\/$/;"	m	struct:EncState
+lagWindow	speex/libspeex/sb_celp.h	/^   const spx_word16_t *lagWindow;       \/**< Auto-correlation window *\/$/;"	m	struct:SBEncState
+lag_window	speex/libspeex/window.c	/^const spx_word16_t lag_window[11] = {$/;"	v
+last_ener	speex/libspeex/sb_celp.h	/^   spx_word16_t last_ener;$/;"	m	struct:SBDecState
+last_energy	speex/libspeex/vbr.h	/^   float last_energy;$/;"	m	struct:VBRState
+last_log_energy	speex/libspeex/vbr.h	/^   float last_log_energy[VBR_MEMORY_SIZE];$/;"	m	struct:VBRState
+last_ol_gain	speex/libspeex/nb_celp.h	/^   spx_word16_t  last_ol_gain;  \/**< Open-loop gain for previous frame *\/$/;"	m	struct:DecState
+last_pitch	speex/libspeex/nb_celp.h	/^   int    last_pitch;           \/**< Pitch of last correctly decoded frame *\/$/;"	m	struct:DecState
+last_pitch_coef	speex/libspeex/vbr.h	/^   float last_pitch_coef;$/;"	m	struct:VBRState
+last_pitch_gain	speex/libspeex/nb_celp.h	/^   spx_word16_t  last_pitch_gain; \/**< Pitch gain of last correctly decoded frame *\/$/;"	m	struct:DecState
+last_quality	speex/libspeex/vbr.h	/^   float last_quality;$/;"	m	struct:VBRState
+last_returned_timestamp	speex/libspeex/jitter.c	/^   spx_uint32_t last_returned_timestamp;                       \/**< Useful for getting the next packet with the same timestamp (for fragmented media) *\/$/;"	m	struct:JitterBuffer_	file:
+last_sample	speex/libspeex/resample.c	/^   spx_int32_t  *last_sample;$/;"	m	struct:SpeexResamplerState_	file:
+last_y	speex/libspeex/mdf.c	/^   spx_word16_t *last_y;$/;"	m	struct:SpeexEchoState_	file:
+late_cutoff	speex/libspeex/jitter.c	/^   int late_cutoff;                                            \/**< How late must a packet be for it not to be considered at all *\/$/;"	m	struct:JitterBuffer_	file:
+latency_tradeoff	speex/libspeex/jitter.c	/^   int latency_tradeoff;                                       \/**< Latency equivalent of losing one percent of packets *\/$/;"	m	struct:JitterBuffer_	file:
+lbr_pitch	speex/libspeex/modes.h	/^   int     lbr_pitch;          \/**< Set to -1 for "normal" modes, otherwise encode pitch using a global pitch and allowing a +- lbr_pitch variation (for low not-rates)*\/$/;"	m	struct:SpeexSubmode
+le_int	speex/libspeex/speex_header.c	/^static inline spx_int32_t le_int(spx_int32_t i)$/;"	f	file:
+leak_estimate	speex/libspeex/mdf.c	/^   spx_word16_t leak_estimate;$/;"	m	struct:SpeexEchoState_	file:
+len	speex/include/speex/speex_jitter.h	/^   spx_uint32_t len;        \/**< Length of the packet in bytes *\/$/;"	m	struct:_JitterBufferPacket
+len	speex/libspeex/filterbank.h	/^   int len;$/;"	m	struct:__anon2
+level	speex/libspeex/nb_celp.h	/^   spx_word16_t level;$/;"	m	struct:DecState
+lookup	speex/libspeex/scal.c	/^   struct drft_lookup lookup;$/;"	m	struct:SpeexDecorrState_	typeref:struct:SpeexDecorrState_::drft_lookup	file:
+lookup	speex/libspeex/vorbis_psy.h	/^  struct drft_lookup lookup;$/;"	m	struct:__anon7	typeref:struct:__anon7::drft_lookup
+lost_count	speex/libspeex/jitter.c	/^   int lost_count;                                             \/**< Number of consecutive lost packets  *\/$/;"	m	struct:JitterBuffer_	file:
+loudness	speex/libspeex/preprocess.c	/^   float  loudness;          \/**< Loudness estimate *\/$/;"	m	struct:SpeexPreprocessState_	file:
+loudness_accum	speex/libspeex/preprocess.c	/^   float  loudness_accum;$/;"	m	struct:SpeexPreprocessState_	file:
+loudness_weight	speex/libspeex/preprocess.c	/^   float *loudness_weight;   \/**< Perceptual loudness curve *\/$/;"	m	struct:SpeexPreprocessState_	file:
+low_quality_map	speex/libspeex/modes.h	/^   int     low_quality_map[11]; \/**< Mode corresponding to each quality setting *\/$/;"	m	struct:SpeexSBMode
+lpcSize	speex/libspeex/modes.h	/^   int     lpcSize;        \/**< Order of LPC filter *\/$/;"	m	struct:SpeexNBMode
+lpcSize	speex/libspeex/modes.h	/^   int     lpcSize;       \/**< Order of LPC filter *\/$/;"	m	struct:SpeexSBMode
+lpcSize	speex/libspeex/nb_celp.h	/^   int    lpcSize;               \/**< LPC order *\/$/;"	m	struct:EncState
+lpcSize	speex/libspeex/nb_celp.h	/^   int    lpcSize;              \/**< LPC order *\/$/;"	m	struct:DecState
+lpcSize	speex/libspeex/sb_celp.h	/^   int    lpcSize;                \/**< Order of high-band LPC analysis *\/$/;"	m	struct:SBEncState
+lpcSize	speex/libspeex/sb_celp.h	/^   int    lpcSize;$/;"	m	struct:SBDecState
+lpc_enh_enabled	speex/libspeex/nb_celp.h	/^   int    lpc_enh_enabled;      \/**< 1 when LPC enhancer is on, 0 otherwise *\/$/;"	m	struct:DecState
+lpc_enh_enabled	speex/libspeex/sb_celp.h	/^   int    lpc_enh_enabled;$/;"	m	struct:SBDecState
+lpc_floor	speex/libspeex/modes.h	/^   spx_word16_t   lpc_floor;      \/**< Noise floor for LPC analysis *\/$/;"	m	struct:SpeexNBMode
+lpc_floor	speex/libspeex/modes.h	/^   spx_word16_t   lpc_floor;     \/**< Noise floor for LPC analysis *\/$/;"	m	struct:SpeexSBMode
+lpc_floor	speex/libspeex/nb_celp.h	/^   spx_word16_t  lpc_floor;      \/**< Noise floor multiplier for A[0] in LPC analysis*\/$/;"	m	struct:EncState
+lpc_floor	speex/libspeex/sb_celp.h	/^   spx_word16_t  lpc_floor;       \/**< Controls LPC analysis noise floor *\/$/;"	m	struct:SBEncState
+lpc_to_lsp	speex/libspeex/lsp.c	/^int lpc_to_lsp (spx_coef_t *a,int lpcrdr,spx_lsp_t *freq,int nb,spx_word16_t delta, char *stack)$/;"	f
+lpc_window	speex/libspeex/window.c	/^const spx_word16_t lpc_window[200] = {$/;"	v
+lsp_enforce_margin	speex/libspeex/lsp.c	/^void lsp_enforce_margin(spx_lsp_t *lsp, int len, spx_word16_t margin)$/;"	f
+lsp_interpolate	speex/libspeex/lsp.c	/^void lsp_interpolate(spx_lsp_t *old_lsp, spx_lsp_t *new_lsp, spx_lsp_t *interp_lsp, int len, int subframe, int nb_subframes)$/;"	f
+lsp_quant	speex/libspeex/modes.h	/^   lsp_quant_func    lsp_quant; \/**< LSP quantization function *\/$/;"	m	struct:SpeexSubmode
+lsp_quant	speex/libspeex/quant_lsp.c	/^static int lsp_quant(spx_word16_t *x, const signed char *cdbk, int nbVec, int nbDim)$/;"	f	file:
+lsp_quant	speex/libspeex/quant_lsp_bfin.h	/^static int lsp_quant($/;"	f
+lsp_quant_func	speex/libspeex/modes.h	/^typedef void (*lsp_quant_func)(spx_lsp_t *, spx_lsp_t *, int, SpeexBits *);$/;"	t
+lsp_quant_high	speex/libspeex/quant_lsp.c	/^void lsp_quant_high(spx_lsp_t *lsp, spx_lsp_t *qlsp, int order, SpeexBits *bits)$/;"	f
+lsp_quant_lbr	speex/libspeex/quant_lsp.c	/^void lsp_quant_lbr(spx_lsp_t *lsp, spx_lsp_t *qlsp, int order, SpeexBits *bits)$/;"	f
+lsp_quant_nb	speex/libspeex/quant_lsp.c	/^void lsp_quant_nb(spx_lsp_t *lsp, spx_lsp_t *qlsp, int order, SpeexBits *bits)$/;"	f
+lsp_to_lpc	speex/libspeex/lsp.c	/^void lsp_to_lpc(spx_lsp_t *freq,spx_coef_t *ak,int lpcrdr, char *stack)$/;"	f
+lsp_unquant	speex/libspeex/modes.h	/^   lsp_unquant_func  lsp_unquant; \/**< LSP unquantization function *\/$/;"	m	struct:SpeexSubmode
+lsp_unquant_func	speex/libspeex/modes.h	/^typedef void (*lsp_unquant_func)(spx_lsp_t *, int, SpeexBits *);$/;"	t
+lsp_unquant_high	speex/libspeex/quant_lsp.c	/^void lsp_unquant_high(spx_lsp_t *lsp, int order, SpeexBits *bits)$/;"	f
+lsp_unquant_lbr	speex/libspeex/quant_lsp.c	/^void lsp_unquant_lbr(spx_lsp_t *lsp, int order, SpeexBits *bits)$/;"	f
+lsp_unquant_nb	speex/libspeex/quant_lsp.c	/^void lsp_unquant_nb(spx_lsp_t *lsp, int order, SpeexBits *bits)$/;"	f
+lsp_weight_quant	speex/libspeex/quant_lsp.c	/^static int lsp_weight_quant(spx_word16_t *x, spx_word16_t *weight, const signed char *cdbk, int nbVec, int nbDim)$/;"	f	file:
+lsp_weight_quant	speex/libspeex/quant_lsp_bfin.h	/^static int lsp_weight_quant($/;"	f
+ltp_params	speex/libspeex/ltp.h	/^} ltp_params;$/;"	t	typeref:struct:__anon4
+ltp_params	speex/libspeex/modes.h	/^   const void       *ltp_params; \/**< Pitch parameters (options) *\/$/;"	m	struct:SpeexSubmode
+ltp_params_lbr	speex/libspeex/modes.c	/^static const ltp_params ltp_params_lbr = {$/;"	v	file:
+ltp_params_med	speex/libspeex/modes.c	/^static const ltp_params ltp_params_med = {$/;"	v	file:
+ltp_params_nb	speex/libspeex/modes.c	/^static const ltp_params ltp_params_nb = {$/;"	v	file:
+ltp_params_vlbr	speex/libspeex/modes.c	/^static const ltp_params ltp_params_vlbr = {$/;"	v	file:
+ltp_quant	speex/libspeex/modes.h	/^   ltp_quant_func    ltp_quant; \/**< Long-term predictor (pitch) quantizer *\/$/;"	m	struct:SpeexSubmode
+ltp_quant_func	speex/libspeex/modes.h	/^typedef int (*ltp_quant_func)(spx_word16_t *, spx_word16_t *, spx_coef_t *, spx_coef_t *, $/;"	t
+ltp_unquant	speex/libspeex/modes.h	/^   ltp_unquant_func  ltp_unquant; \/**< Long-term predictor (pitch) un-quantizer *\/$/;"	m	struct:SpeexSubmode
+ltp_unquant_func	speex/libspeex/modes.h	/^typedef void (*ltp_unquant_func)(spx_word16_t *, spx_word32_t *, int, int, spx_word16_t, const void *, int, int *,$/;"	t
+m	speex/libspeex/pseudofloat.h	/^   spx_int16_t m;$/;"	m	struct:__anon5
+m_st	customspeex.h	/^    SpeexPreprocessState * m_st;$/;"	m	class:CustomSpeex
+magic_samples	speex/libspeex/resample.c	/^   spx_uint32_t *magic_samples;$/;"	m	struct:SpeexResamplerState_	file:
+main	speex/libspeex/testdenoise.c	/^int main()$/;"	f
+main	speex/libspeex/testecho.c	/^int main(int argc, char **argv)$/;"	f
+main	speex/libspeex/testenc.c	/^int main(int argc, char **argv)$/;"	f
+main	speex/libspeex/testenc_uwb.c	/^int main(int argc, char **argv)$/;"	f
+main	speex/libspeex/testenc_wb.c	/^int main(int argc, char **argv)$/;"	f
+main	speex/libspeex/testjitter.c	/^int main()$/;"	f
+max_decrease_step	speex/libspeex/preprocess.c	/^   float  max_decrease_step; \/**< Maximum decrease in gain from one frame to another *\/$/;"	m	struct:SpeexPreprocessState_	file:
+max_gain	speex/libspeex/preprocess.c	/^   float  max_gain;          \/**< Maximum gain allowed *\/$/;"	m	struct:SpeexPreprocessState_	file:
+max_increase_step	speex/libspeex/preprocess.c	/^   float  max_increase_step; \/**< Maximum increase in gain from one frame to another *\/$/;"	m	struct:SpeexPreprocessState_	file:
+max_late_rate	speex/libspeex/jitter.c	/^   int max_late_rate;                                          \/**< Absolute maximum amount of late packets tolerable (in percent) *\/$/;"	m	struct:JitterBuffer_	file:
+max_level	speex/libspeex/nb_celp.h	/^   spx_word16_t max_level;$/;"	m	struct:DecState
+max_pitch	speex/libspeex/nb_celp.h	/^   int    max_pitch;             \/**< Maximum pitch value allowed *\/$/;"	m	struct:EncState
+max_pitch	speex/libspeex/nb_celp.h	/^   int    max_pitch;            \/**< Maximum pitch value allowed *\/$/;"	m	struct:DecState
+maximize_range	speex/libspeex/fftwrap.c	/^static int maximize_range(spx_word16_t *in, spx_word16_t *out, spx_word16_t bound, int len)$/;"	f	file:
+mdf_adjust_prop	speex/libspeex/mdf.c	/^static inline void mdf_adjust_prop(const spx_word32_t *W, int N, int M, int P, spx_word16_t *prop)$/;"	f	file:
+mdf_inner_prod	speex/libspeex/mdf.c	/^static inline spx_word32_t mdf_inner_prod(const spx_word16_t *x, const spx_word16_t *y, int len)$/;"	f	file:
+median3	speex/libspeex/nb_celp.c	1011;"	d	file:
+mem	speex/libspeex/resample.c	/^   spx_word16_t *mem;$/;"	m	struct:SpeexResamplerState_	file:
+memD	speex/libspeex/mdf.c	/^   spx_word16_t *memX, *memD, *memE;$/;"	m	struct:SpeexEchoState_	file:
+memE	speex/libspeex/mdf.c	/^   spx_word16_t *memX, *memD, *memE;$/;"	m	struct:SpeexEchoState_	file:
+memX	speex/libspeex/mdf.c	/^   spx_word16_t *memX, *memD, *memE;$/;"	m	struct:SpeexEchoState_	file:
+mem_alloc_size	speex/libspeex/resample.c	/^   spx_uint32_t mem_alloc_size;$/;"	m	struct:SpeexResamplerState_	file:
+mem_exc	speex/libspeex/nb_celp.h	/^   spx_mem_t *mem_exc;           \/**< Filter memory for excitation (whole frame) *\/$/;"	m	struct:EncState
+mem_exc2	speex/libspeex/nb_celp.h	/^   spx_mem_t *mem_exc2;          \/**< Filter memory for excitation (whole frame) *\/$/;"	m	struct:EncState
+mem_hp	speex/libspeex/nb_celp.h	/^   spx_mem_t mem_hp[2];          \/**< High-pass filter memory *\/$/;"	m	struct:EncState
+mem_hp	speex/libspeex/nb_celp.h	/^   spx_mem_t mem_hp[2];         \/**< High-pass filter memory *\/$/;"	m	struct:DecState
+mem_sp	speex/libspeex/nb_celp.h	/^   spx_mem_t *mem_sp;            \/**< Filter memory for signal synthesis *\/$/;"	m	struct:EncState
+mem_sp	speex/libspeex/nb_celp.h	/^   spx_mem_t *mem_sp;           \/**< Filter memory for synthesis signal *\/$/;"	m	struct:DecState
+mem_sp	speex/libspeex/sb_celp.h	/^   spx_mem_t *mem_sp;             \/**< Synthesis signal memory *\/$/;"	m	struct:SBEncState
+mem_sp	speex/libspeex/sb_celp.h	/^   spx_mem_t *mem_sp;$/;"	m	struct:SBDecState
+mem_sp2	speex/libspeex/sb_celp.h	/^   spx_mem_t *mem_sp2;$/;"	m	struct:SBEncState
+mem_sw	speex/libspeex/nb_celp.h	/^   spx_mem_t *mem_sw;            \/**< Filter memory for perceptually-weighted signal *\/$/;"	m	struct:EncState
+mem_sw	speex/libspeex/sb_celp.h	/^   spx_mem_t *mem_sw;             \/**< Perceptual signal memory *\/$/;"	m	struct:SBEncState
+mem_sw_whole	speex/libspeex/nb_celp.h	/^   spx_mem_t *mem_sw_whole;      \/**< Filter memory for perceptually-weighted signal (whole frame)*\/$/;"	m	struct:EncState
+min_count	speex/libspeex/preprocess.c	/^   int    min_count;         \/**< Number of frames processed so far *\/$/;"	m	struct:SpeexPreprocessState_	file:
+min_level	speex/libspeex/nb_celp.h	/^   spx_word16_t min_level;$/;"	m	struct:DecState
+min_pitch	speex/libspeex/nb_celp.h	/^   int    min_pitch;             \/**< Minimum pitch value allowed *\/$/;"	m	struct:EncState
+min_pitch	speex/libspeex/nb_celp.h	/^   int    min_pitch;            \/**< Minimum pitch value allowed *\/$/;"	m	struct:DecState
+mkl_config	speex/libspeex/fftwrap.c	/^struct mkl_config {$/;"	s	file:
+mode	speex/include/speex/speex.h	/^   const void *mode;$/;"	m	struct:SpeexMode
+mode	speex/include/speex/speex_header.h	/^   spx_int32_t mode;                   \/**< Mode used (0 for narrowband, 1 for wideband) *\/$/;"	m	struct:SpeexHeader
+mode	speex/libspeex/nb_celp.h	/^   const SpeexMode *mode;        \/**< Mode corresponding to the state *\/$/;"	m	struct:EncState
+mode	speex/libspeex/nb_celp.h	/^   const SpeexMode *mode;       \/**< Mode corresponding to the state *\/$/;"	m	struct:DecState
+mode	speex/libspeex/sb_celp.h	/^   const SpeexMode *mode;            \/**< Pointer to the mode (containing for vtable info) *\/$/;"	m	struct:SBDecState
+mode	speex/libspeex/sb_celp.h	/^   const SpeexMode *mode;         \/**< Pointer to the mode (containing for vtable info) *\/$/;"	m	struct:SBEncState
+modeID	speex/include/speex/speex.h	/^   int modeID;$/;"	m	struct:SpeexMode
+modeName	speex/include/speex/speex.h	/^   const char *modeName;$/;"	m	struct:SpeexMode
+mode_bitstream_version	speex/include/speex/speex_header.h	/^   spx_int32_t mode_bitstream_version; \/**< Version ID of the bit-stream *\/$/;"	m	struct:SpeexHeader
+mode_query_func	speex/include/speex/speex.h	/^typedef int (*mode_query_func)(const void *mode, int request, void *ptr);$/;"	t
+multicomb	speex/libspeex/filters.c	/^void multicomb($/;"	f
+n	speex/libspeex/smallft.h	/^  int n;$/;"	m	struct:drft_lookup
+n	speex/libspeex/vorbis_psy.h	/^  int n;$/;"	m	struct:__anon7
+nbBits	speex/include/speex/speex_bits.h	/^   int   nbBits;  \/**< Total number of bits stored in the stream*\/$/;"	m	struct:SpeexBits
+nbSubframes	speex/libspeex/nb_celp.h	/^   int    nbSubframes;           \/**< Number of sub-frames *\/$/;"	m	struct:EncState
+nbSubframes	speex/libspeex/nb_celp.h	/^   int    nbSubframes;          \/**< Number of sub-frames *\/$/;"	m	struct:DecState
+nbSubframes	speex/libspeex/sb_celp.h	/^   int    nbSubframes;            \/**< Number of high-band sub-frames*\/$/;"	m	struct:SBEncState
+nbSubframes	speex/libspeex/sb_celp.h	/^   int    nbSubframes;$/;"	m	struct:SBDecState
+nb_adapt	speex/libspeex/preprocess.c	/^   int    nb_adapt;          \/**< Number of frames used for adaptation so far *\/$/;"	m	struct:SpeexPreprocessState_	file:
+nb_banks	speex/libspeex/filterbank.h	/^   int nb_banks;$/;"	m	struct:__anon2
+nb_channels	speex/include/speex/speex_header.h	/^   spx_int32_t nb_channels;            \/**< Number of channels encoded *\/$/;"	m	struct:SpeexHeader
+nb_channels	speex/libspeex/resample.c	/^   spx_uint32_t nb_channels;$/;"	m	struct:SpeexResamplerState_	file:
+nb_decode	speex/libspeex/nb_celp.c	/^int nb_decode(void *state, SpeexBits *bits, void *vout)$/;"	f
+nb_decode_lost	speex/libspeex/nb_celp.c	/^static void nb_decode_lost(DecState *st, spx_word16_t *out, char *stack)$/;"	f	file:
+nb_decoder_ctl	speex/libspeex/nb_celp.c	/^int nb_decoder_ctl(void *state, int request, void *ptr)$/;"	f
+nb_decoder_destroy	speex/libspeex/nb_celp.c	/^void nb_decoder_destroy(void *state)$/;"	f
+nb_decoder_init	speex/libspeex/nb_celp.c	/^void *nb_decoder_init(const SpeexMode *m)$/;"	f
+nb_encode	speex/libspeex/nb_celp.c	/^int nb_encode(void *state, void *vin, SpeexBits *bits)$/;"	f
+nb_encoder_ctl	speex/libspeex/nb_celp.c	/^int nb_encoder_ctl(void *state, int request, void *ptr)$/;"	f
+nb_encoder_destroy	speex/libspeex/nb_celp.c	/^void nb_encoder_destroy(void *state)$/;"	f
+nb_encoder_init	speex/libspeex/nb_celp.c	/^void *nb_encoder_init(const SpeexMode *m)$/;"	f
+nb_mode	speex/libspeex/modes.c	/^static const SpeexNBMode nb_mode = {$/;"	v	file:
+nb_mode	speex/libspeex/modes.h	/^   const SpeexMode *nb_mode;    \/**< Embedded narrowband mode *\/$/;"	m	struct:SpeexSBMode
+nb_mode_query	speex/libspeex/speex.c	/^int nb_mode_query(const void *mode, int request, void *ptr)$/;"	f
+nb_modes	speex/libspeex/modes.h	/^   int     nb_modes;$/;"	m	struct:SpeexSBMode
+nb_submode1	speex/libspeex/modes.c	/^static const SpeexSubmode nb_submode1 = {$/;"	v	file:
+nb_submode2	speex/libspeex/modes.c	/^static const SpeexSubmode nb_submode2 = {$/;"	v	file:
+nb_submode3	speex/libspeex/modes.c	/^static const SpeexSubmode nb_submode3 = {$/;"	v	file:
+nb_submode4	speex/libspeex/modes.c	/^static const SpeexSubmode nb_submode4 = {$/;"	v	file:
+nb_submode5	speex/libspeex/modes.c	/^static const SpeexSubmode nb_submode5 = {$/;"	v	file:
+nb_submode6	speex/libspeex/modes.c	/^static const SpeexSubmode nb_submode6 = {$/;"	v	file:
+nb_submode7	speex/libspeex/modes.c	/^static const SpeexSubmode nb_submode7 = {$/;"	v	file:
+nb_submode8	speex/libspeex/modes.c	/^static const SpeexSubmode nb_submode8 = {$/;"	v	file:
+nb_subvect	speex/libspeex/cb_search.h	/^   int     nb_subvect;$/;"	m	struct:split_cb_params
+nbands	speex/libspeex/preprocess.c	/^   int    nbands;$/;"	m	struct:SpeexPreprocessState_	file:
+next_stop	speex/libspeex/jitter.c	/^   spx_uint32_t next_stop;                                     \/**< Estimated time the next get() will be called *\/$/;"	m	struct:JitterBuffer_	file:
+nfft	speex/libspeex/_kiss_fft_guts.h	/^    int nfft;$/;"	m	struct:kiss_fft_state
+noise	speex/libspeex/preprocess.c	/^   spx_word32_t *noise;      \/**< Noise estimate *\/$/;"	m	struct:SpeexPreprocessState_	file:
+noise_accum	speex/libspeex/vbr.h	/^   float noise_accum;$/;"	m	struct:VBRState
+noise_accum_count	speex/libspeex/vbr.h	/^   float noise_accum_count;$/;"	m	struct:VBRState
+noise_codebook_quant	speex/libspeex/cb_search.c	/^void noise_codebook_quant($/;"	f
+noise_codebook_unquant	speex/libspeex/cb_search.c	/^void noise_codebook_unquant($/;"	f
+noise_level	speex/libspeex/vbr.h	/^   float noise_level;$/;"	m	struct:VBRState
+noise_suppress	speex/libspeex/preprocess.c	/^   int    noise_suppress;$/;"	m	struct:SpeexPreprocessState_	file:
+noisecompand	speex/libspeex/vorbis_psy.h	/^  float noisecompand[NOISE_COMPAND_LEVELS];$/;"	m	struct:__anon6
+noiseoff	speex/libspeex/vorbis_psy.h	/^  float noiseoff[P_BANDS];$/;"	m	struct:__anon6
+noiseoffset	speex/libspeex/vorbis_psy.h	/^  float *noiseoffset;$/;"	m	struct:__anon7
+noisewindowfixed	speex/libspeex/vorbis_psy.h	/^  int   noisewindowfixed;$/;"	m	struct:__anon6
+noisewindowhi	speex/libspeex/vorbis_psy.h	/^  float noisewindowhi;$/;"	m	struct:__anon6
+noisewindowhimin	speex/libspeex/vorbis_psy.h	/^  int   noisewindowhimin;$/;"	m	struct:__anon6
+noisewindowlo	speex/libspeex/vorbis_psy.h	/^  float noisewindowlo;$/;"	m	struct:__anon6
+noisewindowlomin	speex/libspeex/vorbis_psy.h	/^  int   noisewindowlomin;$/;"	m	struct:__anon6
+normalize16	speex/libspeex/filters.c	/^int normalize16(const spx_sig_t *x, spx_word16_t *y, spx_sig_t max_scale, int len)$/;"	f
+normalize16	speex/libspeex/filters_arm4.h	/^int normalize16(const spx_sig_t *x, spx_word16_t *y, spx_sig_t max_scale, int len)$/;"	f
+normalize16	speex/libspeex/filters_bfin.h	/^int normalize16(const spx_sig_t *x, spx_word16_t *y, spx_sig_t max_scale, int len)$/;"	f
+notch_mem	speex/libspeex/mdf.c	/^   spx_mem_t *notch_mem;$/;"	m	struct:SpeexEchoState_	file:
+notch_radius	speex/libspeex/mdf.c	/^   spx_word16_t notch_radius;$/;"	m	struct:SpeexEchoState_	file:
+num_rate	speex/libspeex/resample.c	/^   spx_uint32_t num_rate;$/;"	m	struct:SpeexResamplerState_	file:
+oFile	speex/libspeex/mdf.c	/^static FILE *rFile=NULL, *pFile=NULL, *oFile=NULL;$/;"	v	file:
+ol_gain_table	speex/libspeex/nb_celp.c	/^const spx_word32_t ol_gain_table[32]={18900, 25150, 33468, 44536, 59265, 78865, 104946, 139653, 185838, 247297, 329081, 437913, 582736, 775454, 1031906, 1373169, 1827293, 2431601, 3235761, 4305867, 5729870, 7624808, 10146425, 13501971, 17967238, 23909222, 31816294, 42338330, 56340132, 74972501, 99766822, 132760927};$/;"	v
+ol_pitch	speex/libspeex/nb_celp.h	/^   int    ol_pitch;              \/**< Open-loop pitch *\/$/;"	m	struct:EncState
+ol_voiced	speex/libspeex/nb_celp.h	/^   int    ol_voiced;             \/**< Open-loop voiced\/non-voiced decision *\/$/;"	m	struct:EncState
+old_curve	speex/libspeex/nb_celp.h	/^   float *old_curve;$/;"	m	struct:EncState
+old_lsp	speex/libspeex/nb_celp.h	/^   spx_lsp_t *old_lsp;           \/**< LSPs for previous frame *\/$/;"	m	struct:EncState
+old_lsp	speex/libspeex/sb_celp.h	/^   spx_lsp_t *old_lsp;            \/**< LSPs of previous frame *\/$/;"	m	struct:SBEncState
+old_ps	speex/libspeex/preprocess.c	/^   spx_word32_t *old_ps;     \/**< Power spectrum for last frame *\/$/;"	m	struct:SpeexPreprocessState_	file:
+old_qlsp	speex/libspeex/nb_celp.h	/^   spx_lsp_t *old_qlsp;          \/**< Quantized LSPs for previous frame *\/$/;"	m	struct:EncState
+old_qlsp	speex/libspeex/nb_celp.h	/^   spx_lsp_t *old_qlsp;         \/**< Quantized LSPs for previous frame *\/$/;"	m	struct:DecState
+old_qlsp	speex/libspeex/sb_celp.h	/^   spx_lsp_t *old_qlsp;           \/**< Quantized LSPs of previous frame *\/$/;"	m	struct:SBEncState
+old_qlsp	speex/libspeex/sb_celp.h	/^   spx_lsp_t *old_qlsp;$/;"	m	struct:SBDecState
+open	customspeex.cpp	/^bool CustomSpeex::open()$/;"	f	class:CustomSpeex
+open_loop_nbest_pitch	speex/libspeex/ltp.c	/^void open_loop_nbest_pitch(spx_word16_t *sw, int start, int end, int len, int *pitch, spx_word16_t *gain, int N, char *stack)$/;"	f
+open_loop_nbest_pitch	speex/libspeex/ltp_bfin.h	/^void open_loop_nbest_pitch(spx_word16_t *sw, int start, int end, int len, int *pitch, spx_word16_t *gain, int N, char *stack)$/;"	f
+order	speex/libspeex/scal.c	/^   int *order;$/;"	m	struct:SpeexDecorrState_	file:
+out	speex/libspeex/fftwrap.c	/^  float *out;$/;"	m	struct:fftw_config	file:
+out_rate	speex/libspeex/resample.c	/^   spx_uint32_t out_rate;$/;"	m	struct:SpeexResamplerState_	file:
+out_stride	speex/libspeex/resample.c	/^   int    out_stride;$/;"	m	struct:SpeexResamplerState_	file:
+outbuf	speex/libspeex/preprocess.c	/^   spx_word16_t *outbuf;     \/**< Output buffer (for overlap and add) *\/$/;"	m	struct:SpeexPreprocessState_	file:
+overflow	speex/include/speex/speex_bits.h	/^   int   overflow;\/**< Set to one if we try to read past the valid data *\/$/;"	m	struct:SpeexBits
+oversample	speex/libspeex/resample.c	/^   int oversample;$/;"	m	struct:FuncDef	file:
+oversample	speex/libspeex/resample.c	/^   int oversample;$/;"	m	struct:QualityMapping	file:
+oversample	speex/libspeex/resample.c	/^   spx_uint32_t oversample;$/;"	m	struct:SpeexResamplerState_	file:
+owner	speex/include/speex/speex_bits.h	/^   int   owner;   \/**< Does the struct "own" the "raw" buffer (member "chars") *\/$/;"	m	struct:SpeexBits
+pFile	speex/libspeex/mdf.c	/^static FILE *rFile=NULL, *pFile=NULL, *oFile=NULL;$/;"	v	file:
+packets	speex/libspeex/jitter.c	/^   JitterBufferPacket packets[SPEEX_JITTER_MAX_BUFFER_SIZE];   \/**< Packets stored in the buffer *\/$/;"	m	struct:JitterBuffer_	file:
+pad	speex/libspeex/kiss_fftr.c	/^    long pad;$/;"	m	struct:kiss_fftr_state	file:
+pcpx	speex/libspeex/_kiss_fft_guts.h	159;"	d
+pi_gain	speex/libspeex/nb_celp.h	/^   spx_word32_t *pi_gain;        \/**< Gain of LPC filter at theta=pi (fe\/2) *\/$/;"	m	struct:EncState
+pi_gain	speex/libspeex/nb_celp.h	/^   spx_word32_t *pi_gain;       \/**< Gain of LPC filter at theta=pi (fe\/2) *\/$/;"	m	struct:DecState
+pi_gain	speex/libspeex/sb_celp.h	/^   spx_word32_t *pi_gain;$/;"	m	struct:SBDecState
+pi_gain	speex/libspeex/sb_celp.h	/^   spx_word32_t *pi_gain;$/;"	m	struct:SBEncState
+pitch	speex/libspeex/nb_celp.h	/^   int   *pitch;$/;"	m	struct:EncState
+pitchEnd	speex/libspeex/modes.h	/^   int     pitchEnd;       \/**< Largest pitch value allowed *\/$/;"	m	struct:SpeexNBMode
+pitchStart	speex/libspeex/modes.h	/^   int     pitchStart;     \/**< Smallest pitch value allowed *\/$/;"	m	struct:SpeexNBMode
+pitch_bits	speex/libspeex/ltp.h	/^   int     pitch_bits;$/;"	m	struct:__anon4
+pitch_gain_buf	speex/libspeex/nb_celp.h	/^   spx_word16_t  pitch_gain_buf[3]; \/**< Pitch gain of last decoded frames *\/$/;"	m	struct:DecState
+pitch_gain_buf_idx	speex/libspeex/nb_celp.h	/^   int    pitch_gain_buf_idx;   \/**< Tail of the buffer *\/$/;"	m	struct:DecState
+pitch_gain_search_3tap	speex/libspeex/ltp.c	/^static spx_word32_t pitch_gain_search_3tap($/;"	f	file:
+pitch_gain_search_3tap_vq	speex/libspeex/ltp.c	/^static int pitch_gain_search_3tap_vq($/;"	f	file:
+pitch_gain_search_3tap_vq	speex/libspeex/ltp_bfin.h	/^static int pitch_gain_search_3tap_vq($/;"	f
+pitch_search_3tap	speex/libspeex/ltp.c	/^int pitch_search_3tap($/;"	f
+pitch_unquant_3tap	speex/libspeex/ltp.c	/^void pitch_unquant_3tap($/;"	f
+pitch_xcorr	speex/libspeex/ltp.c	/^void pitch_xcorr(const spx_word16_t *_x, const spx_word16_t *_y, spx_word32_t *corr, int len, int nb_pitch, char *stack)$/;"	f
+pitch_xcorr	speex/libspeex/ltp_arm4.h	/^void pitch_xcorr(const spx_word16_t *_x, const spx_word16_t *_y, spx_word32_t *corr, int len, int nb_pitch, char *stack)$/;"	f
+pitch_xcorr	speex/libspeex/ltp_bfin.h	/^void pitch_xcorr(const spx_word16_t *_x, const spx_word16_t *_y, spx_word32_t *corr, int len, int nb_pitch, char *stack)$/;"	f
+pitch_xcorr	speex/libspeex/ltp_sse.h	/^void pitch_xcorr(const float *_x, const float *_y, float *corr, int len, int nb_pitch, char *stack)$/;"	f
+play_buf	speex/libspeex/mdf.c	/^   spx_int16_t *play_buf;$/;"	m	struct:SpeexEchoState_	file:
+play_buf_pos	speex/libspeex/mdf.c	/^   int play_buf_pos;$/;"	m	struct:SpeexEchoState_	file:
+play_buf_started	speex/libspeex/mdf.c	/^   int play_buf_started;$/;"	m	struct:SpeexEchoState_	file:
+playback	customspeex.cpp	/^int CustomSpeex::playback( short * out, int size)$/;"	f	class:CustomSpeex
+plc_tuning	speex/libspeex/nb_celp.h	/^   int    plc_tuning;$/;"	m	struct:EncState
+pointer_timestamp	speex/libspeex/jitter.c	/^   spx_uint32_t pointer_timestamp;                             \/**< Timestamp of what we will *get* next *\/$/;"	m	struct:JitterBuffer_	file:
+post	speex/libspeex/preprocess.c	/^   spx_word16_t *post;       \/**< A-posteriori SNR *\/$/;"	m	struct:SpeexPreprocessState_	file:
+power	speex/libspeex/mdf.c	/^   spx_word32_t *power;  \/* Power of the far-end signal *\/$/;"	m	struct:SpeexEchoState_	file:
+power_1	speex/libspeex/mdf.c	/^   spx_float_t  *power_1;\/* Inverse power of far-end *\/$/;"	m	struct:SpeexEchoState_	file:
+power_spectrum	speex/libspeex/mdf.c	/^static inline void power_spectrum(const spx_word16_t *X, spx_word32_t *ps, int N)$/;"	f	file:
+power_spectrum_accum	speex/libspeex/mdf.c	/^static inline void power_spectrum_accum(const spx_word16_t *X, spx_word32_t *ps, int N)$/;"	f	file:
+preemph	speex/libspeex/mdf.c	/^   spx_word16_t preemph;$/;"	m	struct:SpeexEchoState_	file:
+preprocess_analysis	speex/libspeex/preprocess.c	/^static void preprocess_analysis(SpeexPreprocessState *st, spx_int16_t *x)$/;"	f	file:
+prev_loudness	speex/libspeex/preprocess.c	/^   float  prev_loudness;     \/**< Loudness of previous frame *\/$/;"	m	struct:SpeexPreprocessState_	file:
+print_vec	speex/libspeex/os_support.h	/^static inline void print_vec(float *vec, int len, char *name)$/;"	f
+prior	speex/libspeex/preprocess.c	/^   spx_word16_t *prior;      \/**< A-priori SNR *\/$/;"	m	struct:SpeexPreprocessState_	file:
+prop	speex/libspeex/mdf.c	/^   spx_word16_t *prop;$/;"	m	struct:SpeexEchoState_	file:
+ps	speex/libspeex/preprocess.c	/^   spx_word32_t *ps;         \/**< Current power spectrum *\/$/;"	m	struct:SpeexPreprocessState_	file:
+ps_size	speex/libspeex/preprocess.c	/^   int    ps_size;           \/**< Number of points in the power spectrum *\/$/;"	m	struct:SpeexPreprocessState_	file:
+psy	speex/libspeex/nb_celp.h	/^   VorbisPsy *psy;$/;"	m	struct:EncState
+psy	speex/libspeex/scal.c	/^   VorbisPsy *psy;$/;"	m	struct:SpeexDecorrState_	file:
+psy_window	speex/libspeex/nb_celp.h	/^   float *psy_window;$/;"	m	struct:EncState
+qcurve	speex/libspeex/preprocess.c	/^static inline spx_word16_t qcurve(spx_word16_t x)$/;"	f	file:
+qmf_decomp	speex/libspeex/filters.c	/^void qmf_decomp(const spx_word16_t *xx, const spx_word16_t *aa, spx_word16_t *y1, spx_word16_t *y2, int N, int M, spx_word16_t *mem, char *stack)$/;"	f
+qmf_synth	speex/libspeex/filters.c	/^void qmf_synth(const spx_word16_t *x1, const spx_word16_t *x2, const spx_word16_t *a, spx_word16_t *y, int N, int M, spx_word16_t *mem1, spx_word16_t *mem2, char *stack)$/;"	f
+quality	speex/libspeex/resample.c	/^   int    quality;$/;"	m	struct:SpeexResamplerState_	file:
+quality_map	speex/libspeex/modes.h	/^   int     quality_map[11]; \/**< Mode corresponding to each quality setting *\/$/;"	m	struct:SpeexNBMode
+quality_map	speex/libspeex/modes.h	/^   int     quality_map[11]; \/**< Mode corresponding to each quality setting *\/$/;"	m	struct:SpeexSBMode
+quality_map	speex/libspeex/resample.c	/^static const struct QualityMapping quality_map[11] = {$/;"	v	typeref:struct:QualityMapping	file:
+query	speex/include/speex/speex.h	/^   mode_query_func query;$/;"	m	struct:SpeexMode
+r	speex/libspeex/kiss_fft.h	/^    kiss_fft_scalar r;$/;"	m	struct:__anon3
+rFile	speex/libspeex/mdf.c	/^static FILE *rFile=NULL, *pFile=NULL, *oFile=NULL;$/;"	v	file:
+rate	speex/include/speex/speex_header.h	/^   spx_int32_t rate;                   \/**< Sampling rate used *\/$/;"	m	struct:SpeexHeader
+rate	speex/libspeex/scal.c	/^   int rate;$/;"	m	struct:SpeexDecorrState_	file:
+rate	speex/libspeex/vorbis_psy.h	/^  int rate;$/;"	m	struct:__anon7
+read_ptr	speex/libspeex/buffer.c	/^   int   read_ptr;$/;"	m	struct:SpeexBuffer_	file:
+relative_quality	speex/libspeex/nb_celp.h	/^   float  relative_quality;      \/**< Relative quality that will be needed by VBR *\/$/;"	m	struct:EncState
+relative_quality	speex/libspeex/sb_celp.h	/^   float  relative_quality;$/;"	m	struct:SBEncState
+renorm_range	speex/libspeex/fftwrap.c	/^static void renorm_range(spx_word16_t *in, spx_word16_t *out, int shift, int len)$/;"	f	file:
+resampler_basic_direct_double	speex/libspeex/resample.c	/^static int resampler_basic_direct_double(SpeexResamplerState *st, spx_uint32_t channel_index, const spx_word16_t *in, spx_uint32_t *in_len, spx_word16_t *out, spx_uint32_t *out_len)$/;"	f	file:
+resampler_basic_direct_single	speex/libspeex/resample.c	/^static int resampler_basic_direct_single(SpeexResamplerState *st, spx_uint32_t channel_index, const spx_word16_t *in, spx_uint32_t *in_len, spx_word16_t *out, spx_uint32_t *out_len)$/;"	f	file:
+resampler_basic_func	speex/libspeex/resample.c	/^typedef int (*resampler_basic_func)(SpeexResamplerState *, spx_uint32_t , const spx_word16_t *, spx_uint32_t *, spx_word16_t *, spx_uint32_t *);$/;"	t	file:
+resampler_basic_interpolate_double	speex/libspeex/resample.c	/^static int resampler_basic_interpolate_double(SpeexResamplerState *st, spx_uint32_t channel_index, const spx_word16_t *in, spx_uint32_t *in_len, spx_word16_t *out, spx_uint32_t *out_len)$/;"	f	file:
+resampler_basic_interpolate_single	speex/libspeex/resample.c	/^static int resampler_basic_interpolate_single(SpeexResamplerState *st, spx_uint32_t channel_index, const spx_word16_t *in, spx_uint32_t *in_len, spx_word16_t *out, spx_uint32_t *out_len)$/;"	f	file:
+resampler_ptr	speex/libspeex/resample.c	/^   resampler_basic_func resampler_ptr;$/;"	m	struct:SpeexResamplerState_	file:
+reserved1	speex/include/speex/speex_bits.h	/^   int   reserved1; \/**< Reserved for future use *\/$/;"	m	struct:SpeexBits
+reserved1	speex/include/speex/speex_callbacks.h	/^   void *reserved1;             \/**< Reserved for future use *\/$/;"	m	struct:SpeexCallback
+reserved1	speex/include/speex/speex_header.h	/^   spx_int32_t reserved1;              \/**< Reserved for future use, must be zero *\/$/;"	m	struct:SpeexHeader
+reserved1	speex/include/speex/speex_stereo.h	/^   float reserved1;    \/**< Reserved for future use *\/$/;"	m	struct:SpeexStereoState
+reserved1	speex/libspeex/stereo.c	/^   spx_uint32_t reserved1;     \/**< Reserved for future use *\/$/;"	m	struct:RealSpeexStereoState	file:
+reserved2	speex/include/speex/speex_bits.h	/^   void *reserved2; \/**< Reserved for future use *\/$/;"	m	struct:SpeexBits
+reserved2	speex/include/speex/speex_callbacks.h	/^   int   reserved2;             \/**< Reserved for future use *\/$/;"	m	struct:SpeexCallback
+reserved2	speex/include/speex/speex_header.h	/^   spx_int32_t reserved2;              \/**< Reserved for future use, must be zero *\/$/;"	m	struct:SpeexHeader
+reserved2	speex/include/speex/speex_stereo.h	/^   float reserved2;    \/**< Reserved for future use *\/$/;"	m	struct:SpeexStereoState
+reserved2	speex/libspeex/stereo.c	/^   spx_int32_t reserved2;     \/**< Reserved for future use *\/$/;"	m	struct:RealSpeexStereoState	file:
+reset_state	speex/libspeex/jitter.c	/^   int reset_state;                                            \/**< True if state was just reset        *\/$/;"	m	struct:JitterBuffer_	file:
+residual_echo	speex/libspeex/preprocess.c	/^   spx_word32_t *residual_echo;$/;"	m	struct:SpeexPreprocessState_	file:
+residue_percep_zero16	speex/libspeex/filters.c	/^void residue_percep_zero16(const spx_word16_t *xx, const spx_coef_t *ak, const spx_coef_t *awk1, const spx_coef_t *awk2, spx_word16_t *y, int N, int ord, char *stack)$/;"	f
+reverb_decay	speex/libspeex/preprocess.c	/^   spx_word16_t  reverb_decay;$/;"	m	struct:SpeexPreprocessState_	file:
+reverb_estimate	speex/libspeex/preprocess.c	/^   spx_word32_t *reverb_estimate; \/**< Estimate of reverb energy *\/$/;"	m	struct:SpeexPreprocessState_	file:
+reverb_level	speex/libspeex/preprocess.c	/^   spx_word16_t  reverb_level;$/;"	m	struct:SpeexPreprocessState_	file:
+ring	speex/libspeex/scal.c	/^   float (*ring)[ALLPASS_ORDER];$/;"	m	struct:SpeexDecorrState_	file:
+ringID	speex/libspeex/scal.c	/^   int *ringID;$/;"	m	struct:SpeexDecorrState_	file:
+samp_frac_num	speex/libspeex/resample.c	/^   spx_uint32_t *samp_frac_num;$/;"	m	struct:SpeexResamplerState_	file:
+sampling_rate	speex/libspeex/mdf.c	/^   spx_int32_t sampling_rate;$/;"	m	struct:SpeexEchoState_	file:
+sampling_rate	speex/libspeex/nb_celp.h	/^   spx_int32_t sampling_rate;$/;"	m	struct:DecState
+sampling_rate	speex/libspeex/nb_celp.h	/^   spx_int32_t sampling_rate;$/;"	m	struct:EncState
+sampling_rate	speex/libspeex/preprocess.c	/^   int    sampling_rate;     \/**< Sampling rate of the input\/output *\/$/;"	m	struct:SpeexPreprocessState_	file:
+sampling_rate	speex/libspeex/sb_celp.h	/^   spx_int32_t sampling_rate;$/;"	m	struct:SBDecState
+sampling_rate	speex/libspeex/sb_celp.h	/^   spx_int32_t sampling_rate;$/;"	m	struct:SBEncState
+sanitize_values32	speex/libspeex/filters.c	/^void sanitize_values32(spx_word32_t *vec, spx_word32_t min_val, spx_word32_t max_val, int len)$/;"	f
+saturated	speex/libspeex/mdf.c	/^   int saturated;$/;"	m	struct:SpeexEchoState_	file:
+sb_decode	speex/libspeex/sb_celp.c	/^int sb_decode(void *state, SpeexBits *bits, void *vout)$/;"	f
+sb_decode_lost	speex/libspeex/sb_celp.c	/^static void sb_decode_lost(SBDecState *st, spx_word16_t *out, int dtx, char *stack)$/;"	f	file:
+sb_decoder_ctl	speex/libspeex/sb_celp.c	/^int sb_decoder_ctl(void *state, int request, void *ptr)$/;"	f
+sb_decoder_destroy	speex/libspeex/sb_celp.c	/^void sb_decoder_destroy(void *state)$/;"	f
+sb_decoder_init	speex/libspeex/sb_celp.c	/^void *sb_decoder_init(const SpeexMode *m)$/;"	f
+sb_encode	speex/libspeex/sb_celp.c	/^int sb_encode(void *state, void *vin, SpeexBits *bits)$/;"	f
+sb_encoder_ctl	speex/libspeex/sb_celp.c	/^int sb_encoder_ctl(void *state, int request, void *ptr)$/;"	f
+sb_encoder_destroy	speex/libspeex/sb_celp.c	/^void sb_encoder_destroy(void *state)$/;"	f
+sb_encoder_init	speex/libspeex/sb_celp.c	/^void *sb_encoder_init(const SpeexMode *m)$/;"	f
+sb_uwb_mode	speex/libspeex/modes_wb.c	/^static const SpeexSBMode sb_uwb_mode = {$/;"	v	file:
+sb_wb_mode	speex/libspeex/modes_wb.c	/^static const SpeexSBMode sb_wb_mode = {$/;"	v	file:
+scal_quant	speex/libspeex/vq.c	/^int scal_quant(spx_word16_t in, const spx_word16_t *boundary, int entries)$/;"	f
+scal_quant32	speex/libspeex/vq.c	/^int scal_quant32(spx_word32_t in, const spx_word32_t *boundary, int entries)$/;"	f
+scaling	speex/libspeex/filterbank.h	/^   float *scaling;$/;"	m	struct:__anon2
+screwed_up	speex/libspeex/mdf.c	/^   int screwed_up;$/;"	m	struct:SpeexEchoState_	file:
+seed	speex/libspeex/nb_celp.h	/^   spx_int32_t seed;            \/** Seed used for random number generation *\/$/;"	m	struct:DecState
+seed	speex/libspeex/sb_celp.h	/^   spx_int32_t seed;$/;"	m	struct:SBDecState
+seed	speex/libspeex/scal.c	/^   int    seed;$/;"	m	struct:SpeexDecorrState_	file:
+sequence	speex/include/speex/speex_jitter.h	/^   spx_uint16_t sequence;   \/**< RTP Sequence number if available (0 otherwise) *\/$/;"	m	struct:_JitterBufferPacket
+shape_bits	speex/libspeex/cb_search.h	/^   int     shape_bits;$/;"	m	struct:split_cb_params
+shape_cb	speex/libspeex/cb_search.h	/^   const signed char  *shape_cb;$/;"	m	struct:split_cb_params
+shift_filt	speex/libspeex/filters.c	/^const float shift_filt[3][7] = {{-0.011915f, 0.046995f, -0.152373f, 0.614108f, 0.614108f, -0.152373f, 0.046995f},$/;"	v
+shift_filt	speex/libspeex/filters.c	/^const spx_word16_t shift_filt[3][7] = {{-390,    1540,   -4993,   20123,   20123,   -4993,    1540},$/;"	v
+shift_timings	speex/libspeex/jitter.c	/^static void shift_timings(JitterBuffer *jitter, spx_int16_t amount)$/;"	f	file:
+signal_div	speex/libspeex/filters.c	/^void signal_div(const spx_sig_t *x, spx_sig_t *y, spx_word32_t scale, int len)$/;"	f
+signal_div	speex/libspeex/filters.c	/^void signal_div(const spx_word16_t *x, spx_word16_t *y, spx_word32_t scale, int len)$/;"	f
+signal_mul	speex/libspeex/filters.c	/^void signal_mul(const spx_sig_t *x, spx_sig_t *y, spx_word32_t scale, int len)$/;"	f
+sinc	speex/libspeex/resample.c	/^static spx_word16_t sinc(float cutoff, float x, int N, struct FuncDef *window_func)$/;"	f	file:
+sinc_table	speex/libspeex/resample.c	/^   spx_word16_t *sinc_table;$/;"	m	struct:SpeexResamplerState_	file:
+sinc_table_length	speex/libspeex/resample.c	/^   spx_uint32_t sinc_table_length;$/;"	m	struct:SpeexResamplerState_	file:
+size	speex/libspeex/buffer.c	/^   int   size;$/;"	m	struct:SpeexBuffer_	file:
+smooth_left	speex/include/speex/speex_stereo.h	/^   float smooth_left;  \/**< Smoothed left channel gain *\/$/;"	m	struct:SpeexStereoState
+smooth_left	speex/libspeex/stereo.c	/^   spx_word32_t smooth_left;  \/**< Smoothed left channel gain *\/$/;"	m	struct:RealSpeexStereoState	file:
+smooth_right	speex/include/speex/speex_stereo.h	/^   float smooth_right; \/**< Smoothed right channel gain *\/$/;"	m	struct:SpeexStereoState
+smooth_right	speex/libspeex/stereo.c	/^   spx_word32_t smooth_right; \/**< Smoothed right channel gain *\/$/;"	m	struct:RealSpeexStereoState	file:
+smul	speex/libspeex/_kiss_fft_guts.h	62;"	d
+soft_pitch	speex/libspeex/vbr.h	/^   float soft_pitch;$/;"	m	struct:VBRState
+span	speex/include/speex/speex_jitter.h	/^   spx_uint32_t span;       \/**< Time covered by the packet (same units as timestamp) *\/$/;"	m	struct:_JitterBufferPacket
+spec_average	speex/libspeex/mdf.c	/^   spx_word16_t spec_average;$/;"	m	struct:SpeexEchoState_	file:
+spectral_mul_accum	speex/libspeex/mdf.c	/^static inline void spectral_mul_accum(const spx_word16_t *X, const spx_word32_t *Y, spx_word16_t *acc, int N, int M)$/;"	f	file:
+spectral_mul_accum16	speex/libspeex/mdf.c	/^static inline void spectral_mul_accum16(const spx_word16_t *X, const spx_word16_t *Y, spx_word16_t *acc, int N, int M)$/;"	f	file:
+spectral_mul_accum16	speex/libspeex/mdf.c	333;"	d	file:
+speech_prob	speex/libspeex/preprocess.c	/^   spx_word16_t	speech_prob;  \/**< Probability last frame was speech *\/$/;"	m	struct:SpeexPreprocessState_	file:
+speech_prob_continue	speex/libspeex/preprocess.c	/^   spx_word16_t speech_prob_continue;$/;"	m	struct:SpeexPreprocessState_	file:
+speech_prob_start	speex/libspeex/preprocess.c	/^   spx_word16_t speech_prob_start;$/;"	m	struct:SpeexPreprocessState_	file:
+speex	com_android_recordernote_jni_Speex.c	/^static CustomSpeex * speex = null;$/;"	v	file:
+speex_alloc	speex/libspeex/os_support.h	/^static inline void *speex_alloc (int size)$/;"	f
+speex_alloc	speex/libspeex/resample.c	/^static void *speex_alloc (int size) {return calloc(size,1);}$/;"	f	file:
+speex_alloc_scratch	speex/libspeex/os_support.h	/^static inline void *speex_alloc_scratch (int size)$/;"	f
+speex_assert	speex/libspeex/os_support.h	155;"	d
+speex_bits_advance	speex/libspeex/bits.c	/^EXPORT void speex_bits_advance(SpeexBits *bits, int n)$/;"	f
+speex_bits_destroy	speex/libspeex/bits.c	/^EXPORT void speex_bits_destroy(SpeexBits *bits)$/;"	f
+speex_bits_flush	speex/libspeex/bits.c	/^static void speex_bits_flush(SpeexBits *bits)$/;"	f	file:
+speex_bits_init	speex/libspeex/bits.c	/^EXPORT void speex_bits_init(SpeexBits *bits)$/;"	f
+speex_bits_init_buffer	speex/libspeex/bits.c	/^EXPORT void speex_bits_init_buffer(SpeexBits *bits, void *buff, int buf_size)$/;"	f
+speex_bits_insert_terminator	speex/libspeex/bits.c	/^EXPORT void speex_bits_insert_terminator(SpeexBits *bits)$/;"	f
+speex_bits_nbytes	speex/libspeex/bits.c	/^EXPORT int speex_bits_nbytes(SpeexBits *bits)$/;"	f
+speex_bits_pack	speex/libspeex/bits.c	/^EXPORT void speex_bits_pack(SpeexBits *bits, int data, int nbBits)$/;"	f
+speex_bits_peek	speex/libspeex/bits.c	/^EXPORT int speex_bits_peek(SpeexBits *bits)$/;"	f
+speex_bits_peek_unsigned	speex/libspeex/bits.c	/^EXPORT unsigned int speex_bits_peek_unsigned(SpeexBits *bits, int nbBits)$/;"	f
+speex_bits_read_from	speex/libspeex/bits.c	/^EXPORT void speex_bits_read_from(SpeexBits *bits, char *chars, int len)$/;"	f
+speex_bits_read_whole_bytes	speex/libspeex/bits.c	/^EXPORT void speex_bits_read_whole_bytes(SpeexBits *bits, char *chars, int nbytes)$/;"	f
+speex_bits_remaining	speex/libspeex/bits.c	/^EXPORT int speex_bits_remaining(SpeexBits *bits)$/;"	f
+speex_bits_reset	speex/libspeex/bits.c	/^EXPORT void speex_bits_reset(SpeexBits *bits)$/;"	f
+speex_bits_rewind	speex/libspeex/bits.c	/^EXPORT void speex_bits_rewind(SpeexBits *bits)$/;"	f
+speex_bits_set_bit_buffer	speex/libspeex/bits.c	/^EXPORT void speex_bits_set_bit_buffer(SpeexBits *bits, void *buff, int buf_size)$/;"	f
+speex_bits_unpack_signed	speex/libspeex/bits.c	/^EXPORT int speex_bits_unpack_signed(SpeexBits *bits, int nbBits)$/;"	f
+speex_bits_unpack_unsigned	speex/libspeex/bits.c	/^EXPORT unsigned int speex_bits_unpack_unsigned(SpeexBits *bits, int nbBits)$/;"	f
+speex_bits_write	speex/libspeex/bits.c	/^EXPORT int speex_bits_write(SpeexBits *bits, char *chars, int max_nbytes)$/;"	f
+speex_bits_write_whole_bytes	speex/libspeex/bits.c	/^EXPORT int speex_bits_write_whole_bytes(SpeexBits *bits, char *chars, int max_nbytes)$/;"	f
+speex_buffer_destroy	speex/libspeex/buffer.c	/^EXPORT void speex_buffer_destroy(SpeexBuffer *st)$/;"	f
+speex_buffer_get_available	speex/libspeex/buffer.c	/^EXPORT int speex_buffer_get_available(SpeexBuffer *st)$/;"	f
+speex_buffer_init	speex/libspeex/buffer.c	/^EXPORT SpeexBuffer *speex_buffer_init(int size)$/;"	f
+speex_buffer_read	speex/libspeex/buffer.c	/^EXPORT int speex_buffer_read(SpeexBuffer *st, void *_data, int len)$/;"	f
+speex_buffer_resize	speex/libspeex/buffer.c	/^EXPORT int speex_buffer_resize(SpeexBuffer *st, int len)$/;"	f
+speex_buffer_write	speex/libspeex/buffer.c	/^EXPORT int speex_buffer_write(SpeexBuffer *st, void *_data, int len)$/;"	f
+speex_buffer_writezeros	speex/libspeex/buffer.c	/^EXPORT int speex_buffer_writezeros(SpeexBuffer *st, int len)$/;"	f
+speex_callback_func	speex/include/speex/speex_callbacks.h	/^typedef int (*speex_callback_func)(SpeexBits *bits, void *state, void *data);$/;"	t
+speex_callbacks	speex/libspeex/nb_celp.h	/^   SpeexCallback speex_callbacks[SPEEX_MAX_CALLBACKS];$/;"	m	struct:DecState
+speex_compute_agc	speex/libspeex/preprocess.c	/^static void speex_compute_agc(SpeexPreprocessState *st, spx_word16_t Pframe, spx_word16_t *ft)$/;"	f	file:
+speex_decode	speex/libspeex/speex.c	/^EXPORT int speex_decode(void *state, SpeexBits *bits, float *out)$/;"	f
+speex_decode_int	speex/libspeex/speex.c	/^EXPORT int speex_decode_int(void *state, SpeexBits *bits, spx_int16_t *out)$/;"	f
+speex_decode_native	speex/libspeex/speex.c	/^int speex_decode_native(void *state, SpeexBits *bits, spx_word16_t *out)$/;"	f
+speex_decode_stereo	speex/libspeex/stereo.c	/^EXPORT void speex_decode_stereo(float *data, int frame_size, SpeexStereoState *_stereo)$/;"	f
+speex_decode_stereo_int	speex/libspeex/stereo.c	/^EXPORT void speex_decode_stereo_int(spx_int16_t *data, int frame_size, SpeexStereoState *_stereo)$/;"	f
+speex_decoder_ctl	speex/libspeex/speex.c	/^EXPORT int speex_decoder_ctl(void *state, int request, void *ptr)$/;"	f
+speex_decoder_destroy	speex/libspeex/speex.c	/^EXPORT void speex_decoder_destroy(void *state)$/;"	f
+speex_decoder_init	speex/libspeex/speex.c	/^EXPORT void *speex_decoder_init(const SpeexMode *mode)$/;"	f
+speex_decorrelate	speex/libspeex/scal.c	/^EXPORT void speex_decorrelate(SpeexDecorrState *st, const spx_int16_t *in, spx_int16_t *out, int strength)$/;"	f
+speex_decorrelate_destroy	speex/libspeex/scal.c	/^EXPORT void speex_decorrelate_destroy(SpeexDecorrState *st)$/;"	f
+speex_decorrelate_new	speex/libspeex/scal.c	/^EXPORT SpeexDecorrState *speex_decorrelate_new(int rate, int channels, int frame_size)$/;"	f
+speex_default_user_handler	speex/libspeex/speex_callbacks.c	/^EXPORT int speex_default_user_handler(SpeexBits *bits, void *state, void *data)$/;"	f
+speex_echo_cancel	speex/libspeex/mdf.c	/^EXPORT void speex_echo_cancel(SpeexEchoState *st, const spx_int16_t *in, const spx_int16_t *far_end, spx_int16_t *out, spx_int32_t *Yout)$/;"	f
+speex_echo_cancellation	speex/libspeex/mdf.c	/^EXPORT void speex_echo_cancellation(SpeexEchoState *st, const spx_int16_t *in, const spx_int16_t *far_end, spx_int16_t *out)$/;"	f
+speex_echo_capture	speex/libspeex/mdf.c	/^EXPORT void speex_echo_capture(SpeexEchoState *st, const spx_int16_t *rec, spx_int16_t *out)$/;"	f
+speex_echo_ctl	speex/libspeex/mdf.c	/^EXPORT int speex_echo_ctl(SpeexEchoState *st, int request, void *ptr)$/;"	f
+speex_echo_get_residual	speex/libspeex/mdf.c	/^void speex_echo_get_residual(SpeexEchoState *st, spx_word32_t *residual_echo, int len)$/;"	f
+speex_echo_playback	speex/libspeex/mdf.c	/^EXPORT void speex_echo_playback(SpeexEchoState *st, const spx_int16_t *play)$/;"	f
+speex_echo_state_destroy	speex/libspeex/mdf.c	/^EXPORT void speex_echo_state_destroy(SpeexEchoState *st)$/;"	f
+speex_echo_state_init	speex/libspeex/mdf.c	/^EXPORT SpeexEchoState *speex_echo_state_init(int frame_size, int filter_length)$/;"	f
+speex_echo_state_init_mc	speex/libspeex/mdf.c	/^EXPORT SpeexEchoState *speex_echo_state_init_mc(int frame_size, int filter_length, int nb_mic, int nb_speakers)$/;"	f
+speex_echo_state_reset	speex/libspeex/mdf.c	/^EXPORT void speex_echo_state_reset(SpeexEchoState *st)$/;"	f
+speex_encode	speex/libspeex/speex.c	/^EXPORT int speex_encode(void *state, float *in, SpeexBits *bits)$/;"	f
+speex_encode_int	speex/libspeex/speex.c	/^EXPORT int speex_encode_int(void *state, spx_int16_t *in, SpeexBits *bits)$/;"	f
+speex_encode_native	speex/libspeex/speex.c	/^int speex_encode_native(void *state, spx_word16_t *in, SpeexBits *bits)$/;"	f
+speex_encode_stereo	speex/libspeex/stereo.c	/^EXPORT void speex_encode_stereo(float *data, int frame_size, SpeexBits *bits)$/;"	f
+speex_encode_stereo_int	speex/libspeex/stereo.c	/^EXPORT void speex_encode_stereo_int(spx_int16_t *data, int frame_size, SpeexBits *bits)$/;"	f
+speex_encoder_ctl	speex/libspeex/speex.c	/^EXPORT int speex_encoder_ctl(void *state, int request, void *ptr)$/;"	f
+speex_encoder_destroy	speex/libspeex/speex.c	/^EXPORT void speex_encoder_destroy(void *state)$/;"	f
+speex_encoder_init	speex/libspeex/speex.c	/^EXPORT void *speex_encoder_init(const SpeexMode *mode)$/;"	f
+speex_fatal	speex/libspeex/os_support.h	154;"	d
+speex_free	speex/libspeex/os_support.h	/^static inline void speex_free (void *ptr)$/;"	f
+speex_free	speex/libspeex/resample.c	/^static void speex_free (void *ptr) {free(ptr);}$/;"	f	file:
+speex_free_scratch	speex/libspeex/os_support.h	/^static inline void speex_free_scratch (void *ptr)$/;"	f
+speex_header_free	speex/libspeex/speex_header.c	/^EXPORT void speex_header_free(void *ptr)$/;"	f
+speex_header_to_packet	speex/libspeex/speex_header.c	/^EXPORT char *speex_header_to_packet(SpeexHeader *header, int *size)$/;"	f
+speex_inband_handler	speex/libspeex/speex_callbacks.c	/^EXPORT int speex_inband_handler(SpeexBits *bits, SpeexCallback *callback_list, void *state)$/;"	f
+speex_init_header	speex/libspeex/speex_header.c	/^EXPORT void speex_init_header(SpeexHeader *header, int rate, int nb_channels, const SpeexMode *m)$/;"	f
+speex_lib_ctl	speex/libspeex/speex.c	/^EXPORT int speex_lib_ctl(int request, void *ptr)$/;"	f
+speex_lib_get_mode	speex/include/speex/speex.h	416;"	d
+speex_lib_get_mode	speex/libspeex/modes_wb.c	/^EXPORT const SpeexMode * speex_lib_get_mode (int mode)$/;"	f
+speex_lib_get_mode	speex/libspeex/modes_wb.c	290;"	d	file:
+speex_mode_list	speex/libspeex/modes_wb.c	/^EXPORT const SpeexMode * const speex_mode_list[SPEEX_NB_MODES] = {&speex_nb_mode, &speex_wb_mode, &speex_uwb_mode};$/;"	v
+speex_mode_query	speex/libspeex/modes.c	/^EXPORT int speex_mode_query(const SpeexMode *mode, int request, void *ptr)$/;"	f
+speex_move	speex/libspeex/misc_bfin.h	/^void *speex_move (void *dest, void *src, int n)$/;"	f
+speex_nb_mode	speex/libspeex/modes.c	/^EXPORT const SpeexMode speex_nb_mode = {$/;"	v
+speex_notify	speex/libspeex/os_support.h	/^static inline void speex_notify(const char *str)$/;"	f
+speex_packet_to_header	speex/libspeex/speex_header.c	/^EXPORT SpeexHeader *speex_packet_to_header(char *packet, int size)$/;"	f
+speex_preprocess	speex/libspeex/preprocess.c	/^EXPORT int speex_preprocess(SpeexPreprocessState *st, spx_int16_t *x, spx_int32_t *echo)$/;"	f
+speex_preprocess_ctl	speex/libspeex/preprocess.c	/^EXPORT int speex_preprocess_ctl(SpeexPreprocessState *state, int request, void *ptr)$/;"	f
+speex_preprocess_estimate_update	speex/libspeex/preprocess.c	/^EXPORT void speex_preprocess_estimate_update(SpeexPreprocessState *st, spx_int16_t *x)$/;"	f
+speex_preprocess_run	speex/libspeex/preprocess.c	/^EXPORT int speex_preprocess_run(SpeexPreprocessState *st, spx_int16_t *x)$/;"	f
+speex_preprocess_state_destroy	speex/libspeex/preprocess.c	/^EXPORT void speex_preprocess_state_destroy(SpeexPreprocessState *st)$/;"	f
+speex_preprocess_state_init	speex/libspeex/preprocess.c	/^EXPORT SpeexPreprocessState *speex_preprocess_state_init(int frame_size, int sampling_rate)$/;"	f
+speex_rand	speex/libspeex/math_approx.h	/^static inline spx_word16_t speex_rand(spx_word16_t std, spx_int32_t *seed)$/;"	f
+speex_realloc	speex/libspeex/os_support.h	/^static inline void *speex_realloc (void *ptr, int size)$/;"	f
+speex_realloc	speex/libspeex/resample.c	/^static void *speex_realloc (void *ptr, int size) {return realloc(ptr, size);}$/;"	f	file:
+speex_resampler_destroy	speex/include/speex/speex_resampler.h	59;"	d
+speex_resampler_destroy	speex/libspeex/resample.c	/^EXPORT void speex_resampler_destroy(SpeexResamplerState *st)$/;"	f
+speex_resampler_get_input_latency	speex/include/speex/speex_resampler.h	74;"	d
+speex_resampler_get_input_latency	speex/libspeex/resample.c	/^EXPORT int speex_resampler_get_input_latency(SpeexResamplerState *st)$/;"	f
+speex_resampler_get_input_stride	speex/include/speex/speex_resampler.h	71;"	d
+speex_resampler_get_input_stride	speex/libspeex/resample.c	/^EXPORT void speex_resampler_get_input_stride(SpeexResamplerState *st, spx_uint32_t *stride)$/;"	f
+speex_resampler_get_output_latency	speex/include/speex/speex_resampler.h	75;"	d
+speex_resampler_get_output_latency	speex/libspeex/resample.c	/^EXPORT int speex_resampler_get_output_latency(SpeexResamplerState *st)$/;"	f
+speex_resampler_get_output_stride	speex/include/speex/speex_resampler.h	73;"	d
+speex_resampler_get_output_stride	speex/libspeex/resample.c	/^EXPORT void speex_resampler_get_output_stride(SpeexResamplerState *st, spx_uint32_t *stride)$/;"	f
+speex_resampler_get_quality	speex/include/speex/speex_resampler.h	69;"	d
+speex_resampler_get_quality	speex/libspeex/resample.c	/^EXPORT void speex_resampler_get_quality(SpeexResamplerState *st, int *quality)$/;"	f
+speex_resampler_get_rate	speex/include/speex/speex_resampler.h	65;"	d
+speex_resampler_get_rate	speex/libspeex/resample.c	/^EXPORT void speex_resampler_get_rate(SpeexResamplerState *st, spx_uint32_t *in_rate, spx_uint32_t *out_rate)$/;"	f
+speex_resampler_get_ratio	speex/include/speex/speex_resampler.h	67;"	d
+speex_resampler_get_ratio	speex/libspeex/resample.c	/^EXPORT void speex_resampler_get_ratio(SpeexResamplerState *st, spx_uint32_t *ratio_num, spx_uint32_t *ratio_den)$/;"	f
+speex_resampler_init	speex/include/speex/speex_resampler.h	57;"	d
+speex_resampler_init	speex/libspeex/resample.c	/^EXPORT SpeexResamplerState *speex_resampler_init(spx_uint32_t nb_channels, spx_uint32_t in_rate, spx_uint32_t out_rate, int quality, int *err)$/;"	f
+speex_resampler_init_frac	speex/include/speex/speex_resampler.h	58;"	d
+speex_resampler_init_frac	speex/libspeex/resample.c	/^EXPORT SpeexResamplerState *speex_resampler_init_frac(spx_uint32_t nb_channels, spx_uint32_t ratio_num, spx_uint32_t ratio_den, spx_uint32_t in_rate, spx_uint32_t out_rate, int quality, int *err)$/;"	f
+speex_resampler_magic	speex/libspeex/resample.c	/^static int speex_resampler_magic(SpeexResamplerState *st, spx_uint32_t channel_index, spx_word16_t **out, spx_uint32_t out_len) {$/;"	f	file:
+speex_resampler_process_float	speex/include/speex/speex_resampler.h	60;"	d
+speex_resampler_process_float	speex/libspeex/resample.c	/^EXPORT int speex_resampler_process_float(SpeexResamplerState *st, spx_uint32_t channel_index, const float *in, spx_uint32_t *in_len, float *out, spx_uint32_t *out_len)$/;"	f
+speex_resampler_process_int	speex/include/speex/speex_resampler.h	61;"	d
+speex_resampler_process_int	speex/libspeex/resample.c	/^EXPORT int speex_resampler_process_int(SpeexResamplerState *st, spx_uint32_t channel_index, const spx_int16_t *in, spx_uint32_t *in_len, spx_int16_t *out, spx_uint32_t *out_len)$/;"	f
+speex_resampler_process_interleaved_float	speex/include/speex/speex_resampler.h	62;"	d
+speex_resampler_process_interleaved_float	speex/libspeex/resample.c	/^EXPORT int speex_resampler_process_interleaved_float(SpeexResamplerState *st, const float *in, spx_uint32_t *in_len, float *out, spx_uint32_t *out_len)$/;"	f
+speex_resampler_process_interleaved_int	speex/include/speex/speex_resampler.h	63;"	d
+speex_resampler_process_interleaved_int	speex/libspeex/resample.c	/^EXPORT int speex_resampler_process_interleaved_int(SpeexResamplerState *st, const spx_int16_t *in, spx_uint32_t *in_len, spx_int16_t *out, spx_uint32_t *out_len)$/;"	f
+speex_resampler_process_native	speex/libspeex/resample.c	/^static int speex_resampler_process_native(SpeexResamplerState *st, spx_uint32_t channel_index, spx_uint32_t *in_len, spx_word16_t *out, spx_uint32_t *out_len)$/;"	f	file:
+speex_resampler_reset_mem	speex/include/speex/speex_resampler.h	77;"	d
+speex_resampler_reset_mem	speex/libspeex/resample.c	/^EXPORT int speex_resampler_reset_mem(SpeexResamplerState *st)$/;"	f
+speex_resampler_set_input_stride	speex/include/speex/speex_resampler.h	70;"	d
+speex_resampler_set_input_stride	speex/libspeex/resample.c	/^EXPORT void speex_resampler_set_input_stride(SpeexResamplerState *st, spx_uint32_t stride)$/;"	f
+speex_resampler_set_output_stride	speex/include/speex/speex_resampler.h	72;"	d
+speex_resampler_set_output_stride	speex/libspeex/resample.c	/^EXPORT void speex_resampler_set_output_stride(SpeexResamplerState *st, spx_uint32_t stride)$/;"	f
+speex_resampler_set_quality	speex/include/speex/speex_resampler.h	68;"	d
+speex_resampler_set_quality	speex/libspeex/resample.c	/^EXPORT int speex_resampler_set_quality(SpeexResamplerState *st, int quality)$/;"	f
+speex_resampler_set_rate	speex/include/speex/speex_resampler.h	64;"	d
+speex_resampler_set_rate	speex/libspeex/resample.c	/^EXPORT int speex_resampler_set_rate(SpeexResamplerState *st, spx_uint32_t in_rate, spx_uint32_t out_rate)$/;"	f
+speex_resampler_set_rate_frac	speex/include/speex/speex_resampler.h	66;"	d
+speex_resampler_set_rate_frac	speex/libspeex/resample.c	/^EXPORT int speex_resampler_set_rate_frac(SpeexResamplerState *st, spx_uint32_t ratio_num, spx_uint32_t ratio_den, spx_uint32_t in_rate, spx_uint32_t out_rate)$/;"	f
+speex_resampler_skip_zeros	speex/include/speex/speex_resampler.h	76;"	d
+speex_resampler_skip_zeros	speex/libspeex/resample.c	/^EXPORT int speex_resampler_skip_zeros(SpeexResamplerState *st)$/;"	f
+speex_resampler_strerror	speex/include/speex/speex_resampler.h	78;"	d
+speex_resampler_strerror	speex/libspeex/resample.c	/^EXPORT const char *speex_resampler_strerror(int err)$/;"	f
+speex_std_char_handler	speex/libspeex/speex_callbacks.c	/^EXPORT int speex_std_char_handler(SpeexBits *bits, void *state, void *data)$/;"	f
+speex_std_enh_request_handler	speex/libspeex/speex_callbacks.c	/^EXPORT int speex_std_enh_request_handler(SpeexBits *bits, void *state, void *data)$/;"	f
+speex_std_high_mode_request_handler	speex/libspeex/speex_callbacks.c	/^EXPORT int speex_std_high_mode_request_handler(SpeexBits *bits, void *state, void *data)$/;"	f
+speex_std_low_mode_request_handler	speex/libspeex/speex_callbacks.c	/^EXPORT int speex_std_low_mode_request_handler(SpeexBits *bits, void *state, void *data)$/;"	f
+speex_std_mode_request_handler	speex/libspeex/speex_callbacks.c	/^EXPORT int speex_std_mode_request_handler(SpeexBits *bits, void *state, void *data)$/;"	f
+speex_std_stereo_request_handler	speex/libspeex/stereo.c	/^EXPORT int speex_std_stereo_request_handler(SpeexBits *bits, void *state, void *data)$/;"	f
+speex_std_vbr_quality_request_handler	speex/libspeex/speex_callbacks.c	/^EXPORT int speex_std_vbr_quality_request_handler(SpeexBits *bits, void *state, void *data)$/;"	f
+speex_std_vbr_request_handler	speex/libspeex/speex_callbacks.c	/^EXPORT int speex_std_vbr_request_handler(SpeexBits *bits, void *state, void *data)$/;"	f
+speex_stereo_state_destroy	speex/libspeex/stereo.c	/^EXPORT void speex_stereo_state_destroy(SpeexStereoState *stereo)$/;"	f
+speex_stereo_state_init	speex/libspeex/stereo.c	/^EXPORT SpeexStereoState *speex_stereo_state_init()$/;"	f
+speex_stereo_state_reset	speex/libspeex/stereo.c	/^EXPORT void speex_stereo_state_reset(SpeexStereoState *_stereo)$/;"	f
+speex_string	speex/include/speex/speex_header.h	/^   char speex_string[SPEEX_HEADER_STRING_LENGTH];   \/**< Identifies a Speex bit-stream, always set to "Speex   " *\/$/;"	m	struct:SpeexHeader
+speex_uwb_mode	speex/libspeex/modes_wb.c	/^EXPORT const SpeexMode speex_uwb_mode = {$/;"	v
+speex_version	speex/include/speex/speex_header.h	/^   char speex_version[SPEEX_HEADER_VERSION_LENGTH]; \/**< Speex version *\/ $/;"	m	struct:SpeexHeader
+speex_version_id	speex/include/speex/speex_header.h	/^   spx_int32_t speex_version_id;       \/**< Version for Speex (for checking compatibility) *\/$/;"	m	struct:SpeexHeader
+speex_warning	speex/libspeex/os_support.h	/^static inline void speex_warning(const char *str)$/;"	f
+speex_warning_int	speex/libspeex/os_support.h	/^static inline void speex_warning_int(const char *str, int val)$/;"	f
+speex_wb_mode	speex/libspeex/modes_wb.c	/^EXPORT const SpeexMode speex_wb_mode = {$/;"	v
+split_cb_high	speex/libspeex/modes_wb.c	/^static const split_cb_params split_cb_high = {$/;"	v	file:
+split_cb_high_lbr	speex/libspeex/modes_wb.c	/^static const split_cb_params split_cb_high_lbr = {$/;"	v	file:
+split_cb_nb	speex/libspeex/modes.c	/^static const split_cb_params split_cb_nb = {$/;"	v	file:
+split_cb_nb_lbr	speex/libspeex/modes.c	/^static const split_cb_params split_cb_nb_lbr = {$/;"	v	file:
+split_cb_nb_med	speex/libspeex/modes.c	/^static const split_cb_params split_cb_nb_med = {$/;"	v	file:
+split_cb_nb_ulbr	speex/libspeex/modes.c	/^static const split_cb_params split_cb_nb_ulbr = {$/;"	v	file:
+split_cb_nb_vlbr	speex/libspeex/modes.c	/^static const split_cb_params split_cb_nb_vlbr = {$/;"	v	file:
+split_cb_params	speex/libspeex/cb_search.h	/^typedef struct split_cb_params {$/;"	s
+split_cb_params	speex/libspeex/cb_search.h	/^} split_cb_params;$/;"	t	typeref:struct:split_cb_params
+split_cb_sb	speex/libspeex/modes.c	/^static const split_cb_params split_cb_sb = {$/;"	v	file:
+split_cb_search_shape_sign	speex/libspeex/cb_search.c	/^void split_cb_search_shape_sign($/;"	f
+split_cb_search_shape_sign_N1	speex/libspeex/cb_search.c	/^static void split_cb_search_shape_sign_N1($/;"	f	file:
+split_cb_shape_sign_unquant	speex/libspeex/cb_search.c	/^void split_cb_shape_sign_unquant($/;"	f
+splitcache	speex/libspeex/smallft.h	/^  int *splitcache;$/;"	m	struct:drft_lookup
+spx_acos	speex/libspeex/math_approx.h	/^static inline spx_word16_t spx_acos(spx_word16_t x)$/;"	f
+spx_acos	speex/libspeex/math_approx.h	43;"	d
+spx_atan	speex/libspeex/math_approx.h	/^static inline spx_word16_t spx_atan(spx_word32_t x)$/;"	f
+spx_atan	speex/libspeex/math_approx.h	46;"	d
+spx_atan01	speex/libspeex/math_approx.h	/^static inline spx_word16_t spx_atan01(spx_word16_t x)$/;"	f
+spx_coef_t	speex/libspeex/arch.h	/^typedef float spx_coef_t;$/;"	t
+spx_coef_t	speex/libspeex/arch.h	/^typedef spx_word16_t spx_coef_t;$/;"	t
+spx_cos	speex/libspeex/math_approx.h	/^static inline spx_word16_t spx_cos(spx_word16_t x)$/;"	f
+spx_cos_norm	speex/libspeex/math_approx.h	/^static inline spx_word16_t spx_cos_norm(spx_word32_t x)$/;"	f
+spx_cos_norm	speex/libspeex/math_approx.h	45;"	d
+spx_drft_backward	speex/libspeex/smallft.c	/^void spx_drft_backward(struct drft_lookup *l,float *data){$/;"	f
+spx_drft_clear	speex/libspeex/smallft.c	/^void spx_drft_clear(struct drft_lookup *l)$/;"	f
+spx_drft_forward	speex/libspeex/smallft.c	/^void spx_drft_forward(struct drft_lookup *l,float *data){$/;"	f
+spx_drft_init	speex/libspeex/smallft.c	/^void spx_drft_init(struct drft_lookup *l,int n)$/;"	f
+spx_exp	speex/libspeex/math_approx.h	/^static inline spx_word32_t spx_exp(spx_word16_t x)$/;"	f
+spx_exp	speex/libspeex/math_approx.h	44;"	d
+spx_exp2	speex/libspeex/math_approx.h	/^static inline spx_word32_t spx_exp2(spx_word16_t x)$/;"	f
+spx_fft	speex/libspeex/fftwrap.c	/^void spx_fft(void *table, float *in, float *out)$/;"	f
+spx_fft	speex/libspeex/fftwrap.c	/^void spx_fft(void *table, spx_word16_t *in, spx_word16_t *out)$/;"	f
+spx_fft_destroy	speex/libspeex/fftwrap.c	/^void spx_fft_destroy(void *table)$/;"	f
+spx_fft_float	speex/libspeex/fftwrap.c	/^void spx_fft_float(void *table, float *in, float *out)$/;"	f
+spx_fft_init	speex/libspeex/fftwrap.c	/^void *spx_fft_init(int size)$/;"	f
+spx_float_t	speex/libspeex/pseudofloat.h	/^} spx_float_t;$/;"	t	typeref:struct:__anon5
+spx_float_t	speex/libspeex/pseudofloat.h	355;"	d
+spx_ifft	speex/libspeex/fftwrap.c	/^void spx_ifft(void *table, float *in, float *out)$/;"	f
+spx_ifft	speex/libspeex/fftwrap.c	/^void spx_ifft(void *table, spx_word16_t *in, spx_word16_t *out) $/;"	f
+spx_ifft	speex/libspeex/fftwrap.c	/^void spx_ifft(void *table, spx_word16_t *in, spx_word16_t *out)$/;"	f
+spx_ifft_float	speex/libspeex/fftwrap.c	/^void spx_ifft_float(void *table, float *in, float *out)$/;"	f
+spx_ilog2	speex/libspeex/math_approx.h	/^static inline spx_int16_t spx_ilog2(spx_uint32_t x)$/;"	f
+spx_ilog4	speex/libspeex/math_approx.h	/^static inline spx_int16_t spx_ilog4(spx_uint32_t x)$/;"	f
+spx_int16_t	speex/include/speex/speex_config_types.h	/^typedef short spx_int16_t;$/;"	t
+spx_int16_t	speex/include/speex/speex_resampler.h	80;"	d
+spx_int16_t	speex/include/speex/speex_types.h	/^     typedef _G_int16_t spx_int16_t;$/;"	t
+spx_int16_t	speex/include/speex/speex_types.h	/^     typedef __int16 spx_int16_t;$/;"	t
+spx_int16_t	speex/include/speex/speex_types.h	/^     typedef short spx_int16_t;$/;"	t
+spx_int16_t	speex/include/speex/speex_types.h	/^   typedef SInt16 spx_int16_t;$/;"	t
+spx_int16_t	speex/include/speex/speex_types.h	/^   typedef int16_t spx_int16_t;$/;"	t
+spx_int16_t	speex/include/speex/speex_types.h	/^   typedef short spx_int16_t;$/;"	t
+spx_int16_t	speex/include/speex/speex_types.h	/^   typedef signed short spx_int16_t;$/;"	t
+spx_int32_t	speex/include/speex/speex_config_types.h	/^typedef int spx_int32_t;$/;"	t
+spx_int32_t	speex/include/speex/speex_resampler.h	81;"	d
+spx_int32_t	speex/include/speex/speex_types.h	/^     typedef _G_int32_t spx_int32_t;$/;"	t
+spx_int32_t	speex/include/speex/speex_types.h	/^     typedef __int32 spx_int32_t;$/;"	t
+spx_int32_t	speex/include/speex/speex_types.h	/^     typedef int spx_int32_t;$/;"	t
+spx_int32_t	speex/include/speex/speex_types.h	/^   typedef SInt32 spx_int32_t;$/;"	t
+spx_int32_t	speex/include/speex/speex_types.h	/^   typedef int spx_int32_t;$/;"	t
+spx_int32_t	speex/include/speex/speex_types.h	/^   typedef int32_t spx_int32_t;$/;"	t
+spx_int32_t	speex/include/speex/speex_types.h	/^   typedef long spx_int32_t;$/;"	t
+spx_int32_t	speex/include/speex/speex_types.h	/^   typedef signed int spx_int32_t;$/;"	t
+spx_lsp_t	speex/libspeex/arch.h	/^typedef float spx_lsp_t;$/;"	t
+spx_lsp_t	speex/libspeex/arch.h	/^typedef spx_word16_t spx_lsp_t;$/;"	t
+spx_mem_t	speex/libspeex/arch.h	/^typedef float spx_mem_t;$/;"	t
+spx_mem_t	speex/libspeex/arch.h	/^typedef spx_word32_t spx_mem_t;$/;"	t
+spx_mips	speex/libspeex/modes.c	/^long long spx_mips=0;$/;"	v
+spx_mips	speex/libspeex/preprocess.c	/^long long spx_mips=0;$/;"	v
+spx_sig_t	speex/libspeex/arch.h	/^typedef float spx_sig_t;$/;"	t
+spx_sig_t	speex/libspeex/arch.h	/^typedef spx_word32_t spx_sig_t;$/;"	t
+spx_sqrt	speex/libspeex/math_approx.h	/^static inline spx_word16_t spx_sqrt(spx_word32_t x)$/;"	f
+spx_sqrt	speex/libspeex/math_approx.h	42;"	d
+spx_uint16_t	speex/include/speex/speex_config_types.h	/^typedef unsigned short spx_uint16_t;$/;"	t
+spx_uint16_t	speex/include/speex/speex_resampler.h	82;"	d
+spx_uint16_t	speex/include/speex/speex_types.h	/^     typedef _G_uint16_t spx_uint16_t;$/;"	t
+spx_uint16_t	speex/include/speex/speex_types.h	/^     typedef unsigned __int16 spx_uint16_t;$/;"	t
+spx_uint16_t	speex/include/speex/speex_types.h	/^     typedef unsigned short spx_uint16_t;$/;"	t
+spx_uint16_t	speex/include/speex/speex_types.h	/^   typedef UInt16 spx_uint16_t;$/;"	t
+spx_uint16_t	speex/include/speex/speex_types.h	/^   typedef u_int16_t spx_uint16_t;$/;"	t
+spx_uint16_t	speex/include/speex/speex_types.h	/^   typedef unsigned short spx_uint16_t;$/;"	t
+spx_uint32_t	speex/include/speex/speex_config_types.h	/^typedef unsigned int spx_uint32_t;$/;"	t
+spx_uint32_t	speex/include/speex/speex_resampler.h	83;"	d
+spx_uint32_t	speex/include/speex/speex_types.h	/^     typedef _G_uint32_t spx_uint32_t;$/;"	t
+spx_uint32_t	speex/include/speex/speex_types.h	/^     typedef unsigned __int32 spx_uint32_t;$/;"	t
+spx_uint32_t	speex/include/speex/speex_types.h	/^     typedef unsigned int spx_uint32_t;$/;"	t
+spx_uint32_t	speex/include/speex/speex_types.h	/^   typedef UInt32 spx_uint32_t;$/;"	t
+spx_uint32_t	speex/include/speex/speex_types.h	/^   typedef u_int32_t spx_uint32_t;$/;"	t
+spx_uint32_t	speex/include/speex/speex_types.h	/^   typedef unsigned int spx_uint32_t;$/;"	t
+spx_uint32_t	speex/include/speex/speex_types.h	/^   typedef unsigned long spx_uint32_t;$/;"	t
+spx_uint32_t	speex/include/speex/speex_types.h	/^   typedef unsigned spx_uint32_t;$/;"	t
+spx_word16_t	speex/libspeex/arch.h	/^typedef float spx_word16_t;$/;"	t
+spx_word16_t	speex/libspeex/arch.h	/^typedef spx_int16_t spx_word16_t;$/;"	t
+spx_word32_t	speex/libspeex/arch.h	/^typedef float spx_word32_t;$/;"	t
+spx_word32_t	speex/libspeex/arch.h	/^typedef spx_int32_t   spx_word32_t;$/;"	t
+sqr	speex/libspeex/nb_celp.c	109;"	d	file:
+sqr	speex/libspeex/sb_celp.c	111;"	d	file:
+sqr	speex/libspeex/vbr.c	43;"	d	file:
+sround	speex/libspeex/_kiss_fft_guts.h	63;"	d
+st_low	speex/libspeex/sb_celp.h	/^   void *st_low;                  \/**< State of the low-band (narrowband) encoder *\/$/;"	m	struct:SBEncState
+st_low	speex/libspeex/sb_celp.h	/^   void *st_low;               \/**< State of the low-band (narrowband) encoder *\/$/;"	m	struct:SBDecState
+stack	speex/libspeex/nb_celp.h	/^   char  *stack;                 \/**< Pseudo-stack allocation for temporary memory *\/$/;"	m	struct:EncState
+stack	speex/libspeex/nb_celp.h	/^   char  *stack;                \/**< Pseudo-stack allocation for temporary memory *\/$/;"	m	struct:DecState
+stack	speex/libspeex/sb_celp.h	/^   char  *stack;                  \/**< Temporary allocation stack *\/$/;"	m	struct:SBEncState
+stack	speex/libspeex/sb_celp.h	/^   char  *stack;$/;"	m	struct:SBDecState
+started	speex/libspeex/resample.c	/^   int          started;$/;"	m	struct:SpeexResamplerState_	file:
+subframeSize	speex/libspeex/modes.h	/^   int     subframeSize;   \/**< Size of sub-frames used for encoding *\/$/;"	m	struct:SpeexNBMode
+subframeSize	speex/libspeex/modes.h	/^   int     subframeSize;  \/**< Size of sub-frames used for encoding *\/$/;"	m	struct:SpeexSBMode
+subframeSize	speex/libspeex/nb_celp.h	/^   int    subframeSize;          \/**< Size of sub-frames *\/$/;"	m	struct:EncState
+subframeSize	speex/libspeex/nb_celp.h	/^   int    subframeSize;         \/**< Size of sub-frames *\/$/;"	m	struct:DecState
+subframeSize	speex/libspeex/sb_celp.h	/^   int    subframeSize;           \/**< Length of high-band sub-frames*\/$/;"	m	struct:SBEncState
+subframeSize	speex/libspeex/sb_celp.h	/^   int    subframeSize;$/;"	m	struct:SBDecState
+submodeID	speex/libspeex/nb_celp.h	/^   int    submodeID;             \/**< Activated sub-mode *\/$/;"	m	struct:EncState
+submodeID	speex/libspeex/nb_celp.h	/^   int    submodeID;            \/**< Activated sub-mode *\/$/;"	m	struct:DecState
+submodeID	speex/libspeex/sb_celp.h	/^   int    submodeID;$/;"	m	struct:SBDecState
+submodeID	speex/libspeex/sb_celp.h	/^   int    submodeID;$/;"	m	struct:SBEncState
+submodeSelect	speex/libspeex/nb_celp.h	/^   int    submodeSelect;         \/**< Mode chosen by the user (may differ from submodeID if VAD is on) *\/$/;"	m	struct:EncState
+submodeSelect	speex/libspeex/sb_celp.h	/^   int    submodeSelect;$/;"	m	struct:SBEncState
+submodes	speex/libspeex/modes.h	/^   const SpeexSubmode *submodes[NB_SUBMODES]; \/**< Sub-mode data for the mode *\/$/;"	m	struct:SpeexNBMode
+submodes	speex/libspeex/modes.h	/^   const SpeexSubmode *submodes[SB_SUBMODES]; \/**< Sub-mode data for the mode *\/$/;"	m	struct:SpeexSBMode
+submodes	speex/libspeex/nb_celp.h	/^   const SpeexSubmode * const *submodes; \/**< Sub-mode data *\/$/;"	m	struct:DecState
+submodes	speex/libspeex/nb_celp.h	/^   const SpeexSubmode * const *submodes; \/**< Sub-mode data *\/$/;"	m	struct:EncState
+submodes	speex/libspeex/sb_celp.h	/^   const SpeexSubmode * const *submodes;$/;"	m	struct:SBDecState
+submodes	speex/libspeex/sb_celp.h	/^   const SpeexSubmode * const *submodes;$/;"	m	struct:SBEncState
+substate	speex/libspeex/kiss_fftr.c	/^    kiss_fft_cfg substate;$/;"	m	struct:kiss_fftr_state	file:
+subvect_size	speex/libspeex/cb_search.h	/^   int     subvect_size;$/;"	m	struct:split_cb_params
+subwindow_size	speex/libspeex/jitter.c	/^   int subwindow_size;                                         \/**< Sub-window size for faster computation  *\/$/;"	m	struct:JitterBuffer_	file:
+sum_adapt	speex/libspeex/mdf.c	/^   spx_word32_t sum_adapt;$/;"	m	struct:SpeexEchoState_	file:
+super_twiddles	speex/libspeex/kiss_fftr.c	/^    kiss_fft_cpx * super_twiddles;$/;"	m	struct:kiss_fftr_state	file:
+sw	speex/libspeex/nb_celp.h	/^   spx_word16_t *sw;             \/**< Start of weighted signal frame *\/$/;"	m	struct:EncState
+swBuf	speex/libspeex/nb_celp.h	/^   spx_word16_t *swBuf;          \/**< Weighted signal buffer *\/$/;"	m	struct:EncState
+syn_percep_zero16	speex/libspeex/filters.c	/^void syn_percep_zero16(const spx_word16_t *xx, const spx_coef_t *ak, const spx_coef_t *awk1, const spx_coef_t *awk2, spx_word16_t *y, int N, int ord, char *stack)$/;"	f
+synthIn	speex/libspeex/testjitter.c	/^void synthIn(JitterBufferPacket *in, int idx, int span) {$/;"	f
+table	speex/libspeex/resample.c	/^   double *table;$/;"	m	struct:FuncDef	file:
+target_update	speex/libspeex/cb_search.c	/^static inline void target_update(spx_word16_t *t, spx_word16_t g, spx_word16_t *r, int len)$/;"	f	file:
+target_update	speex/libspeex/cb_search_bfin.h	/^static inline void target_update(spx_word16_t *t, spx_word16_t g, spx_word16_t *r, int len)$/;"	f
+tb_add	speex/libspeex/jitter.c	/^static void tb_add(struct TimingBuffer *tb, spx_int16_t timing)$/;"	f	file:
+tb_init	speex/libspeex/jitter.c	/^static void tb_init(struct TimingBuffer *tb)$/;"	f	file:
+timeBuffers	speex/libspeex/jitter.c	/^   struct TimingBuffer *timeBuffers[MAX_BUFFERS];              \/**< Storing arrival time of latest frames so we can compute some stats *\/$/;"	m	struct:JitterBuffer_	typeref:struct:JitterBuffer_::TimingBuffer	file:
+timestamp	speex/include/speex/speex_jitter.h	/^   spx_uint32_t timestamp;  \/**< Timestamp for the packet *\/$/;"	m	struct:_JitterBufferPacket
+timing	speex/libspeex/jitter.c	/^   spx_int32_t timing[MAX_TIMINGS];    \/**< Sorted list of all timings ("latest" packets first) *\/$/;"	m	struct:TimingBuffer	file:
+tmpbuf	speex/libspeex/kiss_fftr.c	/^    kiss_fft_cpx * tmpbuf;$/;"	m	struct:kiss_fftr_state	file:
+toBARK	speex/libspeex/filterbank.c	46;"	d	file:
+toBARK	speex/libspeex/filterbank.c	49;"	d	file:
+toBARK	speex/libspeex/vorbis_psy.h	54;"	d
+toMEL	speex/libspeex/filterbank.c	52;"	d	file:
+toOC	speex/libspeex/vorbis_psy.h	60;"	d
+todB	speex/libspeex/vorbis_psy.h	42;"	d
+trigcache	speex/libspeex/smallft.h	/^  float *trigcache;$/;"	m	struct:drft_lookup
+twiddles	speex/libspeex/_kiss_fft_guts.h	/^    kiss_fft_cpx twiddles[1];$/;"	m	struct:kiss_fft_state
+uni_rand	speex/libspeex/scal.c	/^static float uni_rand(int *seed)$/;"	f	file:
+update_filter	speex/libspeex/resample.c	/^static void update_filter(SpeexResamplerState *st)$/;"	f	file:
+update_noise_prob	speex/libspeex/preprocess.c	/^static void update_noise_prob(SpeexPreprocessState *st)$/;"	f	file:
+update_prob	speex/libspeex/preprocess.c	/^   int *update_prob;         \/**< Probability of speech presence for noise update *\/$/;"	m	struct:SpeexPreprocessState_	file:
+update_timings	speex/libspeex/jitter.c	/^static void update_timings(JitterBuffer *jitter, spx_int32_t timing)$/;"	f	file:
+upsample_bandwidth	speex/libspeex/resample.c	/^   float upsample_bandwidth;$/;"	m	struct:QualityMapping	file:
+user_callback	speex/libspeex/nb_celp.h	/^   SpeexCallback user_callback;$/;"	m	struct:DecState
+user_data	speex/include/speex/speex_jitter.h	/^   spx_uint32_t user_data;  \/**< Put whatever data you like here (it's ignored by the jitter buffer) *\/$/;"	m	struct:_JitterBufferPacket
+vad_enabled	speex/libspeex/nb_celp.h	/^   int    vad_enabled;           \/**< 1 for enabling VAD, 0 otherwise *\/$/;"	m	struct:EncState
+vad_enabled	speex/libspeex/preprocess.c	/^   int    vad_enabled;$/;"	m	struct:SpeexPreprocessState_	file:
+vad_enabled	speex/libspeex/sb_celp.h	/^   int    vad_enabled;            \/**< 1 for enabling VAD, 0 otherwise *\/$/;"	m	struct:SBEncState
+vbr	speex/include/speex/speex_header.h	/^   spx_int32_t vbr;                    \/**< 1 for a VBR encoding, 0 otherwise *\/$/;"	m	struct:SpeexHeader
+vbr	speex/libspeex/nb_celp.h	/^   VBRState *vbr;                \/**< State of the VBR data *\/$/;"	m	struct:EncState
+vbr_analysis	speex/libspeex/vbr.c	/^float vbr_analysis(VBRState *vbr, spx_word16_t *sig, int len, int pitch, float pitch_coef)$/;"	f
+vbr_destroy	speex/libspeex/vbr.c	/^void vbr_destroy(VBRState *vbr)$/;"	f
+vbr_enabled	speex/libspeex/nb_celp.h	/^   spx_int32_t vbr_enabled;      \/**< 1 for enabling VBR, 0 otherwise *\/$/;"	m	struct:EncState
+vbr_enabled	speex/libspeex/sb_celp.h	/^   int    vbr_enabled;            \/**< 1 for enabling VBR, 0 otherwise *\/$/;"	m	struct:SBEncState
+vbr_hb_thresh	speex/libspeex/vbr.c	/^const float vbr_hb_thresh[5][11]={$/;"	v
+vbr_init	speex/libspeex/vbr.c	/^void vbr_init(VBRState *vbr)$/;"	f
+vbr_max	speex/libspeex/nb_celp.h	/^   spx_int32_t vbr_max;          \/**< Max bit-rate allowed in VBR mode *\/$/;"	m	struct:EncState
+vbr_max	speex/libspeex/sb_celp.h	/^   spx_int32_t vbr_max;           \/**< Max bit-rate allowed in VBR mode (total) *\/$/;"	m	struct:SBEncState
+vbr_max_high	speex/libspeex/sb_celp.h	/^   spx_int32_t vbr_max_high;      \/**< Max bit-rate allowed in VBR mode for the high-band *\/$/;"	m	struct:SBEncState
+vbr_nb_thresh	speex/libspeex/vbr.c	/^const float vbr_nb_thresh[9][11]={$/;"	v
+vbr_quality	speex/libspeex/nb_celp.h	/^   float  vbr_quality;           \/**< Quality setting for VBR encoding *\/$/;"	m	struct:EncState
+vbr_quality	speex/libspeex/sb_celp.h	/^   float  vbr_quality;            \/**< Quality setting for VBR encoding *\/$/;"	m	struct:SBEncState
+vbr_thresh	speex/libspeex/modes.h	/^   const float (*vbr_thresh)[11];$/;"	m	struct:SpeexSBMode
+vbr_uhb_thresh	speex/libspeex/vbr.c	/^const float vbr_uhb_thresh[2][11]={$/;"	v
+vi	speex/libspeex/vorbis_psy.h	/^  VorbisPsyInfo *vi;$/;"	m	struct:__anon7
+voc_m1	speex/libspeex/nb_celp.h	/^   spx_word16_t  voc_m1;$/;"	m	struct:DecState
+voc_m2	speex/libspeex/nb_celp.h	/^   spx_word32_t  voc_m2;$/;"	m	struct:DecState
+voc_mean	speex/libspeex/nb_celp.h	/^   spx_word16_t  voc_mean;$/;"	m	struct:DecState
+voc_offset	speex/libspeex/nb_celp.h	/^   int    voc_offset;$/;"	m	struct:DecState
+vorbis_win	speex/libspeex/scal.c	/^   float *vorbis_win;$/;"	m	struct:SpeexDecorrState_	file:
+vq_nbest	speex/libspeex/vq.c	/^void vq_nbest(spx_word16_t *in, const spx_word16_t *codebook, int len, int entries, spx_word32_t *E, int N, int *nbest, spx_word32_t *best_dist, char *stack)$/;"	f
+vq_nbest	speex/libspeex/vq_arm4.h	/^void vq_nbest(spx_word16_t *in, const spx_word16_t *codebook, int len, int entries, spx_word32_t *E, int N, int *nbest, spx_word32_t *best_dist, char *stack)$/;"	f
+vq_nbest	speex/libspeex/vq_bfin.h	/^void vq_nbest(spx_word16_t *in, const spx_word16_t *codebook, int len, int entries, spx_word32_t *E, int N, int *nbest, spx_word32_t *best_dist, char *stack)$/;"	f
+vq_nbest	speex/libspeex/vq_sse.h	/^void vq_nbest(spx_word16_t *_in, const __m128 *codebook, int len, int entries, __m128 *E, int N, int *nbest, spx_word32_t *best_dist, char *stack)$/;"	f
+vq_nbest_sign	speex/libspeex/vq.c	/^void vq_nbest_sign(spx_word16_t *in, const spx_word16_t *codebook, int len, int entries, spx_word32_t *E, int N, int *nbest, spx_word32_t *best_dist, char *stack)$/;"	f
+vq_nbest_sign	speex/libspeex/vq_sse.h	/^void vq_nbest_sign(spx_word16_t *_in, const __m128 *codebook, int len, int entries, __m128 *E, int N, int *nbest, spx_word32_t *best_dist, char *stack)$/;"	f
+was_speech	speex/libspeex/preprocess.c	/^   int    was_speech;$/;"	m	struct:SpeexPreprocessState_	file:
+wb_mode_query	speex/libspeex/modes_wb.c	/^int wb_mode_query(const void *mode, int request, void *ptr)$/;"	f
+wb_skip_table	speex/libspeex/nb_celp.c	/^static const int wb_skip_table[8] = {0, 36, 112, 192, 352, 0, 0, 0};$/;"	v	file:
+wb_submode1	speex/libspeex/modes_wb.c	/^static const SpeexSubmode wb_submode1 = {$/;"	v	file:
+wb_submode2	speex/libspeex/modes_wb.c	/^static const SpeexSubmode wb_submode2 = {$/;"	v	file:
+wb_submode3	speex/libspeex/modes_wb.c	/^static const SpeexSubmode wb_submode3 = {$/;"	v	file:
+wb_submode4	speex/libspeex/modes_wb.c	/^static const SpeexSubmode wb_submode4 = {$/;"	v	file:
+weighted_spectral_mul_conj	speex/libspeex/mdf.c	/^static inline void weighted_spectral_mul_conj(const spx_float_t *w, const spx_float_t p, const spx_word16_t *X, const spx_word16_t *Y, spx_word32_t *prod, int N)$/;"	f	file:
+winBuf	speex/libspeex/nb_celp.h	/^   spx_word16_t *winBuf;         \/**< Input buffer (original signal) *\/$/;"	m	struct:EncState
+window	speex/libspeex/mdf.c	/^   spx_word16_t *window;$/;"	m	struct:SpeexEchoState_	file:
+window	speex/libspeex/nb_celp.h	/^   const spx_word16_t *window;   \/**< Temporary (Hanning) window *\/$/;"	m	struct:EncState
+window	speex/libspeex/preprocess.c	/^   spx_word16_t *window;     \/**< Analysis\/Synthesis window *\/$/;"	m	struct:SpeexPreprocessState_	file:
+window	speex/libspeex/sb_celp.h	/^   const spx_word16_t *window;    \/**< LPC analysis window *\/$/;"	m	struct:SBEncState
+window	speex/libspeex/vorbis_psy.h	/^  float *window;$/;"	m	struct:__anon7
+windowSize	speex/libspeex/nb_celp.h	/^   int    windowSize;            \/**< Analysis (LPC) window length *\/$/;"	m	struct:EncState
+windowSize	speex/libspeex/sb_celp.h	/^   int    windowSize;             \/**< Length of high-band LPC window*\/$/;"	m	struct:SBEncState
+window_func	speex/libspeex/resample.c	/^   struct FuncDef *window_func;$/;"	m	struct:QualityMapping	typeref:struct:QualityMapping::FuncDef	file:
+window_size	speex/libspeex/jitter.c	/^   int window_size;                                            \/**< Total window over which the late frames are counted *\/$/;"	m	struct:JitterBuffer_	file:
+window_size	speex/libspeex/mdf.c	/^   int window_size;$/;"	m	struct:SpeexEchoState_	file:
+wola_mem	speex/libspeex/scal.c	/^   float *wola_mem;$/;"	m	struct:SpeexDecorrState_	file:
+write_ptr	speex/libspeex/buffer.c	/^   int   write_ptr;$/;"	m	struct:SpeexBuffer_	file:
+wtmp	speex/libspeex/mdf.c	/^   spx_word16_t *wtmp;   \/* scratch *\/$/;"	m	struct:SpeexEchoState_	file:
+wtmp2	speex/libspeex/mdf.c	/^   spx_word16_t *wtmp2;  \/* scratch *\/$/;"	m	struct:SpeexEchoState_	file:
+x	speex/libspeex/mdf.c	/^   spx_word16_t *x;      \/* Far-end input buffer (2N) *\/$/;"	m	struct:SpeexEchoState_	file:
+y	speex/libspeex/mdf.c	/^   spx_word16_t *y;      \/* scratch *\/$/;"	m	struct:SpeexEchoState_	file:
+y	speex/libspeex/scal.c	/^   float *y;$/;"	m	struct:SpeexDecorrState_	file:
+zeta	speex/libspeex/preprocess.c	/^   spx_word16_t *zeta;       \/**< Smoothed a priori SNR *\/$/;"	m	struct:SpeexPreprocessState_	file:
+~CustomSpeex	customspeex.cpp	/^CustomSpeex::~CustomSpeex()$/;"	f	class:CustomSpeex

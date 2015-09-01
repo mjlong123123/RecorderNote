@@ -47,13 +47,14 @@ LOCAL_SRC_FILES := \
 ./speex/libspeex/stereo.c \
 ./speex/libspeex/vbr.c \
 ./speex/libspeex/vq.c \
-./speex/libspeex/window.c
+./speex/libspeex/window.c \
+customspeex.cpp
 
 include $(BUILD_STATIC_LIBRARY)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE    := speex-jni
-LOCAL_SRC_FILES := speex_jni.cpp
+LOCAL_SRC_FILES := com_android_recordernote_jni_Speex.cpp
 LOCAL_CFLAGS +=   -DENABLE_TRACE
 LOCAL_C_INCLUDES:= $(LOCAL_PATH)/speex/include
 LOCAL_EXPORT_C_INCLUDES:=$(LOCAL_C_INCLUDES)
