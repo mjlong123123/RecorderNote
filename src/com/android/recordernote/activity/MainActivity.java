@@ -1,90 +1,55 @@
 package com.android.recordernote.activity;
 
 import android.content.Intent;
+import android.database.DataSetObserver;
 import android.os.Bundle;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
+import android.view.ViewGroup;
+import android.widget.BaseExpandableListAdapter;
 import android.widget.Button;
+import android.widget.ExpandableListAdapter;
+import android.widget.ExpandableListView;
+import android.widget.ImageButton;
+import android.widget.TextView;
 
 import com.android.recordernote.R;
 import com.android.recordernote.service.RecordService;
 
 public class MainActivity extends BaseActivity {
-	private Button button1;
-	private Button button2;
-	private Button button3;
-	private Button button4;
+
+	private ExpandableListView mExpandableListView;
+	private BaseExpandableListAdapter mBaseExpandableListAdapter;
+	private TextView titleText;
+	private ImageButton addImageButton;
+	private String mNewFilePath;
+	private final String KEY_NEW_FILE_PATH = "KEY_NEW_FILE_PATH";
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		setContentView(R.layout.main_activity_layout);
-
+		initIntent(getIntent());
 		initView();
 		super.onCreate(savedInstanceState);
 	}
 
 	private void initView() {
-		button1 = (Button) findViewById(R.id.button1);
-		button1.setOnClickListener(new OnClickListener() {
-
+		titleText = (TextView)findViewById(R.id.title_text);
+		addImageButton = (ImageButton)findViewById(R.id.title_add);
+		addImageButton.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View v) {
-				startRecording();
+				Intent intent = new Intent();
+				intent.setClass(MainActivity.this, RecordActivity.class);
+				MainActivity.this.startActivity(intent);
 			}
 		});
-		button2 = (Button) findViewById(R.id.button2);
-		button2.setOnClickListener(new OnClickListener() {
-
-			@Override
-			public void onClick(View v) {
-				stopRecording();
-			}
-		});
-		button3 = (Button) findViewById(R.id.button3);
-		button3.setOnClickListener(new OnClickListener() {
-
-			@Override
-			public void onClick(View v) {
-				play();
-			}
-		});
-		button4 = (Button) findViewById(R.id.button4);
-		button4.setOnClickListener(new OnClickListener() {
-
-			@Override
-			public void onClick(View v) {
-				stop();
-			}
-		});
+		mExpandableListView = (ExpandableListView)findViewById(R.id.list_view);
+		mBaseExpandableListAdapter = new CustomAdapter();
+		mExpandableListView.setAdapter(mBaseExpandableListAdapter);
 	}
 
-	private void startRecording() {
-		Intent intent = new Intent();
-		intent.setClass(this, RecordService.class);
-		intent.putExtra(RecordService.SERVICE_ACTION, RecordService.ACTION_START_RECORDING);
-		startService(intent);
-	}
-
-	private void stopRecording() {
-		Intent intent = new Intent();
-		intent.setClass(this, RecordService.class);
-		intent.putExtra(RecordService.SERVICE_ACTION, RecordService.ACTION_STOP_RECORDING);
-		startService(intent);
-	}
-
-	private void play() {
-		Intent intent = new Intent();
-		intent.setClass(this, RecordService.class);
-		intent.putExtra(RecordService.SERVICE_ACTION, RecordService.ACTION_PLAY_AUDIO);
-		startService(intent);
-	}
-
-	private void stop() {
-		Intent intent = new Intent();
-		intent.setClass(this, RecordService.class);
-		intent.putExtra(RecordService.SERVICE_ACTION, RecordService.ACTION_STOP_AUDIO);
-		startService(intent);
-	}
 
 	@Override
 	protected void onDestroy() {
@@ -99,5 +64,79 @@ public class MainActivity extends BaseActivity {
 	@Override
 	protected void onPause() {
 		super.onPause();
+	}
+	
+	@Override
+	protected void onNewIntent(Intent intent) {
+		initIntent(intent);
+		super.onNewIntent(intent);
+	}
+	
+	private void initIntent(Intent intent){
+		mNewFilePath = intent.getStringExtra(KEY_NEW_FILE_PATH);
+	}
+	
+	private class CustomAdapter extends BaseExpandableListAdapter{
+
+		@Override
+		public int getGroupCount() {
+			return 10;
+		}
+
+		@Override
+		public int getChildrenCount(int groupPosition) {
+			
+			return 3;
+		}
+
+		@Override
+		public Object getGroup(int groupPosition) {
+			return null;
+		}
+
+		@Override
+		public Object getChild(int groupPosition, int childPosition) {
+			return null;
+		}
+
+		@Override
+		public long getGroupId(int groupPosition) {
+			return groupPosition;
+		}
+
+		@Override
+		public long getChildId(int groupPosition, int childPosition) {
+			return childPosition;
+		}
+
+		@Override
+		public View getGroupView(int groupPosition, boolean isExpanded, View convertView, ViewGroup parent) {
+			if(convertView == null){
+				convertView = LayoutInflater.from(MainActivity.this).inflate(R.layout.item_group_layout, parent, false);
+			}
+			TextView tv = (TextView)convertView.findViewById(R.id.group_item_text);
+			tv.setText("group item "+groupPosition);
+			return convertView;
+		}
+
+		@Override
+		public View getChildView(int groupPosition, int childPosition, boolean isLastChild, View convertView, ViewGroup parent) {
+			if(convertView == null){
+				convertView = LayoutInflater.from(MainActivity.this).inflate(R.layout.item_layout, parent, false);
+			}
+			TextView tv = (TextView)convertView.findViewById(R.id.item_textview);
+			tv.setText("item "+groupPosition);
+			return convertView;
+		}
+
+		@Override
+		public boolean hasStableIds() {
+			return false;
+		}
+
+		@Override
+		public boolean isChildSelectable(int groupPosition, int childPosition) {
+			return true;
+		}
 	}
 }

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp" >
+
+    <ImageButton
+        android:id="@+id/ok_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/button_ok" />
+
+    <TextView
+        android:id="@+id/msg_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:gravity="center_horizontal"
+        android:text="@string/record_msg"
+        android:textColor="#88000000"
+        android:textSize="20sp" 
+        android:layout_below="@+id/ok_button"/>
+
+    <TextView
+        android:id="@+id/time_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/msg_text"
+        android:layout_marginBottom="20dp"
+        android:gravity="center_horizontal"
+        android:text="10:00"
+        android:textColor="#88000000"
+        android:textSize="18sp" />
+
+    <com.android.recordernote.view.WaveView
+        android:id="@+id/wave_view"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/time_text"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

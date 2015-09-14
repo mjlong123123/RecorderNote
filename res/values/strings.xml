@@ -1,5 +1,13 @@
 <resources>
 
-    <string name="app_name">RecorderNote</string>
+    <string name="app_name">录音日记</string>
+    <string name="test">test</string>
+    <string name="record_msg">正在录制...</string>
+    <string name="common_ok">确定</string>
+    <string name="common_cancel">取消</string>
+    <string name="common_save">保存</string>
+    <string name="save_msg">是否保存录音？</string>
+    <string name="warning_title">提示</string>
+    <string name="delete_msg">确定删除吗？</string>
 
 </resources>
